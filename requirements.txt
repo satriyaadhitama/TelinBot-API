@@ -1,7 +1,10 @@
 django
 djangorestframework
 django-cors-headers
+django-phonenumber-field
 djangorestframework-simplejwt
 python-dotenv
+phonenumbers
 psycopg2
+Pillow
 Faker
