@@ -95,7 +95,13 @@ class AuthenticationViewSet(viewsets.ViewSet):
             groups_list = list(groups)
 
             return Response(
-                {"id": user.id, "name": user.name, "groups": groups_list},
+                {
+                    "id": user.id,
+                    "first_name": user.first_name,
+                    "last_name": user.last_name,
+                    "position": user.position,
+                    "groups": groups_list,
+                },
                 status=status.HTTP_200_OK,
             )
         else:

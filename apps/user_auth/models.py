@@ -8,7 +8,6 @@ from .managers import UserManager
 
 class User(AbstractUser):
     username = None
-    name = models.CharField(_("Nama lengkap"), max_length=50)
     email = models.EmailField(_("Email"), max_length=254, unique=True)
     phone_number = PhoneNumberField(_("Nomor telepon"))
     position = models.CharField(max_length=100)
@@ -17,7 +16,7 @@ class User(AbstractUser):
     updated_at = models.DateTimeField(auto_now=True, null=True)
 
     USERNAME_FIELD = "email"
-    REQUIRED_FIELDS = ["name", "phone_number", "position"]
+    REQUIRED_FIELDS = ["phone_number", "position"]
 
     objects = UserManager()
 

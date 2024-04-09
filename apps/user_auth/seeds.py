@@ -13,7 +13,8 @@ def seed_superuser():
     email = "admin@email.com"
     if not User.objects.filter(email=email).exists():
         superuser = User.objects.create_superuser(
-            name="admin",
+            first_name="Jack",
+            last_name="Dawson",
             email=email,
             phone_number="+628144023168",
             password="123",
@@ -82,7 +83,8 @@ def seed_groups():
 def seed_users():
     users = [
         {
-            "name": "John",
+            "first_name": "John",
+            "last_name": "Doe",
             "email": "john@email.com",
             "phone_number": "+6285867235034",
             "position": "Frontend Developer",
@@ -90,7 +92,8 @@ def seed_users():
             "group": "Employee",
         },
         {
-            "name": "Jane",
+            "first_name": "Jane",
+            "last_name": "Doe",
             "email": "jane@email.com",
             "phone_number": "+628300394259",
             "position": "Data Analyst",
@@ -103,7 +106,8 @@ def seed_users():
     for user in users:
         if not User.objects.filter(email=user["email"]).exists():
             new_user = User.objects.create_user(
-                name=user["name"],
+                first_name=user["first_name"],
+                last_name=user["last_name"],
                 email=user["email"],
                 phone_number=user["phone_number"],
                 password=user["password"],

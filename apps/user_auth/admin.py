@@ -9,8 +9,8 @@ class UserAdmin(User_Admin):
     add_form = UserCreationForm
     form = UserChangeForm
     model = User
-    list_display = ("email", "name", "is_staff", "is_active", "created_at")
-    list_filter = ("email", "name", "is_staff", "is_active", "created_at")
+    list_display = ("email", "is_staff", "is_active", "created_at")
+    list_filter = ("email", "is_staff", "is_active", "created_at")
     fieldsets = (
         (None, {"fields": ("email", "password", "position")}),
         (
@@ -25,7 +25,6 @@ class UserAdmin(User_Admin):
                 "classes": ("wide",),
                 "fields": (
                     "email",
-                    "name",
                     "password1",
                     "password2",
                     "is_staff",

@@ -3,6 +3,8 @@ from django.core.management import call_command
 from django.utils.termcolors import make_style
 from django.db import transaction
 from dotenv import load_dotenv
+import configparser
+import MySQLdb
 
 import psycopg2
 import os
@@ -23,33 +25,27 @@ class Command(BaseCommand):
             print("Action cancelled.")
             return
 
-        db_name = os.environ.get("DB_NAME")
-        db_user = os.environ.get("DB_USER")
-        db_password = os.environ.get("DB_PASSWORD")
-        db_host = os.environ.get("DB_HOST")
+        # Database Configuration
+        config = configparser.ConfigParser()
+        config.read("db.cnf")
+        # database variables
+        db_host = config["client"]["host"]
+        db_user = config["client"]["user"]
+        db_password = config["client"]["password"]
+        db_name = config["client"]["database"]
 
         try:
-            # Connection string with fallback values
-            conn_string = f"dbname='postgres' user='{db_user}' host='{db_host}' password='{db_password}'"
-            conn = psycopg2.connect(conn_string)
-            conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+            db = MySQLdb.connect(host=db_host, user=db_user, passwd=db_password)
+            cursor = db.cursor()
 
-            cursor = conn.cursor()
-            # Terminate all active connections to the target database
-            cursor.execute(
-                f"""
-            SELECT pg_terminate_backend(pg_stat_activity.pid)
-            FROM pg_stat_activity
-            WHERE pg_stat_activity.datname = '{db_name}'
-            AND pid <> pg_backend_pid();
-            """
-            )
             # Execute the drop database command
             cursor.execute(f"DROP DATABASE IF EXISTS {db_name};")
-            cursor.close()
-            conn.close()
 
-            print(f"Successfully deleted PostgreSQL database: {db_name}")
+            print(f"Successfully deleted database: {db_name}")
 
         except Exception as e:
             print(f"Error deleting database: {e}")
+
+        finally:
+            if db:
+                db.close()

@@ -8,3 +8,4 @@ phonenumbers
 psycopg2
 Pillow
 Faker
+dotenv

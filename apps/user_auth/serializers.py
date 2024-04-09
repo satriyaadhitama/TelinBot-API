@@ -11,7 +11,7 @@ class LoginSerializer(serializers.Serializer):
 
     def validate(self, data):
         print(data["email"])
-        password=data["password"]
+        password = data["password"]
         user = authenticate(email=data["email"], password=data["password"])
         if user is None:
             raise serializers.ValidationError("Invalid login credentials")
@@ -26,7 +26,7 @@ class LoginSerializer(serializers.Serializer):
 class UserSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = User
-        fields = ["id", "name", "email", "phone_number"]
+        fields = ["id", "first_name", "last_name", "email", "phone_number"]
 
 
 class GroupSerializer(serializers.ModelSerializer):
