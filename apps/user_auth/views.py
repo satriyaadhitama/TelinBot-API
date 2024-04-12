@@ -51,18 +51,18 @@ class AuthenticationViewSet(viewsets.ViewSet):
 
     @action(detail=False, methods=[HTTPMethod.POST])
     def verify_token(self, request, *args, **kwargs):
-        token = request.data.get("token")
-        if not token:
+        refresh_token = request.data.get("refresh")
+        if not refresh_token:
             return Response(
                 {"detail": "No token provided."}, status=status.HTTP_400_BAD_REQUEST
             )
 
         try:
             # This will verify the token's validity and check for expiration
-            UntypedToken(token)
+            UntypedToken(refresh_token)
 
             # Check if the token is blacklisted
-            outstanding_token = OutstandingToken.objects.get(token=token)
+            outstanding_token = OutstandingToken.objects.get(token=refresh_token)
             token_id = outstanding_token.id
             if BlacklistedToken.objects.filter(token=token_id).exists():
                 raise InvalidToken("Token is blacklisted")
