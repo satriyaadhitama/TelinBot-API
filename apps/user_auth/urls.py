@@ -14,11 +14,11 @@ urlpatterns = [
     ),
     path("auth/user/groups", AuthenticationViewSet.as_view({"get": "get_groups"}), name="role"),
     path(
-        "auth/token/verify/",
+        "auth/token/verify",
         AuthenticationViewSet.as_view({"post": "verify_token"}),
         name="token_verify",
     ),
-    path("auth/token/refresh/", TokenRefreshView.as_view(), name="token_refresh"),
+    path("auth/token/refresh", TokenRefreshView.as_view(), name="token_refresh"),
     path(
         "users/<int:pk>",
         UserViewSet.as_view({"delete": "destroy"}),

@@ -1,0 +1,1001 @@
+﻿inner_group,region,subgroup1,subgroup,the_group,type_group,amount,date_key,budget,type,date,currency
+Voice Hubbing,Existing Source,Direct Cost,COE,Voice,Trading Wholesale Business,2368199370466,202208,2025964566278.43,YTD,Aug  1 2022 12:00AM,IDR
+IAT,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-154795487,202208,0,MTD,Aug  1 2022 12:00AM,IDR
+MVNO Discount,Existing Source,Revenue,Revenue,MVNO,Retail,596241107,202208,-583014743.589743,MTD,Aug  1 2022 12:00AM,IDR
+MVNO Voice,Existing Source,Revenue,Revenue,MVNO,Retail,-925916301,202208,1177070907.14362,MTD,Aug  1 2022 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,6954200112,202209,7972222384.42974,MTD,Sep  1 2022 12:00AM,IDR
+CDN Infrastructure,Existing Source,Direct Cost,COE,Data,Recurring Business,37516968303,202209,0,YTD,Sep  1 2022 12:00AM,IDR
+IPLC/IEPL,Existing Source,Direct Cost,COE,Data,Recurring Business,188062332266,202209,192024356574.68,YTD,Sep  1 2022 12:00AM,IDR
+iSMS Hubbing,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,1877112441573,202209,1629037609810.79,YTD,Sep  1 2022 12:00AM,IDR
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,566220551,202209,663135576.923077,YTD,Sep  1 2022 12:00AM,IDR
+Personnel Expense,Existing Source,Indirect Cost,COE,Personnel Expense,,379407962407,202209,415337536528.296,YTD,Sep  1 2022 12:00AM,IDR
+Voice Incoming,Existing Source,Direct Cost,COE,Voice,Trading Wholesale Business,4301700869,202209,9296122134.41667,MTD,Sep  1 2022 12:00AM,IDR
+CPaaS,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,159473847,202305,159473847,YTD,May  1 2023 12:00AM,IDR
+Data Center Colocation and Power,Existing Source,Direct Cost,COE,Data Center,Recurring Business,50215837870,202305,50215837870,MTD,May  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,Existing Source,Direct Cost,COE,Data Center,Recurring Business,480846135,202305,480846135,MTD,May  1 2023 12:00AM,IDR
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,180765101924,202305,180765000000,YTD,May  1 2023 12:00AM,IDR
+Marketing Expense,Existing Source,Indirect Cost,COE,Marketing Expense,,6531307869,202305,6531307869,MTD,May  1 2023 12:00AM,IDR
+iSMS Hubbing,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-251620462689,202305,251620029425,MTD,May  1 2023 12:00AM,IDR
+MVNO Discount,Existing Source,Revenue,Revenue,MVNO,Retail,2526043695,202305,-2526043695,YTD,May  1 2023 12:00AM,IDR
+NeuTRAFIX,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-3290333249,202305,3290333249,YTD,May  1 2023 12:00AM,IDR
+Voice Outgoing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-4000941596,202305,4000941596,MTD,May  1 2023 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,25021754225,202306,25809303512,YTD,Jun  1 2023 12:00AM,IDR
+CPaaS,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,19429531,202306,184651706.2,MTD,Jun  1 2023 12:00AM,IDR
+MVNO Digital Retail,Existing Source,Direct Cost,COE,MVNO,Retail,6196778964,202306,78099793.7177,MTD,Jun  1 2023 12:00AM,IDR
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,42473593,202306,78559615.38,MTD,Jun  1 2023 12:00AM,IDR
+MVNO Voice,Existing Source,Direct Cost,COE,MVNO,Retail,192214059,202306,2434971937,MTD,Jun  1 2023 12:00AM,IDR
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,50770509063,202306,47278132852,MTD,Jun  1 2023 12:00AM,IDR
+CDN & Security,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,-38868955916,202306,40412424903,YTD,Jun  1 2023 12:00AM,IDR
+CDN Infrastructure,Existing Source,Revenue,Revenue,Data,Recurring Business,-3523386258,202306,5498957230.6,MTD,Jun  1 2023 12:00AM,IDR
+Other Data,Existing Source,Direct Cost,COE,Data,Recurring Business,10711679547,202403,5017233383,MTD,Mar  1 2024 12:00AM,IDR
+Other Digital,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-1508275038,202308,-3408003.732,MTD,Aug  1 2023 12:00AM,IDR
+Wifi Roaming,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-3934262,202308,10578024.26,MTD,Aug  1 2023 12:00AM,IDR
+Wifi Roaming,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,1568339,202308,-4663935.707,YTD,Aug  1 2023 12:00AM,IDR
+Data Center Colocation and Power,Existing Source,Direct Cost,COE,Data Center,Recurring Business,40887577051,202309,46223789071.7,MTD,Sep  1 2023 12:00AM,IDR
+Data Center Colocation and Power,Existing Source,Direct Cost,COE,Data Center,Recurring Business,446986019734,202309,442734361023,YTD,Sep  1 2023 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,148854907239.697,201703,0,MTD,Mar  1 2017 12:00AM,IDR
+Marketing Expense,Existing Source,Indirect Cost,COE,Marketing Expense,,13836708726.9814,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,1515739034.56919,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-15642518517.3014,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,29403943929.75,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,4081595519.32909,201806,0,MTD,Jun  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,28221909350.5553,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,201807,0,YTD,Jul  1 2018 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201807,0,YTD,Jul  1 2018 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,0,201807,0,YTD,Jul  1 2018 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,0,201807,0,YTD,Jul  1 2018 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,0,201807,0,YTD,Jul  1 2018 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,0,201807,0,YTD,Jul  1 2018 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,2303304540.5096,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-42893908861.1887,202401,53958290850,MTD,Jan  1 2024 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-46177138857.7537,202401,31845511252.9521,MTD,Jan  1 2024 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,13058050622.926,202401,0,MTD,Jan  1 2024 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-388185885.230075,202401,637135650,MTD,Jan  1 2024 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202401,0,YTD,Jan  1 2024 12:00AM,IDR
+Satellite,Existing Source,Direct Cost,COE,Satellite,,0,201806,0,MTD,Jun  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-8372995309,202401,9248889150,YTD,Jan  1 2024 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,28955809011.3812,202401,0,YTD,Jan  1 2024 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-2792537193.49592,202401,2898981300,YTD,Jan  1 2024 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,202401,0,YTD,Jan  1 2024 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-3720330326,202401,0,YTD,Jan  1 2024 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,202401,0,YTD,Jan  1 2024 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,202401,0,YTD,Jan  1 2024 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,34293972796.2779,202212,23781900000,MTD,Dec  1 2022 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,9132394978.03857,202212,5598960000,MTD,Dec  1 2022 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,2750094888.63159,202212,2949770000,MTD,Dec  1 2022 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-37396891098.2435,202212,31255622424.4058,MTD,Dec  1 2022 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,202212,0,YTD,Dec  1 2022 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,-6058227636,202212,0,YTD,Dec  1 2022 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,202212,0,YTD,Dec  1 2022 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,36785032045.9833,202212,36142310000,YTD,Dec  1 2022 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-428029996168.708,202212,367048637251.982,YTD,Dec  1 2022 12:00AM,IDR
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,4095657864,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-21173908,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-2324185277.20762,202301,2828832300,MTD,Jan  1 2023 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,20000,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,1810884441.20563,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,10892266109.1217,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-724592771.754555,202301,613427794,MTD,Jan  1 2023 12:00AM,IDR
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,4095657864,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,0,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-2324185277.20762,202301,2828832300,YTD,Jan  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,20000,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,1810884441.20563,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-3491995790.11159,202301,14390134164,YTD,Jan  1 2023 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,1223910499.13797,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-8177844895.87033,202301,7480062345,YTD,Jan  1 2023 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,976426396.94895,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-2256063424.96591,202301,3335523971,YTD,Jan  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,37516131457.7059,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,-4996187905.7428,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,5037096063.79151,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202302,0,YTD,Feb  1 2023 12:00AM,USD
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-766658.191041371,202302,1129232.4834845,YTD,Feb  1 2023 12:00AM,USD
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,-3468.0672099994,202302,0,YTD,Feb  1 2023 12:00AM,USD
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,6757692.09552885,202302,0,YTD,Feb  1 2023 12:00AM,USD
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-1120.99438942274,202302,0,YTD,Feb  1 2023 12:00AM,USD
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-117630.515575989,202302,0,YTD,Feb  1 2023 12:00AM,USD
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,12663571.980954,201804,0,YTD,Apr  1 2018 12:00AM,USD
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,881743.243808696,201804,0,YTD,Apr  1 2018 12:00AM,USD
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,149949.899768527,201804,0,YTD,Apr  1 2018 12:00AM,USD
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,1270950.97701351,201804,0,YTD,Apr  1 2018 12:00AM,USD
+Other Data,Existing Source,Direct Cost,COE,Data,Recurring Business,237166.962888713,201804,0,YTD,Apr  1 2018 12:00AM,USD
+BPO,Existing Source,Direct Cost,COE,BPO,Others,0,201804,0,YTD,Apr  1 2018 12:00AM,USD
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,-12932.5381342053,202301,0,YTD,Jan  1 2023 12:00AM,USD
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,202301,0,YTD,Jan  1 2023 12:00AM,USD
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,202301,0,YTD,Jan  1 2023 12:00AM,USD
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-163504.765098171,202301,340121.35254902,YTD,Jan  1 2023 12:00AM,USD
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,40762.938984268,202301,0,YTD,Jan  1 2023 12:00AM,USD
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-1158510.17284986,202301,1423542.22386181,YTD,Jan  1 2023 12:00AM,USD
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-47373.7490725662,202301,40093.319869281,YTD,Jan  1 2023 12:00AM,USD
+Managed Services,Existing Source,Direct Cost,COE,Managed Services,,115839.934684111,202205,0,YTD,May  1 2022 12:00AM,USD
+MVNO SMS,Existing Source,Direct Cost,COE,MVNO,Retail,4258.35997322152,202205,9563.27974820516,YTD,May  1 2022 12:00AM,USD
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,2259977.05861099,202205,2256016.99524112,YTD,May  1 2022 12:00AM,USD
+Voice Hubbing,Existing Source,Direct Cost,COE,Voice,Trading Wholesale Business,107714104.899931,202205,88220606.1694704,YTD,May  1 2022 12:00AM,USD
+MNO,Existing Source,Revenue,Revenue,MNO,Retail,-5819191.18005072,202205,5403787.20387652,YTD,May  1 2022 12:00AM,USD
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,52000.1366307596,202301,51983.9523529412,YTD,Jan  1 2023 12:00AM,USD
+Data Center Sale of Equipment and Solution,Existing Source,Direct Cost,COE,Data Center,Recurring Business,24291.0499706441,202301,24283.4897385621,YTD,Jan  1 2023 12:00AM,USD
+Managed Services,Existing Source,Direct Cost,COE,Managed Services,,0,202301,0,YTD,Jan  1 2023 12:00AM,USD
+MVNO SMS,Existing Source,Direct Cost,COE,MVNO,Retail,1377.98999023101,202301,1377.56111111111,YTD,Jan  1 2023 12:00AM,USD
+CDN Infrastructure,Existing Source,Direct Cost,COE,Data,Recurring Business,1712338.57627235,202205,0,YTD,May  1 2022 12:00AM,USD
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,157796.994935306,202301,157747.882941176,YTD,Jan  1 2023 12:00AM,USD
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,37402025895.9661,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,0,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,7987497045.3,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,197023589,201801,0,MTD,Jan  1 2018 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,48920348.9018182,201801,0,MTD,Jan  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,201801,0,YTD,Jan  1 2018 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,0,201801,0,YTD,Jan  1 2018 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,27300782740.0829,201801,0,YTD,Jan  1 2018 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,2121732423.84,201801,0,YTD,Jan  1 2018 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,810185969.039999,201801,0,YTD,Jan  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-197023589,201802,0,MTD,Feb  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201802,0,YTD,Feb  1 2018 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,0,201802,0,YTD,Feb  1 2018 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,0,201802,0,YTD,Feb  1 2018 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,5934914370.1361,201802,0,YTD,Feb  1 2018 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,0,201802,0,YTD,Feb  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+Go Presence,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,0,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201904,0,MTD,Apr  1 2019 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,0,202007,0,YTD,Jul  1 2020 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,20304258102.6717,202008,0,MTD,Aug  1 2020 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,2923530955.67146,202202,3428570000,YTD,Feb  1 2022 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,35859583.4605178,202202,0,YTD,Feb  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-6850823451.1589,202202,0,YTD,Feb  1 2022 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,40000,202202,0,YTD,Feb  1 2022 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,3618477130.36249,202202,3316220000,YTD,Feb  1 2022 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-16664935903.8791,202202,16876940811.0457,YTD,Feb  1 2022 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,1789759377.31025,202202,2676090000,YTD,Feb  1 2022 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,6889574541.24899,202302,0,YTD,Feb  1 2023 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-77334734503.7613,202302,81368558496,YTD,Feb  1 2023 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-13522263899.4288,202302,12765622175.7171,YTD,Feb  1 2023 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,0,201712,0,YTD,Dec  1 2017 12:00AM,USD
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,USD
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,USD
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,USD
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,USD
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,USD
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,531273.039944848,202302,0,YTD,Feb  1 2023 12:00AM,USD
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,295103.825571754,202302,0,YTD,Feb  1 2023 12:00AM,USD
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-305754.321407377,202302,378832,YTD,Feb  1 2023 12:00AM,USD
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,202302,0,YTD,Feb  1 2023 12:00AM,USD
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,2.62938498507716,202302,0,YTD,Feb  1 2023 12:00AM,USD
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,256899.928261581,202302,0,YTD,Feb  1 2023 12:00AM,USD
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-712427.9042839,202302,1879745.53163399,YTD,Feb  1 2023 12:00AM,USD
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,1459946.33845191,202302,0,YTD,Feb  1 2023 12:00AM,USD
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,127559.3412745,202302,0,YTD,Feb  1 2023 12:00AM,USD
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,-18542080.5819336,202205,20193653.7134594,YTD,May  1 2022 12:00AM,USD
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,9577325.56576481,202205,7536982.57839721,YTD,May  1 2022 12:00AM,USD
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,-2296468.6104888,202205,2552485.62327978,YTD,May  1 2022 12:00AM,USD
+MVNO Voice,Existing Source,Direct Cost,COE,MVNO,Retail,528778.417631402,202012,701103.781137666,YTD,Dec  1 2020 12:00AM,USD
+Other Digital,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,5717462.59654364,202012,4453595.69015955,YTD,Dec  1 2020 12:00AM,USD
+MVNO Discount,Existing Source,Revenue,Revenue,MVNO,Retail,494432.620972607,202012,-532115.384615385,YTD,Dec  1 2020 12:00AM,USD
+IP VPN,Existing Source,Revenue,Revenue,Data,Recurring Business,-9595165.85906071,202007,9495971.15614903,YTD,Jul  1 2020 12:00AM,USD
+MNO,Existing Source,Revenue,Revenue,MNO,Retail,-5790895.16000001,202007,5788475.26831469,YTD,Jul  1 2020 12:00AM,USD
+MVNO VAS,Existing Source,Revenue,Revenue,MVNO,Retail,-2817706.28564334,202007,1473252.38483985,YTD,Jul  1 2020 12:00AM,USD
+CDN & Security,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,-13555580849439.6,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IPLC/IEPL,Existing Source,Revenue,Revenue,Data,Recurring Business,7346985370939.25,201703,0,MTD,Mar  1 2017 12:00AM,IDR
+MVNO VAS,Existing Source,Revenue,Revenue,MVNO,Retail,-2136133937.78,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-119141087460.056,201703,0,YTD,Mar  1 2017 12:00AM,IDR
+IPLC/IEPL,Existing Source,Direct Cost,COE,Data,Recurring Business,7987497045.3,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+MVNO Data,Existing Source,Direct Cost,COE,MVNO,Retail,15079585259.6562,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,72942550637.112,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+Other Data,Existing Source,Direct Cost,COE,Data,Recurring Business,11589364555.2682,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+Other Digital,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,3259161457.95313,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Personnel Expense,Existing Source,Indirect Cost,COE,Personnel Expense,,-986886883770.599,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+CDN & Security,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,13538541903923.4,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+iSMS Hubbing,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,0,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+MVNO Data,Existing Source,Revenue,Revenue,MVNO,Retail,-7933294173.23438,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+MVNO SMS,Existing Source,Revenue,Revenue,MVNO,Retail,-221274664.055141,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+MVNO VAS,Existing Source,Revenue,Revenue,MVNO,Retail,-63391598349.8813,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+Other Digital,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-8976904253,201704,0,YTD,Apr  1 2017 12:00AM,IDR
+Voice,Existing Source,Revenue,Revenue,Voice,NULL,-12651580946166.8,201704,0,MTD,Apr  1 2017 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,-10475089830,201705,0,MTD,May  1 2017 12:00AM,IDR
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,195042425691.391,201705,0,YTD,May  1 2017 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,5997008193.18034,201906,0,YTD,Jun  1 2019 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-47952918.3313173,201906,0,MTD,Jun  1 2019 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-90285400.5246445,201906,0,YTD,Jun  1 2019 12:00AM,IDR
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-12916666667,201906,0,MTD,Jun  1 2019 12:00AM,IDR
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-85000000002,201906,0,YTD,Jun  1 2019 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,7246188211,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,40233054516,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+IAT,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,0,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+IAT,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,0,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+MVNO SMS,Existing Source,Direct Cost,COE,MVNO,Retail,10444986.9243694,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,3425852392.66172,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+Satellite,Existing Source,Direct Cost,COE,Satellite,,687322626.740193,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+Satellite,Existing Source,Direct Cost,COE,Satellite,,4439383023.82567,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+Voice,Existing Source,Direct Cost,COE,Voice,,209668497167.68,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-219270769,202309,-246679070.1,MTD,Sep  1 2023 12:00AM,IDR
+Data Center Colocation and Power,Existing Source,Revenue,Revenue,Data Center,Recurring Business,-668456809948,202309,622911215409,YTD,Sep  1 2023 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-152132546709,202309,168870074090,MTD,Sep  1 2023 12:00AM,IDR
+MVNO SMS,Existing Source,Revenue,Revenue,MVNO,Retail,-38423866,202309,20969845.78,MTD,Sep  1 2023 12:00AM,IDR
+NeuTRAFIX,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-5000269207,202309,8554340625,YTD,Sep  1 2023 12:00AM,IDR
+Other Data,Existing Source,Revenue,Revenue,Data,Recurring Business,-9402196841.00001,202309,12043960447,MTD,Sep  1 2023 12:00AM,IDR
+Voice Hubbing,Existing Source,Direct Cost,COE,Voice,Trading Wholesale Business,20602413.1599494,202301,20596013.0718954,YTD,Jan  1 2023 12:00AM,USD
+CDN & Security,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,-319342.514648399,202301,319243.123986928,YTD,Jan  1 2023 12:00AM,USD
+Data Center Sale of Equipment and Solution,Existing Source,Revenue,Revenue,Data Center,Recurring Business,-42423.8800833051,202301,42410.6762745098,YTD,Jan  1 2023 12:00AM,USD
+MVNO VAS,Existing Source,Revenue,Revenue,MVNO,Retail,-231067.150043254,202301,230995.23379085,YTD,Jan  1 2023 12:00AM,USD
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,1550018.20244344,202302,1541172.24856209,YTD,Feb  1 2023 12:00AM,USD
+Wifi Roaming,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-418.213647162246,202309,386.541735359477,YTD,Sep  1 2023 12:00AM,USD
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-11871872.1948627,202012,12065207.8465178,YTD,Dec  1 2020 12:00AM,USD
+G&A Expense,Existing Source,Indirect Cost,COE,G&A Expense,,14423860.188249,202012,18569387.7409812,YTD,Dec  1 2020 12:00AM,USD
+BPO,Existing Source,Revenue,Revenue,BPO,Others,-4830120.4901518,202012,6162624.77447787,YTD,Dec  1 2020 12:00AM,USD
+IP VPN,Existing Source,Revenue,Revenue,Data,Recurring Business,-16992850.2490363,202012,16882124.9605397,YTD,Dec  1 2020 12:00AM,USD
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,7731336.39937069,202007,8112227.95066639,YTD,Jul  1 2020 12:00AM,USD
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,484054.762727273,202007,608713.716114291,YTD,Jul  1 2020 12:00AM,USD
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,67223.6500000001,202007,40485.5769230769,YTD,Jul  1 2020 12:00AM,USD
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,20169349.3889506,202007,26490087.4572795,YTD,Jul  1 2020 12:00AM,USD
+Other Data,Existing Source,Direct Cost,COE,Data,Recurring Business,4645498.99904914,202007,4172702.71629478,YTD,Jul  1 2020 12:00AM,USD
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,22765474.6971332,202310,23914444.4444444,YTD,Oct  1 2023 12:00AM,USD
+MVNO Digital Retail,Existing Source,Direct Cost,COE,MVNO,Retail,3972865.58674875,202310,1845619.33944693,YTD,Oct  1 2023 12:00AM,USD
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,36149.0599990187,202310,48275.1749607843,YTD,Oct  1 2023 12:00AM,USD
+NeuTRAFIX,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,25000.0600065829,202310,89879.6326143791,YTD,Oct  1 2023 12:00AM,USD
+Other Data,Existing Source,Direct Cost,COE,Data,Recurring Business,3420279.75477104,202310,4000911.96261438,YTD,Oct  1 2023 12:00AM,USD
+IPX,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-1641349.61407933,202310,961750.681960784,YTD,Oct  1 2023 12:00AM,USD
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,17705170.1232033,201806,0,YTD,Jun  1 2018 12:00AM,USD
+Data Center Colocation and Power,Existing Source,Direct Cost,COE,Data Center,Recurring Business,21474285.3651074,202111,15669219.3256324,YTD,Nov  1 2021 12:00AM,USD
+BPO,Existing Source,Direct Cost,COE,BPO,Others,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+IAT,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,3091205.27602332,202111,1937853.12328767,YTD,Nov  1 2021 12:00AM,USD
+iSMS Hubbing,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,131729275.187417,202111,89620100.0279514,YTD,Nov  1 2021 12:00AM,USD
+MVNO Digital Retail,Existing Source,Direct Cost,COE,MVNO,Retail,281627.003248817,202111,686089.18211613,YTD,Nov  1 2021 12:00AM,USD
+MVNO Voice,Existing Source,Direct Cost,COE,MVNO,Retail,342353.088063827,202111,458201.215466488,YTD,Nov  1 2021 12:00AM,USD
+BPO,Existing Source,Revenue,Revenue,BPO,Others,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+Data Center,Existing Source,Revenue,Revenue,Data Center,NULL,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+IP VPN,Existing Source,Revenue,Revenue,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+MVNO Data,Existing Source,Revenue,Revenue,MVNO,Retail,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+Marketing Expense,Existing Source,Indirect Cost,COE,Marketing Expense,,2043606.54006913,201905,0,YTD,May  1 2019 12:00AM,USD
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,1016448.51978632,201905,0,YTD,May  1 2019 12:00AM,USD
+IAT,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-13095.3412812486,201905,0,YTD,May  1 2019 12:00AM,USD
+IAT,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,1164780.08913044,202007,1222756.31013678,YTD,Jul  1 2020 12:00AM,USD
+MVNO Voice,Existing Source,Direct Cost,COE,MVNO,Retail,309452.363359795,202007,428932.528546258,YTD,Jul  1 2020 12:00AM,USD
+Personnel Expense,Existing Source,Indirect Cost,COE,Personnel Expense,,16961225.9240672,202007,18327238.8586717,YTD,Jul  1 2020 12:00AM,USD
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-47017297.1550395,202007,49115733.3291338,YTD,Jul  1 2020 12:00AM,USD
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,11046267989.7987,202008,0,MTD,Aug  1 2020 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-30303056445.7695,202008,0,MTD,Aug  1 2020 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,9963006043.67213,202008,0,MTD,Aug  1 2020 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,202008,0,YTD,Aug  1 2020 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,202008,0,YTD,Aug  1 2020 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,202008,0,YTD,Aug  1 2020 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,202008,0,YTD,Aug  1 2020 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,202008,0,YTD,Aug  1 2020 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,0,202008,0,YTD,Aug  1 2020 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201709,0,YTD,Sep  1 2017 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201709,0,YTD,Sep  1 2017 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201709,0,YTD,Sep  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201709,0,YTD,Sep  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201709,0,YTD,Sep  1 2017 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,31435178788.1912,201710,0,MTD,Oct  1 2017 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-41164910,202001,0,MTD,Jan  1 2020 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-18425616527.1016,202001,0,MTD,Jan  1 2020 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,0,202001,0,YTD,Jan  1 2020 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-5646391828.77814,202002,0,MTD,Feb  1 2020 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,0,202002,0,YTD,Feb  1 2020 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,0,202002,0,YTD,Feb  1 2020 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-42887694,202003,0,MTD,Mar  1 2020 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-25842554483.2184,202003,0,MTD,Mar  1 2020 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,-292350442.429132,202206,0,YTD,Jun  1 2022 12:00AM,IDR
+Satellite,Existing Source,Direct Cost,COE,Satellite,,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+Voice,Existing Source,Direct Cost,COE,Voice,,239022119404.024,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+Wifi Roaming,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,0,201808,0,MTD,Aug  1 2018 12:00AM,IDR
+MVNO Voice,Existing Source,Revenue,Revenue,MVNO,Retail,0,201808,0,MTD,Aug  1 2018 12:00AM,IDR
+Other Digital,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-21959730,201808,0,MTD,Aug  1 2018 12:00AM,IDR
+BPO,Existing Source,Direct Cost,COE,BPO,Others,1227787862.11246,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,0,201809,0,MTD,Sep  1 2018 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,31735073686.8696,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,685762763.781914,201809,0,MTD,Sep  1 2018 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,5402402037.96335,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,0,201809,0,MTD,Sep  1 2018 12:00AM,IDR
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,118980761221.413,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Satellite,Existing Source,Direct Cost,COE,Satellite,,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,2931600359.47927,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+iSMS Hubbing,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,395086711509.609,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,191202371.060473,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+MVNO Voice,Existing Source,Direct Cost,COE,MVNO,Retail,1384447620.66442,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+Personnel Expense,Existing Source,Indirect Cost,COE,Personnel Expense,,228794892004.863,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+CDN & Security,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,-51666824323.5108,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,5141238822.13438,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,66133580.9945255,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,-1954793.02519239,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,0,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-19548034702.2823,202306,33371152940,YTD,Jun  1 2023 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,-16966868334.2004,202306,18063590118,YTD,Jun  1 2023 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,45044399622.5162,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-4239012409.22431,202306,5224528445,YTD,Jun  1 2023 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-5459995239.7165,202305,14368479315,MTD,May  1 2023 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,835868195.148889,202305,0,MTD,May  1 2023 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-2158536705.25404,202305,4159135512,MTD,May  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,628776675.927364,202305,0,YTD,May  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,3705353296.26346,202305,0,YTD,May  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,303774782.531172,202305,0,YTD,May  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-4574074654.23421,202305,0,YTD,May  1 2023 12:00AM,IDR
+Go Presence,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,202305,0,YTD,May  1 2023 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,12169965855.0563,202305,0,YTD,May  1 2023 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-46173802888.3054,202305,39198056122.7917,YTD,May  1 2023 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,5174243589.29286,202305,0,YTD,May  1 2023 12:00AM,IDR
+Other Voice,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-16522822,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Voice Hubbing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-340670499831,202309,257945000000,MTD,Sep  1 2023 12:00AM,IDR
+Voice Outgoing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-4231538799,202309,3220893499,MTD,Sep  1 2023 12:00AM,IDR
+Business Solution Provider,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,3346427,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,1547911100,202310,7262908972,MTD,Oct  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,Existing Source,Direct Cost,COE,Data Center,Recurring Business,7224760657,202310,14112310699,YTD,Oct  1 2023 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,10380770608,202310,11193635955,MTD,Oct  1 2023 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,110091485555,202310,110666000000,YTD,Oct  1 2023 12:00AM,IDR
+Managed Services,Existing Source,Direct Cost,COE,Managed Services,,0,202310,0,YTD,Oct  1 2023 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,1637393258,202310,2272997587.9,MTD,Oct  1 2023 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-1632296214,202207,394876576.166329,YTD,Jul  1 2022 12:00AM,IDR
+Data Center Colocation and Power,Existing Source,Revenue,Revenue,Data Center,Recurring Business,-62588013700,202207,56547624948.0556,MTD,Jul  1 2022 12:00AM,IDR
+Data Center Colocation and Power,Existing Source,Revenue,Revenue,Data Center,Recurring Business,-410050415189,202207,388516522228.982,YTD,Jul  1 2022 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-187579357061,202207,174270259183.911,MTD,Jul  1 2022 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-1279693820397,202207,1137354356605.88,YTD,Jul  1 2022 12:00AM,IDR
+Other Data,Existing Source,Revenue,Revenue,Data,Recurring Business,-9049582920,202207,9276146521.07326,MTD,Jul  1 2022 12:00AM,IDR
+Other Data,Existing Source,Revenue,Revenue,Data,Recurring Business,-60630892864,202207,62550751112.2069,YTD,Jul  1 2022 12:00AM,IDR
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-14416666667,202207,14416666666.6667,MTD,Jul  1 2022 12:00AM,IDR
+Voice Hubbing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-260042316512,202207,257299152622.045,MTD,Jul  1 2022 12:00AM,IDR
+Voice Hubbing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-2115921750998,202207,1779186362135.49,YTD,Jul  1 2022 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,5651563348,202208,7463940049.60035,MTD,Aug  1 2022 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,48142795994,202208,56738385066.4616,YTD,Aug  1 2022 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,87138281219,202208,86148626904.3017,YTD,Aug  1 2022 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,1260407302,202208,1667628927.14706,MTD,Aug  1 2022 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,6691682634,202208,7444475667.12682,MTD,Aug  1 2022 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-1869131863,202208,451285465.618661,YTD,Aug  1 2022 12:00AM,IDR
+BPO,Existing Source,Revenue,Revenue,BPO,Others,-25881111774,202208,13577630944.997,YTD,Aug  1 2022 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-1464671874845,202208,1316390956808.69,YTD,Aug  1 2022 12:00AM,IDR
+MVNO Digital Retail,Existing Source,Revenue,Revenue,MVNO,Retail,-391572738,202208,98872861.410256,MTD,Aug  1 2022 12:00AM,IDR
+MVNO SMS,Existing Source,Revenue,Revenue,MVNO,Retail,-427994224,202208,338512820.512821,YTD,Aug  1 2022 12:00AM,IDR
+MVNO Voice,Existing Source,Revenue,Revenue,MVNO,Retail,-793678282,202303,793678282,MTD,Mar  1 2023 12:00AM,IDR
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,33819115257,202304,33819115257,MTD,Apr  1 2023 12:00AM,IDR
+MVNO Digital Retail,Existing Source,Direct Cost,COE,MVNO,Retail,21730782184,202304,21730782184,YTD,Apr  1 2023 12:00AM,IDR
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,224161942,202304,224161942,YTD,Apr  1 2023 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,7220203444,202311,7262908972,MTD,Nov  1 2023 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,62700543545,202311,62240565920,YTD,Nov  1 2023 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,121019260026,202311,121859000000,YTD,Nov  1 2023 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,1491327384,202311,2277115369.9,MTD,Nov  1 2023 12:00AM,IDR
+IPLC/IEPL,Existing Source,Revenue,Revenue,Data,Recurring Business,-14898422.7957834,202007,11431665.4091935,YTD,Jul  1 2020 12:00AM,USD
+MVNO Voice,Existing Source,Revenue,Revenue,MVNO,Retail,-1148594.56591387,202007,1197913.65081922,YTD,Jul  1 2020 12:00AM,USD
+Other Data,Existing Source,Revenue,Revenue,Data,Recurring Business,-6575428.30967537,202007,3728850.96623793,YTD,Jul  1 2020 12:00AM,USD
+Managed Service,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-1.67989896230161E-10,201905,0,YTD,May  1 2019 12:00AM,USD
+IP Transit,Existing Source,Direct Cost,COE,Data,Recurring Business,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,0,201710,0,YTD,Oct  1 2017 12:00AM,USD
+Voice,Existing Source,Direct Cost,COE,Voice,,623347471574.483,202002,485392512961.171,YTD,Feb  1 2020 12:00AM,IDR
+Wifi Roaming,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,0,202002,0,MTD,Feb  1 2020 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,0,202002,165024000,YTD,Feb  1 2020 12:00AM,IDR
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,2425277436.22942,202012,999415384.61538,YTD,Dec  1 2020 12:00AM,IDR
+MVNO SMS,Existing Source,Direct Cost,COE,MVNO,Retail,313324.598189327,202012,53500148.567353,MTD,Dec  1 2020 12:00AM,IDR
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,451365706707.48,202012,629192327792.358,YTD,Dec  1 2020 12:00AM,IDR
+Data Center,Existing Source,Revenue,Revenue,Data Center,NULL,-71064580242.6702,202012,46567520076.3077,MTD,Dec  1 2020 12:00AM,IDR
+Go Presence,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,34021913,202012,56993670.867931,MTD,Dec  1 2020 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,-1954793.02519239,202308,0,YTD,Aug  1 2023 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,19475129894.5234,202308,0,YTD,Aug  1 2023 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-1136739157783.9,202308,1119420442789.1,YTD,Aug  1 2023 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,-57673196609.956,202308,84194937423,YTD,Aug  1 2023 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,6739685685.11223,202308,0,YTD,Aug  1 2023 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-17876202873.9699,202308,32654747353,YTD,Aug  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-19933273345,202309,13450359007.131,MTD,Sep  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,789303147.089206,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,90708883.8161113,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,12662940.7642048,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,544373487.464442,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,5701177516.83997,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,82206752490.5801,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,-26279341335.7935,202309,27090044076,YTD,Sep  1 2023 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,53142180990.2552,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,26742970028.3715,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,202403,0,MTD,Mar  1 2024 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,7296878226.49332,202403,0,MTD,Mar  1 2024 12:00AM,IDR
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,15330275397.2093,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,9488440449.62515,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,5925316749.5118,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-18728032398.2694,202403,21991137750,YTD,Mar  1 2024 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-417974336795.849,202403,445020509836.05,YTD,Mar  1 2024 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,46120881754.2116,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,-28368667073.8532,202403,32853971550,YTD,Mar  1 2024 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,1356375428.36721,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-613633763.442155,202206,0,YTD,Jun  1 2022 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,43482237942.3597,201811,0,MTD,Nov  1 2018 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,1726654274.06089,201811,0,MTD,Nov  1 2018 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201811,0,YTD,Nov  1 2018 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,201811,0,YTD,Nov  1 2018 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201811,0,YTD,Nov  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201811,0,YTD,Nov  1 2018 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,0,201811,0,YTD,Nov  1 2018 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,0,201811,0,YTD,Nov  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,54818828494.6938,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,0,201810,0,YTD,Oct  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201811,0,YTD,Nov  1 2018 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-1649394505.01033,202102,0,MTD,Feb  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-852889812.537635,202102,0,MTD,Feb  1 2021 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-8622749439.09572,202102,0,MTD,Feb  1 2021 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,1082068717.37321,202102,0,MTD,Feb  1 2021 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-7007871772.98312,202102,0,MTD,Feb  1 2021 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-571305893.600039,202102,0,MTD,Feb  1 2021 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-1647503510.98213,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-21580000,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-1998388637.30353,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,692416462.152424,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-14195605146.633,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-7886480324,202306,9450359007.13097,MTD,Jun  1 2023 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,-67846503.2452497,202306,0,MTD,Jun  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,97532762.7209312,202306,0,MTD,Jun  1 2023 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-6907800282.00311,202306,14368672546,MTD,Jun  1 2023 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,363168178.132576,202306,0,MTD,Jun  1 2023 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,804802675.318535,202306,0,MTD,Jun  1 2023 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-2583420835.55597,202306,5459826613,MTD,Jun  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,366461082.786904,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,4457244598.23523,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,401307545.252103,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-5436630021.8809,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-867506240127.13,202306,833789491364.138,YTD,Jun  1 2023 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,54627956996.1199,202306,0,YTD,Jun  1 2023 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,154650339283.393,202303,0,YTD,Mar  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-7022039873.80511,202303,8901891900,YTD,Mar  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-34214183.4188452,202303,0,YTD,Mar  1 2023 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,202303,0,YTD,Mar  1 2023 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,2095282968.07683,202303,0,YTD,Mar  1 2023 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,-27102718.4057585,202304,0,MTD,Apr  1 2023 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,51808413012.4839,202304,0,MTD,Apr  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-16734691.9812581,202304,0,MTD,Apr  1 2023 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,888602250.933954,202103,0,YTD,Mar  1 2021 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-37109982982.4527,202103,0,YTD,Mar  1 2021 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,3295.316964012,202104,0,MTD,Apr  1 2021 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-161565616354.476,202104,0,MTD,Apr  1 2021 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-5137696641.56003,202104,0,MTD,Apr  1 2021 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,0,202104,0,YTD,Apr  1 2021 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,-235397816354.758,202104,0,YTD,Apr  1 2021 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,3295.316964012,202104,0,YTD,Apr  1 2021 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-644888857898.724,202104,0,YTD,Apr  1 2021 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,-10564686089.1864,202104,0,YTD,Apr  1 2021 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,1040549666.48335,202104,0,YTD,Apr  1 2021 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-23649108291.2523,202104,0,YTD,Apr  1 2021 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,2429471845.23526,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-8422979838.00056,202301,7859043554.35834,MTD,Jan  1 2023 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,-7157813239.66212,202301,8327968640,MTD,Jan  1 2023 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,1025740666.25716,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,-31234525.5671279,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,31669928872.5591,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,10044289954.4419,202301,0,YTD,Jan  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,3353916437,202302,0,MTD,Feb  1 2023 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,50068740568.3801,202302,0,MTD,Feb  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-17053332.1789672,202302,0,MTD,Feb  1 2023 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-167069934583.618,202302,137906682374.269,MTD,Feb  1 2023 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,3499266670.82411,202302,0,MTD,Feb  1 2023 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-38618500942.4341,202302,40030704545,MTD,Feb  1 2023 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-6695373844.14923,202302,6273011424.35853,MTD,Feb  1 2023 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,202302,0,YTD,Feb  1 2023 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,-6771308970,202302,8969046077.98879,YTD,Feb  1 2023 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,-131811618314.044,202302,130559926172.39,YTD,Feb  1 2023 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,63026992443.2607,202302,0,YTD,Feb  1 2023 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,-14323145.581517,202308,0,MTD,Aug  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,788109529.857766,202308,0,MTD,Aug  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,81133249.9227607,202308,0,MTD,Aug  1 2023 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-6791142640.99982,202308,14367661624,MTD,Aug  1 2023 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,614230971.202739,202308,0,MTD,Aug  1 2023 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,651009386.553334,202308,0,MTD,Aug  1 2023 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-3055442597.18175,202308,4848451712,MTD,Aug  1 2023 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,21397408202.3847,202308,0,YTD,Aug  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,6027513439.48924,202308,0,YTD,Aug  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,585041522.885937,202308,0,YTD,Aug  1 2023 12:00AM,IDR
+IPLC/IEPL,Existing Source,Direct Cost,COE,Data,Recurring Business,21827510214,202205,19298310513.7731,MTD,May  1 2022 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,1065062922,202205,1738768207.28513,MTD,May  1 2022 12:00AM,IDR
+MVNO Data,Existing Source,Direct Cost,COE,MVNO,Retail,16267952793,202205,18472897764.0146,YTD,May  1 2022 12:00AM,IDR
+MVNO SMS,Existing Source,Direct Cost,COE,MVNO,Retail,14242062,202205,27316780.75341,MTD,May  1 2022 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,7083654757,202205,6795776614.63471,MTD,May  1 2022 12:00AM,IDR
+NeuTRAFIX,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,242563030,202205,210609605.625532,MTD,May  1 2022 12:00AM,IDR
+Other Data,Existing Source,Revenue,Revenue,Data,Recurring Business,-8898653234,202201,8929778262.07326,YTD,Jan  1 2022 12:00AM,IDR
+Other Digital,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-511830352,202201,97916999.299955,MTD,Jan  1 2022 12:00AM,IDR
+Voice Incoming,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-315898533624,202201,9772905004.19565,MTD,Jan  1 2022 12:00AM,IDR
+CDN Infrastructure,Existing Source,Direct Cost,COE,Data,Recurring Business,5493794866,202202,0,MTD,Feb  1 2022 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,2806937143,202311,5791593415,MTD,Nov  1 2023 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,24214506743,202311,45563210928,YTD,Nov  1 2023 12:00AM,IDR
+Other Digital,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,63157902.9999999,202206,0,MTD,Jun  1 2022 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-233400284,202206,56408889.452333,MTD,Jun  1 2022 12:00AM,IDR
+Data Center Colocation and Power,Existing Source,Revenue,Revenue,Data Center,Recurring Business,-347462401489,202206,331968897280.926,YTD,Jun  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,Existing Source,Revenue,Revenue,Data Center,Recurring Business,-1025661348,202206,5317636450,MTD,Jun  1 2022 12:00AM,IDR
+IAT,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-670895221,202206,0,YTD,Jun  1 2022 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-180793066766,202206,174071181357.363,MTD,Jun  1 2022 12:00AM,IDR
+MVNO SMS,Existing Source,Revenue,Revenue,MVNO,Retail,-48253864,202206,42314102.564103,MTD,Jun  1 2022 12:00AM,IDR
+Other Data,Existing Source,Revenue,Revenue,Data,Recurring Business,-9118867588,202206,8868218065.22487,MTD,Jun  1 2022 12:00AM,IDR
+Voice Hubbing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-303166615942,202206,249319594127.304,MTD,Jun  1 2022 12:00AM,IDR
+Voice Outgoing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-4813040360,202206,2724125941.86276,MTD,Jun  1 2022 12:00AM,IDR
+BPO,Existing Source,Direct Cost,COE,BPO,Others,2729585193,202207,0,MTD,Jul  1 2022 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,6870906017,202207,7463940049.60035,MTD,Jul  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,Existing Source,Direct Cost,COE,Data Center,Recurring Business,7785604341,202207,35476835429,YTD,Jul  1 2022 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,11256286012,202207,10848890093.0002,MTD,Jul  1 2022 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,75948695050,202207,75233736811.0015,YTD,Jul  1 2022 12:00AM,IDR
+Managed Services,Existing Source,Direct Cost,COE,Managed Services,,0,202207,0,YTD,Jul  1 2022 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,1161542144,202207,1649085757.69051,MTD,Jul  1 2022 12:00AM,IDR
+MVNO SMS,Existing Source,Direct Cost,COE,MVNO,Retail,83269116,202207,191676399.065704,YTD,Jul  1 2022 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,6775943256,202207,7225362119.74626,MTD,Jul  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,3766792657.63058,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-21244673621.7967,202403,23548119150,YTD,Mar  1 2024 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,23115039210.4785,202403,0,YTD,Mar  1 2024 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,0,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,4857276831.69198,201804,0,MTD,Apr  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201805,0,MTD,May  1 2018 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,2946053866.53418,201805,0,MTD,May  1 2018 12:00AM,IDR
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-8239053883.16805,202403,5961319800,YTD,Mar  1 2024 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-1966357253.73063,202208,3914225621.9086,MTD,Aug  1 2022 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-7429525167.80728,202208,6637256160.76962,MTD,Aug  1 2022 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,-32293023367,202208,0,YTD,Aug  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,202208,0,YTD,Aug  1 2022 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,3480631.47903495,202208,0,YTD,Aug  1 2022 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,15815321147.2456,202208,14636590000,YTD,Aug  1 2022 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-140048993844.677,202208,113693129102.835,YTD,Aug  1 2022 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,6898923453.87762,202208,11065150000,YTD,Aug  1 2022 12:00AM,IDR
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,4008113135.03514,202209,3727930000,MTD,Sep  1 2022 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,5591059576,202209,0,MTD,Sep  1 2022 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,-5523640603,202209,0,MTD,Sep  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,715978803.359658,202209,0,MTD,Sep  1 2022 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,-278.806726808455,202209,0,MTD,Sep  1 2022 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,202209,0,MTD,Sep  1 2022 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,17999703472.4238,202209,29412500000,MTD,Sep  1 2022 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,-2840314015.60013,202209,1841233835.26068,MTD,Sep  1 2022 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,2429484622.73438,202201,3404380000,MTD,Jan  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,264310619.278209,202201,0,MTD,Jan  1 2022 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-164478995916.517,202201,129066140556.256,MTD,Jan  1 2022 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-21680222,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-8088815149.99999,202310,8432033583.40215,MTD,Oct  1 2023 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,1689177.92782883,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-1679247513,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,1701243675.69275,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,14976197914.0451,202310,0,YTD,Oct  1 2023 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-77244221818.5923,202310,74190774206,YTD,Oct  1 2023 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,-3769444925,202311,4484523038.99439,MTD,Nov  1 2023 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,202311,0,MTD,Nov  1 2023 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,2143849960.84647,202311,0,MTD,Nov  1 2023 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-9979516699.62792,202311,7859043554.35834,MTD,Nov  1 2023 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,1220400512.73805,202311,0,MTD,Nov  1 2023 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,2641884.31795062,202311,0,YTD,Nov  1 2023 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-230689975.974687,202311,0,YTD,Nov  1 2023 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,-2175868750,202311,0,YTD,Nov  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,-255325922.763418,202311,0,YTD,Nov  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,105155758.182212,202311,0,YTD,Nov  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,-1954793.02519239,202311,0,YTD,Nov  1 2023 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-34985795046.5096,202311,61478467292,YTD,Nov  1 2023 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-8480544813.73376,202311,10469797922,YTD,Nov  1 2023 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-43083140846.5189,202102,0,YTD,Feb  1 2021 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-3106772760.42182,202201,5237503934,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,-12504453.1588562,202201,0,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,264310619.278209,202201,0,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,25941836982.4528,202207,22488800000,MTD,Jul  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-56160844.496933,202207,0,MTD,Jul  1 2022 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,39040775707.6061,202207,26787000000,MTD,Jul  1 2022 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,9450940039.92021,202207,5534100000,MTD,Jul  1 2022 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,3100930277.44388,202207,2962610000,MTD,Jul  1 2022 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-34485135415.8725,202207,30109334775.5446,MTD,Jul  1 2022 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,1324827217.29792,202207,3216970000,MTD,Jul  1 2022 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202207,1884225000,YTD,Jul  1 2022 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,202207,0,YTD,Jul  1 2022 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,-4398025989,202207,0,YTD,Jul  1 2022 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,190722436182.225,202207,182329900000,YTD,Jul  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-669794607.939088,202207,0,YTD,Jul  1 2022 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,202207,0,YTD,Jul  1 2022 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,19206605118.611,202207,21370710000,YTD,Jul  1 2022 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-239045989440.72,202207,213647917286.624,YTD,Jul  1 2022 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,991474064.669236,202208,4069330000,MTD,Aug  1 2022 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,1170549709,202208,0,MTD,Aug  1 2022 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,-66142854266.4904,202208,58353845590.9619,MTD,Aug  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,3898298683.64552,202208,0,MTD,Aug  1 2022 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-175921369640.162,202208,159997924349.734,MTD,Aug  1 2022 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,-2946418907.77843,202208,1841233835.26068,MTD,Aug  1 2022 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-6878084493.94076,202208,5826902421.25,MTD,Aug  1 2022 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,-449284237884.248,202208,459583185616.584,YTD,Aug  1 2022 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,242021406911.749,202208,189399500000,YTD,Aug  1 2022 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,-53996845291.8996,202208,59360436082.3585,YTD,Aug  1 2022 12:00AM,IDR
+CDN & Security,ENLA,Direct Cost,COE,Digital Business,Recurring Business,7001062549.57292,202105,0,MTD,May  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,200250307.106957,202105,0,MTD,May  1 2021 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,1022479813.67413,202105,0,MTD,May  1 2021 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-7236388387.79949,202105,0,MTD,May  1 2021 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,202105,0,YTD,May  1 2021 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,5402692521.11088,202105,0,YTD,May  1 2021 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,1787873566.73337,202105,0,YTD,May  1 2021 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-35604274891.7118,202105,0,YTD,May  1 2021 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-86358103338.1591,202105,0,YTD,May  1 2021 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-2651425592,202106,0,MTD,Jun  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-1332508705.92268,202106,0,MTD,Jun  1 2021 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,0,201701,0,YTD,Jan  1 2017 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,21716974007.2812,201702,0,MTD,Feb  1 2017 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,-122260082433.794,201702,0,MTD,Feb  1 2017 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,0,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,8904860616.99632,201803,0,YTD,Mar  1 2018 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201804,0,MTD,Apr  1 2018 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,30687892286.0644,201804,0,MTD,Apr  1 2018 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,760582643.848953,201804,0,MTD,Apr  1 2018 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,0,201804,0,YTD,Apr  1 2018 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,1627036.66190198,201805,0,MTD,May  1 2018 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-53529942406.3625,201805,0,MTD,May  1 2018 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-3977189941.31819,202206,3764985621.9086,MTD,Jun  1 2022 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,13131798,202206,0,MTD,Jun  1 2022 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-4610871257.50179,202206,7353805477.64048,MTD,Jun  1 2022 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-5077466052.48304,202206,6637256160.76962,MTD,Jun  1 2022 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-11955163685.754,202206,31283780191.786,YTD,Jun  1 2022 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,-21480403604,202206,0,YTD,Jun  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,202206,0,YTD,Jun  1 2022 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,3440631.47903495,202206,0,YTD,Jun  1 2022 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-41900957166.1788,202206,43663045406.1112,YTD,Jun  1 2022 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,6378712610.75292,202206,6921710000,YTD,Jun  1 2022 12:00AM,IDR
+IP VPN,ENLA,Revenue,Revenue,Data,Recurring Business,-41562280081.0993,202206,39802011964.6177,YTD,Jun  1 2022 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-4863245889,202301,8432033583.40215,MTD,Jan  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,371537393,202301,0,MTD,Jan  1 2023 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201903,0,MTD,Mar  1 2019 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-98867827694.6014,201903,0,MTD,Mar  1 2019 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-15113486253.5904,201903,0,MTD,Mar  1 2019 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201903,0,YTD,Mar  1 2019 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201903,0,YTD,Mar  1 2019 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-22314709339.0472,201904,0,MTD,Apr  1 2019 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Direct Cost,COE,Data Center,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,54072749379.1942,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,31480217123.2409,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,0,201904,0,YTD,Apr  1 2019 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,0,202005,0,YTD,May  1 2020 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Go Presence,SEAN,Direct Cost,COE,Digital Business,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+IP Transit,ROAM,Direct Cost,COE,Data,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+IPLC/IEPL,SEAN,Direct Cost,COE,Data,Recurring Business,22259420922.7477,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,0,201808,0,MTD,Aug  1 2018 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,0,201808,0,YTD,Aug  1 2018 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,39328055363.6103,201809,0,MTD,Sep  1 2018 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,31927008180.9299,201707,0,MTD,Jul  1 2017 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,22459370865.7883,201707,0,MTD,Jul  1 2017 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,1053852172.28121,201707,0,MTD,Jul  1 2017 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,0,201707,0,YTD,Jul  1 2017 12:00AM,IDR
+Voice,Existing Source,Direct Cost,COE,Voice,,84916531381.6991,201702,0,MTD,Feb  1 2017 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-745104007.57325,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+IPLC/IEPL,Existing Source,Revenue,Revenue,Data,Recurring Business,-7391998667772.1,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+Managed Service,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,23657427105.55,201702,0,MTD,Feb  1 2017 12:00AM,IDR
+Other Data,Existing Source,Revenue,Revenue,Data,Recurring Business,-35000639,201702,0,YTD,Feb  1 2017 12:00AM,IDR
+BPO,Existing Source,Direct Cost,COE,BPO,Others,5920928412.38192,201703,0,MTD,Mar  1 2017 12:00AM,IDR
+Data Center,Existing Source,Direct Cost,COE,Data Center,,12159660776.029,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,11445467281.6093,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+IPLC/IEPL,Existing Source,Direct Cost,COE,Data,Recurring Business,64911137793.4658,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+MVNO Data,Existing Source,Direct Cost,COE,MVNO,Retail,3930120556.43803,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,24803249049.0532,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Wifi Roaming,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,0,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,706736893.249225,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,607974551.828319,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+MVNO SMS,Existing Source,Revenue,Revenue,MVNO,Retail,-1312263145.40979,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-14401147000.1741,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-114100871210.782,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Voice,Existing Source,Revenue,Revenue,Voice,NULL,-292586600734.926,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,5676339590,201909,0,MTD,Sep  1 2019 12:00AM,IDR
+G&A Expense,Existing Source,Indirect Cost,COE,G&A Expense,,141612543456.378,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+IAT,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,0,201909,0,MTD,Sep  1 2019 12:00AM,IDR
+BPO,Existing Source,Revenue,Revenue,BPO,Others,-11434226004.7394,201909,0,MTD,Sep  1 2019 12:00AM,IDR
+BPO,Existing Source,Revenue,Revenue,BPO,Others,-113402379705.246,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+IP Transit,Existing Source,Revenue,Revenue,Data,Recurring Business,-102688317579.323,201909,0,MTD,Sep  1 2019 12:00AM,IDR
+IAT,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-230446878.815345,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+Managed Service,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-119649063.985447,201907,0,YTD,Jul  1 2019 12:00AM,IDR
+MVNO SMS,Existing Source,Revenue,Revenue,MVNO,Retail,-142152950.978298,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+Voice,Existing Source,Revenue,Revenue,Voice,NULL,-206835535050.281,201907,0,MTD,Jul  1 2019 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,43073137564,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+G&A Expense,Existing Source,Indirect Cost,COE,G&A Expense,,16995043328.4152,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+Managed Services,Existing Source,Direct Cost,COE,Managed Services,,2910300679.44514,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+MVNO SMS,Existing Source,Direct Cost,COE,MVNO,Retail,523320673.512079,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Voice,Existing Source,Direct Cost,COE,Voice,,2434501635706.29,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Wifi Roaming,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,0,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+Go Presence,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,-67399388,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+IP VPN,Existing Source,Revenue,Revenue,Data,Recurring Business,-24358698305.2319,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+iSMS Hubbing,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-60141944765.9679,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+MVNE,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,111100997.734349,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+MVNO VAS,Existing Source,Revenue,Revenue,MVNO,Retail,-31456285867.6614,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+Other Digital,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-460651313.887982,201908,0,MTD,Aug  1 2019 12:00AM,IDR
+Voice,Existing Source,Revenue,Revenue,Voice,NULL,-2481884809774.09,201908,0,YTD,Aug  1 2019 12:00AM,IDR
+IP VPN,Existing Source,Direct Cost,COE,Data,Recurring Business,11503409372.8848,202008,12217489677.9978,MTD,Aug  1 2020 12:00AM,IDR
+Marketing Expense,Existing Source,Indirect Cost,COE,Marketing Expense,,25369721720.7307,202008,40497486955.8675,YTD,Aug  1 2020 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,7512337078.80293,202008,10070967028.0971,YTD,Aug  1 2020 12:00AM,IDR
+Wifi Roaming,Existing Source,Revenue,Revenue,Digital Business,Trading Wholesale Business,-14865942,202205,15898976.9375,YTD,May  1 2022 12:00AM,IDR
+CDN & Security,Existing Source,Direct Cost,COE,Digital Business,Recurring Business,35620326629,202206,41810504967.2609,YTD,Jun  1 2022 12:00AM,IDR
+G&A Expense,Existing Source,Indirect Cost,COE,G&A Expense,,29326253705,202206,19444440648.2206,MTD,Jun  1 2022 12:00AM,IDR
+iSMS Hubbing,Existing Source,Direct Cost,COE,Digital Business,Trading Wholesale Business,210321524636,202206,179139020125.112,MTD,Jun  1 2022 12:00AM,IDR
+MNO,Existing Source,Direct Cost,COE,MNO,Retail,6378905582,202206,9729517176.57281,YTD,Jun  1 2022 12:00AM,IDR
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,62815015,202206,73681730.769231,MTD,Jun  1 2022 12:00AM,IDR
+MVNO VAS,Existing Source,Direct Cost,COE,MVNO,Retail,38723012522,202206,39366246596.2921,YTD,Jun  1 2022 12:00AM,IDR
+MVNO Voice,Existing Source,Direct Cost,COE,MVNO,Retail,367487710,202206,443854467.085983,MTD,Jun  1 2022 12:00AM,IDR
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,260725506388,202206,339986396701.852,YTD,Jun  1 2022 12:00AM,IDR
+Voice Outgoing,Existing Source,Direct Cost,COE,Voice,Trading Wholesale Business,2976972207,202206,2167489144.18583,MTD,Jun  1 2022 12:00AM,IDR
+CDN & Security,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,-52483280677,202206,64323853795.786,YTD,Jun  1 2022 12:00AM,IDR
+CDN Infrastructure,Existing Source,Revenue,Revenue,Data,Recurring Business,-6414593774,202206,0,MTD,Jun  1 2022 12:00AM,IDR
+Go Presence,Existing Source,Revenue,Revenue,Digital Business,Recurring Business,13131798,202206,0,MTD,Jun  1 2022 12:00AM,IDR
+MVNO Digital Retail,Existing Source,Direct Cost,COE,MVNO,Retail,263475264,202204,81677759.273504,MTD,Apr  1 2022 12:00AM,IDR
+MVNO Fee,Existing Source,Direct Cost,COE,MVNO,Retail,49391168,202204,73681730.769231,MTD,Apr  1 2022 12:00AM,IDR
+MVNO Voice,Existing Source,Direct Cost,COE,MVNO,Retail,295349909,202204,461500710.918266,MTD,Apr  1 2022 12:00AM,IDR
+O&M Expense,Existing Source,Indirect Cost,COE,O&M Expense,,41192139989,202204,56638720435.7556,MTD,Apr  1 2022 12:00AM,IDR
+Other Data,Existing Source,Direct Cost,COE,Data,Recurring Business,8470620008,202204,4711594243.30116,MTD,Apr  1 2022 12:00AM,IDR
+Personnel Expense,Existing Source,Indirect Cost,COE,Personnel Expense,,43773547842,202204,46033587726.8308,MTD,Apr  1 2022 12:00AM,IDR
+Agent Fee,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-230958297,202204,56408889.452333,MTD,Apr  1 2022 12:00AM,IDR
+MVNO Data,Existing Source,Revenue,Revenue,MVNO,Retail,-20424680898,202204,23161168147.8972,YTD,Apr  1 2022 12:00AM,IDR
+PKSO,Existing Source,Revenue,Revenue,Managed Service,Trading Wholesale Business,-57666666668,202204,57666666666.6667,YTD,Apr  1 2022 12:00AM,IDR
+Voice Hubbing,Existing Source,Revenue,Revenue,Voice,Trading Wholesale Business,-296889714333,202204,264605962511.628,MTD,Apr  1 2022 12:00AM,IDR
+BPO,Existing Source,Direct Cost,COE,BPO,Others,1848351287,202205,3847296070.94971,MTD,May  1 2022 12:00AM,IDR
+G&A Expense,Existing Source,Indirect Cost,COE,G&A Expense,,23151124496,202205,18162604193.554,MTD,May  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,1741521.01726739,202106,0,MTD,Jun  1 2021 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-6604446750.7468,202106,0,MTD,Jun  1 2021 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,314512878.881313,202106,0,MTD,Jun  1 2021 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-14326750889.9255,202106,0,MTD,Jun  1 2021 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-637760051.683351,202106,0,MTD,Jun  1 2021 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,0,202106,0,YTD,Jun  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Revenue,Revenue,Data Center,Recurring Business,-6612370346.39472,202106,0,YTD,Jun  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,-1329691895.9389,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,-9613497.75402024,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,174736043.584754,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,206965.361434002,202110,0,YTD,Oct  1 2021 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,-24317983.7196396,202111,0,MTD,Nov  1 2021 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,-71392930077.2154,202111,0,MTD,Nov  1 2021 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,433459851.258017,202111,0,MTD,Nov  1 2021 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,16211597555.8793,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-15726056120.7273,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-1618525292180.64,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,18377431256.2709,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-242322711796.189,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-20185904080.6122,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-65342118571.5479,202111,0,YTD,Nov  1 2021 12:00AM,IDR
+IP VPN,ENLA,Direct Cost,COE,Data,Recurring Business,521579308.764438,202201,4150810000,MTD,Jan  1 2022 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,1021501327.22031,202201,322685000,MTD,Jan  1 2022 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-2251565161.70939,202201,2504166736.87487,MTD,Jan  1 2022 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,2429484622.73438,202201,3404380000,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Colocation and Power,ROAM,Direct Cost,COE,Data Center,Recurring Business,901912704.051595,202201,1425440000,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,46308260.3589247,202201,0,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-257290897.713554,202201,0,YTD,Jan  1 2022 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202201,0,YTD,Jan  1 2022 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,9579796078.15875,202201,5226830000,YTD,Jan  1 2022 12:00AM,IDR
+CDN Infrastructure,SEAN,Direct Cost,COE,Data,Recurring Business,9.5367431640625E-07,202202,0,MTD,Feb  1 2022 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,12223771.8334875,202202,0,MTD,Feb  1 2022 12:00AM,IDR
+IP Transit,ENLA,Revenue,Revenue,Data,Recurring Business,-3730326475.01904,202202,11205400258.4237,MTD,Feb  1 2022 12:00AM,IDR
+Other Data,ROAM,Direct Cost,COE,Data,Recurring Business,996701946.496843,202202,324491000,MTD,Feb  1 2022 12:00AM,IDR
+Other Data,ENLA,Revenue,Revenue,Data,Recurring Business,-2215191226.56587,202202,2504166736.87487,MTD,Feb  1 2022 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,5392325559.04793,202202,6808760000,YTD,Feb  1 2022 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,831150739.78934,201809,0,MTD,Sep  1 2018 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,0,201809,0,YTD,Sep  1 2018 12:00AM,IDR
+CDN Infrastructure,ROAM,Direct Cost,COE,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+CDN Infrastructure,ENLA,Revenue,Revenue,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,0,201805,0,YTD,May  1 2018 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,35282970325.5914,201806,0,MTD,Jun  1 2018 12:00AM,IDR
+IP VPN,SEAN,Direct Cost,COE,Data,Recurring Business,2905687085.9685,201806,0,MTD,Jun  1 2018 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,577347683.320286,201806,0,MTD,Jun  1 2018 12:00AM,IDR
+CDN Infrastructure,ENLA,Direct Cost,COE,Data,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Go Presence,ENLA,Revenue,Revenue,Digital Business,Recurring Business,0,201806,0,YTD,Jun  1 2018 12:00AM,IDR
+Go Presence,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,0,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,0,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+IPLC/IEPL,ROAM,Direct Cost,COE,Data,Recurring Business,0,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,0,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,0,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,0,201909,0,YTD,Sep  1 2019 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,-32038062.1876083,202112,0,MTD,Dec  1 2021 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,32407974727.4246,202112,0,MTD,Dec  1 2021 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-9258065,202112,0,MTD,Dec  1 2021 12:00AM,IDR
+IPLC/IEPL,ENLA,Revenue,Revenue,Data,Recurring Business,-32288343569.1396,202112,0,MTD,Dec  1 2021 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,48775004.5220211,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-32990722188.8706,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,0,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,0,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,72471469200.5786,202402,0,YTD,Feb  1 2024 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,375794007.37636,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,23244451.2369273,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-90682710188.7206,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,43790829624.8201,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-184697413286.162,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+Other Data,ROAM,Revenue,Revenue,Data,Recurring Business,-7269630771.66747,202112,0,YTD,Dec  1 2021 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,4272390015.10726,202201,21286600000,MTD,Jan  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-13401448.286452,202201,0,MTD,Jan  1 2022 12:00AM,IDR
+IP Transit,SEAN,Direct Cost,COE,Data,Recurring Business,26277557884.3863,202201,19180400000,MTD,Jan  1 2022 12:00AM,IDR
+IP VPN,ROAM,Direct Cost,COE,Data,Recurring Business,945981866.076811,202201,1152720000,MTD,Jan  1 2022 12:00AM,IDR
+Other Data,SEAN,Direct Cost,COE,Data,Recurring Business,1615161338.47796,202201,3101120000,MTD,Jan  1 2022 12:00AM,IDR
+CDN & Security,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202201,269175000,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Direct Cost,COE,Data Center,Recurring Business,4272390015.10726,202201,21286600000,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Revenue,Revenue,Data Center,Recurring Business,-13401448.286452,202201,0,YTD,Jan  1 2022 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Revenue,Revenue,Data Center,Recurring Business,-45779129.5812825,202211,0,YTD,Nov  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,15252532217.0448,202211,0,YTD,Nov  1 2022 12:00AM,IDR
+Go Presence,ROAM,Revenue,Revenue,Digital Business,Recurring Business,0,202211,0,YTD,Nov  1 2022 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,21923669578.1828,202211,20987620000,YTD,Nov  1 2022 12:00AM,IDR
+IP VPN,SEAN,Revenue,Revenue,Data,Recurring Business,-94971196130.523,202211,95297304807.828,YTD,Nov  1 2022 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,11638347956.6472,202211,16275600000,YTD,Nov  1 2022 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,5215023753.59922,202212,4069330000,MTD,Dec  1 2022 12:00AM,IDR
+Data Center Colocation and Power,SEAN,Revenue,Revenue,Data Center,Recurring Business,-66015544794.3436,202212,52045293276.147,MTD,Dec  1 2022 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,5402029229,202212,0,MTD,Dec  1 2022 12:00AM,IDR
+IP Transit,SEAN,Revenue,Revenue,Data,Recurring Business,-149336808816.596,202212,129066140556.256,MTD,Dec  1 2022 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,-2788101594.04456,202212,1841233835.26068,MTD,Dec  1 2022 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,-6508104736.31696,202212,7045391074.99167,MTD,Dec  1 2022 12:00AM,IDR
+Other Data,SEAN,Revenue,Revenue,Data,Recurring Business,-9002321792.39671,202212,5820014748.79838,MTD,Dec  1 2022 12:00AM,IDR
+CDN Infrastructure,SEAN,Revenue,Revenue,Data,Recurring Business,-197806249.999999,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+IP Transit,ENLA,Direct Cost,COE,Data,Recurring Business,3526684445.17696,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+IP VPN,ROAM,Revenue,Revenue,Data,Recurring Business,-3387489941.20093,202309,3019216404,MTD,Sep  1 2023 12:00AM,IDR
+IPLC/IEPL,ENLA,Direct Cost,COE,Data,Recurring Business,2564493154.60368,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+IPLC/IEPL,SEAN,Revenue,Revenue,Data,Recurring Business,-18498595776.1367,202309,26843320325.3753,MTD,Sep  1 2023 12:00AM,IDR
+Other Data,ENLA,Direct Cost,COE,Data,Recurring Business,1945363009.23954,202309,0,MTD,Sep  1 2023 12:00AM,IDR
+CDN & Security,ROAM,Direct Cost,COE,Digital Business,Recurring Business,26899827.1281733,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+CDN & Security,ENLA,Revenue,Revenue,Digital Business,Recurring Business,-187319167.974688,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-78625969556.0253,202309,95236888691.2973,YTD,Sep  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,-201214634.858403,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ROAM,Direct Cost,COE,Data Center,Recurring Business,105155758.182212,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,ENLA,Revenue,Revenue,Data Center,Recurring Business,-1954793.02519239,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Revenue,Revenue,Data Center,Recurring Business,-8243709361.41931,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+Go Presence,ENLA,Direct Cost,COE,Digital Business,Recurring Business,0,202309,0,YTD,Sep  1 2023 12:00AM,IDR
+CDN & Security,SEAN,Direct Cost,COE,Digital Business,Recurring Business,-3322777254.41413,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+Data Center Colocation and Power,ENLA,Direct Cost,COE,Data Center,Recurring Business,-27783296.578564,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+Data Center Sale of Equipment and Solution,SEAN,Direct Cost,COE,Data Center,Recurring Business,1046766689,202310,0,MTD,Oct  1 2023 12:00AM,IDR
+IP Transit,ROAM,Revenue,Revenue,Data,Recurring Business,-2248597675.82861,202310,5203856694,MTD,Oct  1 2023 12:00AM,IDR
+IPLC/IEPL,ROAM,Revenue,Revenue,Data,Recurring Business,-7657881141.86031,202310,8327968640,MTD,Oct  1 2023 12:00AM,IDR
+Go Presence,ROAM,Direct Cost,COE,Digital Business,Recurring Business,0,202310,0,YTD,Oct  1 2023 12:00AM,IDR
+Go Presence,SEAN,Revenue,Revenue,Digital Business,Recurring Business,-17341935,202310,0,YTD,Oct  1 2023 12:00AM,IDR

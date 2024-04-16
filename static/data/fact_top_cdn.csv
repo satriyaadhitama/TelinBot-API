@@ -1,0 +1,1001 @@
+﻿service_number,customer,date_key,amount,kurs,inner_group,subgroup,subgroup1,product,mapping_partner,type
+E2100374,Pertamina,202111,208269000,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100374,Pertamina,202112,208269000,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100394,TVRI,202101,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202102,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202103,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202104,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202105,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202106,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202107,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202108,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202109,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202110,5532760,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202111,11065520,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2100394,TVRI,202112,11065520,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2200038,Dewan Perwakilan Rakyat,202101,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202102,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202103,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202104,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202105,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202106,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202107,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202108,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202109,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202110,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202111,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202112,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000307,PT MELON INDONESIA,202306,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000307,PT MELON INDONESIA,202307,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000307,PT MELON INDONESIA,202308,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000307,PT MELON INDONESIA,202309,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000307,PT MELON INDONESIA,202310,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000307,PT MELON INDONESIA,202311,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000307,PT MELON INDONESIA,202312,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000341,Telkom DIT,202301,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202302,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202303,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202304,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202305,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202306,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202307,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202308,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202309,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202310,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202311,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202312,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100051,Vidio.com,202301,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202302,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202303,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202304,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202305,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202306,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202307,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202308,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202309,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202310,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202311,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202312,-877464955,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200233,Telkom Sigma,202210,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200233,Telkom Sigma,202211,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200233,Telkom Sigma,202212,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200233,Telkom Sigma,202201,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202202,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202203,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202204,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202205,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202206,-214822581,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202207,-329822581,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202208,-359500000,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202209,-359500000,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202210,-359500000,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202211,-359500000,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202212,-359500000,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200442,Bank Indonesia,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202204,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202205,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202206,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202207,19167375,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202208,19167375,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202209,19167375,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202210,19167375,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202211,19167375,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200442,Bank Indonesia,202212,19167375,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2200498,Garuda Indonesia,202201,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202202,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202203,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202204,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202205,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202206,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202207,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202208,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202209,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202210,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202211,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202212,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200770,PT Media Andalan Nusa,202201,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2300288,Sumbersolusindo Hitech,202207,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300288,Sumbersolusindo Hitech,202208,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300288,Sumbersolusindo Hitech,202209,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300288,Sumbersolusindo Hitech,202210,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300288,Sumbersolusindo Hitech,202211,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300288,Sumbersolusindo Hitech,202212,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202204,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202205,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202206,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202207,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202208,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202209,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202210,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202211,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300513,Bank Mandiri,202212,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300734,Ruang Guru,202201,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202202,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202203,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202204,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202205,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202206,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202207,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202208,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202209,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202210,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202211,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300734,Ruang Guru,202212,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100575,Telkom DIT,202308,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100575,Telkom DIT,202309,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100575,Telkom DIT,202310,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100575,Telkom DIT,202311,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100575,Telkom DIT,202312,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202301,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202302,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202303,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202304,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202305,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202306,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202307,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202308,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202309,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202310,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202311,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200255,Kementrian Kesehatan,202312,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200316,UseeTV,202301,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202302,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202303,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202304,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202305,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202306,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202307,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202308,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202309,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202310,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202311,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2200316,UseeTV,202312,0,IDR,CDN & Security,Revenue,Revenue,CDN (Conversant - Customer Domestik),Conversant,YTD
+R2202096,BPJS Ketenagakerjaan,202302,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202303,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202304,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202305,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202306,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202307,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202308,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202309,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202310,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202311,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202312,-52878980,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202301,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202302,-158473689,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202303,-166814410,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202304,-166814410,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202305,-166814410,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202306,-166814410,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202307,-166814409,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202308,-166814409,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202309,-166814409,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202310,-166814409,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202311,-166814409,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202312,-166814409,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202301,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202302,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202303,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202304,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202305,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202306,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202307,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202308,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202309,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202310,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202311,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202312,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E2000656,Universitas Gadjah Mada,202101,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202102,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202103,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202104,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202105,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202106,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202107,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202108,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2200539,Telkom DES,202201,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202202,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202203,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202204,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202205,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202206,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202207,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202208,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202209,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202210,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202211,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202212,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2201360,Tempo,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202204,-10970000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202205,-32910000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202206,-43880000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202207,-54850000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202208,-65820000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202209,-76790000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202210,-76790000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202211,-76790000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201360,Tempo,202212,-76790000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201364,PT MELON INDONESIA,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201364,PT MELON INDONESIA,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201364,PT MELON INDONESIA,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201364,PT MELON INDONESIA,202204,-5412000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201364,PT MELON INDONESIA,202205,-16236000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201364,PT MELON INDONESIA,202206,-21648000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201364,PT MELON INDONESIA,202207,-142745385,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201364,PT MELON INDONESIA,202208,-162555899,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2300287,Telkom DIT,202210,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300287,Telkom DIT,202211,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300287,Telkom DIT,202212,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300787,Bank Mandiri,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202204,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202205,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202206,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202207,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202208,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202209,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202210,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202211,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300787,Bank Mandiri,202212,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202204,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202205,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202206,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202207,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202208,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202209,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202210,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202211,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202212,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2201637,PT Asuransi Jiwa IFG,202212,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201785,Telkom DES,202209,-31518.9525865656,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201785,Telkom DES,202212,-30989.6565149604,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201938,PT Asuransi Jiwa IFG,202209,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201938,PT Asuransi Jiwa IFG,202212,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201964,Ruang Guru,202209,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201964,Ruang Guru,202212,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202121,TVRI,202209,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2202121,TVRI,202212,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2202141,Telkom DDS,202209,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202141,Telkom DDS,202212,-6657.42835284012,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300128,Dewan Perwakilan Rakyat,202209,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300128,Dewan Perwakilan Rakyat,202212,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300184,Dewan Perwakilan Rakyat,202209,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300184,Dewan Perwakilan Rakyat,202212,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300518,BSSN,202209,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300518,BSSN,202212,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300683,Kereta Api Indonesia,202209,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300683,Kereta Api Indonesia,202212,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300819,Telkomsel,202209,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300819,Telkomsel,202212,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100344,Badan Kepegawaian Negara,202101,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2100344,Badan Kepegawaian Negara,202101,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2100029,Ruang Guru,202101,27672.297329611,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100035,Dewan Perwakilan Rakyat,202101,6172.83066782749,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100575,Telkom DIT,202101,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200234,Kereta Api Indonesia,202101,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2300986,Pertamina,202303,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R2201024,Ruang Guru,202101,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300528,Maybank,202102,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300528,Maybank,202103,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300683,Kereta Api Indonesia,202102,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300683,Kereta Api Indonesia,202103,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300778,BSSN,202102,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300778,BSSN,202103,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2200003,Kereta Api Indonesia,202102,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R1901218,Vidio.com,202102,-101963.296690276,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1901218,Vidio.com,202103,202008.907863516,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000268,Bank Indonesia,202102,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2000268,Bank Indonesia,202103,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2000279,Telkom DDS,202102,-5963.56284451273,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000279,Telkom DDS,202103,-8861.22401123544,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2200003,Kereta Api Indonesia,202103,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000361,CELAX,202102,-355.821172106965,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202103,-528.71264983505,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+E1600469,ORORI INDONESIA,202206,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E1600469,ORORI INDONESIA,202211,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200166,Kementrian Kesehatan,202206,232185.778813513,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200166,Kementrian Kesehatan,202211,226654.15290609,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R1900896,Telkom DGS,202308,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2201290,Radio Republik Indonesia,202206,418.485083582063,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201290,Radio Republik Indonesia,202211,1629.66751491599,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2000024,Kompas,202308,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2201290,Radio Republik Indonesia,202206,0,USD,CDN & Security,COE,Direct Cost,Web Performance Conversant,Conversant,YTD
+E2201290,Radio Republik Indonesia,202211,0,USD,CDN & Security,COE,Direct Cost,Web Performance Conversant,Conversant,YTD
+R2000484,Kereta Api Indonesia,202112,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200019,PT MELON INDONESIA,202109,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2200019,PT MELON INDONESIA,202112,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2200204,Pertamina,202109,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000498,Bank Mega,202109,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2000498,Bank Mega,202112,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2000512,Tempo,202109,21435.390966654,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000512,Tempo,202112,21458.4932374808,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200204,Pertamina,202112,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2202536,PT. Kreatif Media Karya (SCTV),202305,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2202867,Pertamina,202305,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000122,Telkom DGS,202203,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000122,Telkom DGS,202207,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000516,Telkom DES,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000516,Telkom DES,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100006,Conversant,202109,-862343.275038696,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100006,Conversant,202112,-1143202.5862231,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202109,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2200218,Telkom DIT,202109,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200234,Kereta Api Indonesia,202109,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200234,Kereta Api Indonesia,202112,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201383,Maybank,202109,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201383,Maybank,202112,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200257,Infomedia,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200257,Infomedia,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R1700659,Maybank,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E1900298,UseeTV,202109,0.00649106620250285,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2201842,Tempo,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E1900298,UseeTV,202112,0.00649806203335093,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2201415,Kudo Teknologi Indonesia,202109,0,USD,CDN & Security,Revenue,Revenue,CDN (Akamai - Customer Domestik),Akamai,YTD
+R2201636,blibli.com,202401,-1422278160,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201636,blibli.com,202402,-2872316160,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201637,PT Asuransi Jiwa IFG,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201637,PT Asuransi Jiwa IFG,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201780,Telkom DIT,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201780,Telkom DIT,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201786,Bio Farma,202401,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201786,Bio Farma,202402,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201959,Ruang Guru,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201959,Ruang Guru,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202141,Telkom DDS,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202141,Telkom DDS,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300676,Tempo,202401,-11383200,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300676,Tempo,202402,-22766400,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100520,Telkom DES,202207,-186000000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202208,-186000000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202209,-186000000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202210,-186000000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202211,-186000000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202212,-186000000,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100521,Telkom DGS,202201,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2100521,Telkom DGS,202202,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2100521,Telkom DGS,202203,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2100521,Telkom DGS,202204,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2100521,Telkom DGS,202205,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2100179,UseeTV,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100179,UseeTV,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100179,UseeTV,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100268,blibli.com,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100268,blibli.com,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100268,blibli.com,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100317,Bank Indonesia,202304,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R1900896,Telkom DGS,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2100317,Bank Indonesia,202307,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R1900896,Telkom DGS,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2100317,Bank Indonesia,202312,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2300822,Ruang Guru,202107,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R1900896,Telkom DGS,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000473,Universitas Gadjah Mada,202107,-1046.87600892675,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000024,Kompas,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E1900827,Conversant,202107,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2201651,blibli.com,202307,-25949.268988214,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100256,Radio Republik Indonesia,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201651,blibli.com,202312,-25627.587754088,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201780,Telkom DIT,202304,49343.0421483856,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100256,Radio Republik Indonesia,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201780,Telkom DIT,202307,49694.582091935,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E1900827,Conversant,202304,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2100256,Radio Republik Indonesia,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+E1900827,Conversant,202307,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2201780,Telkom DIT,202312,49078.5410580249,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E1900827,Conversant,202312,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2201784,UseeTV,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201784,UseeTV,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201636,blibli.com,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201784,UseeTV,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201636,blibli.com,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201786,Bio Farma,202304,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201780,Telkom DIT,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201786,Bio Farma,202307,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201780,Telkom DIT,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201786,Bio Farma,202312,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201780,Telkom DIT,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100486,ORORI INDONESIA,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100486,ORORI INDONESIA,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201962,Ruang Guru,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201784,UseeTV,202304,-10544.8576060004,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201962,Ruang Guru,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201784,UseeTV,202307,-18584.969179886,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100486,ORORI INDONESIA,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201962,Ruang Guru,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202304,-3485.00738762663,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100521,Telkom DGS,202304,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2202096,BPJS Ketenagakerjaan,202307,-3509.83600067872,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202145,Kereta Api Indonesia,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202151,Kejaksaan Agung,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202151,Kejaksaan Agung,202402,-80910000,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300004,Telkom DDBT,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300004,Telkom DDBT,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000024,Kompas,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202204,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202205,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202206,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202207,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202208,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202209,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202210,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202211,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000024,Kompas,202212,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000116,TVRI,202201,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202202,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202203,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202204,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202205,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202206,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202207,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202208,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202209,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202210,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202211,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202212,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+E2000656,Universitas Gadjah Mada,202301,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202302,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202303,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202304,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202305,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202306,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202301,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202302,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202303,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202304,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202305,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202306,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202307,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202308,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202309,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202310,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202311,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202312,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2100321,blibli.com,202108,204499.248229302,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100321,blibli.com,202110,405767.716879625,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100296,Telkom DDS,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100296,Telkom DDS,202108,-4804.12292149122,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100296,Telkom DDS,202110,-9545.00044019756,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2100374,Pertamina,202106,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100374,Pertamina,202108,7363.62181468398,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100374,Pertamina,202110,14548.8385731513,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100362,Telkom DES,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100362,Telkom DES,202108,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100362,Telkom DES,202110,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2100394,TVRI,202106,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2000547,blibli.com,202201,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100394,TVRI,202108,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2000547,blibli.com,202204,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100394,TVRI,202110,386.496464207293,USD,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+E2000547,blibli.com,202210,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202536,PT. Kreatif Media Karya (SCTV),202311,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2202867,Pertamina,202306,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2202867,Pertamina,202311,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202106,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202108,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202110,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000122,Telkom DGS,202201,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000122,Telkom DGS,202204,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000516,Telkom DES,202106,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000516,Telkom DES,202108,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000516,Telkom DES,202110,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200218,Telkom DIT,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100006,Conversant,202106,-579907.393344009,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100006,Conversant,202108,-767254.336544677,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100006,Conversant,202110,-954503.501891592,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202106,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000656,Universitas Gadjah Mada,202108,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2200218,Telkom DIT,202108,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2000656,Universitas Gadjah Mada,202110,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2200218,Telkom DIT,202110,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200257,Infomedia,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100179,UseeTV,202106,-8392.82276700272,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200257,Infomedia,202108,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100179,UseeTV,202108,-33470.551469543,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200257,Infomedia,202110,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100179,UseeTV,202110,-30792.8985343814,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000498,Bank Mega,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000636,Dewan Perwakilan Rakyat,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100006,Conversant,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2300261,Radio Republik Indonesia,202310,-2420.22381553506,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2201637,PT Asuransi Jiwa IFG,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300513,Bank Mandiri,202310,-481617.91019343,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300734,Ruang Guru,202310,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201777,Telkom DIT,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300778,BSSN,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2201842,Tempo,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100124,Bio Farma,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201866,Kompas,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201890,PT. Kreatif Media Karya (SCTV),202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202076,Universitas Airlangga,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300184,Dewan Perwakilan Rakyat,202310,-84480.8109645766,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300287,Telkom DIT,202310,-53982.8831205867,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300518,BSSN,202310,-20456.2654347843,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300835,PT Asuransi Jiwa IFG,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2202249,blibli.com,202205,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202593,Ruang Guru,202205,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202594,Ruang Guru,202205,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2202879,TVRI,202205,0,USD,CDN & Security,COE,Direct Cost,Web Performance Edgio,Edgio,YTD
+E2300080,Tribunnews,202205,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R1900229,Telkom DES,202205,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R1900283,UseeTV,202205,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1901206,Tempo,202205,-12159.7273571929,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000259,Radio Republik Indonesia,202205,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2100172,Telkom Sigma,202205,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100179,UseeTV,202205,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100208,Bio Farma,202205,-22597.2876292212,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100256,Radio Republik Indonesia,202205,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2100317,Bank Indonesia,202205,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100324,PT Kurio,202205,-4065.1494811619,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100344,Badan Kepegawaian Negara,202205,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100575,Telkom DIT,202205,6211.29303340562,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200204,Pertamina,202205,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200231,Telkom DDS,202205,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200234,Kereta Api Indonesia,202205,-20914.6965108183,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201115,UseeTV,202205,-13958.6725488824,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201141,PT MEDIA ANTAR NUSA,202205,-1389.74708666797,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2201383,Maybank,202205,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201466,Telkom DES,202205,-103602.337713031,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000512,Tempo,202309,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000574,Ruang Guru,202301,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000574,Ruang Guru,202302,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000107,PT Media Andalan Nusa,202301,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000107,PT Media Andalan Nusa,202302,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2100465,Tempo,202301,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100465,Tempo,202302,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000574,Ruang Guru,202309,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000107,PT Media Andalan Nusa,202309,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2100465,Tempo,202309,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000209,Telkom Sigma,202301,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000209,Telkom Sigma,202302,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2100597,Ruang Guru,202301,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100597,Ruang Guru,202302,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000209,Telkom Sigma,202309,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2100597,Ruang Guru,202309,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100172,Telkom Sigma,202301,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2200002,PT. Aku Cinta Indonesia Raya,202301,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2100172,Telkom Sigma,202302,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2200002,PT. Aku Cinta Indonesia Raya,202302,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2100172,Telkom Sigma,202309,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2200002,PT. Aku Cinta Indonesia Raya,202309,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2100521,Telkom DGS,202301,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2200002,PT. Aku Cinta Indonesia Raya,202301,428.084607587769,USD,CDN & Security,COE,Direct Cost,Web Performance Conversant,Conversant,YTD
+R2200115,TVRI,202402,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2200498,Garuda Indonesia,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200914,Dinas Komunikasi Informatika dan Statistik DKI Jakarta,202402,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2201024,Ruang Guru,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201785,Telkom DES,202402,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201842,Tempo,202402,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201890,PT. Kreatif Media Karya (SCTV),202402,-262146.790327129,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202136,Telkom DDBT,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202143,Kereta Api Indonesia,202402,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2300061,Tribunnews,202402,-706.028308773943,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300288,Sumbersolusindo Hitech,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300683,Kereta Api Indonesia,202402,-28780.9347720151,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300735,Ruang Guru,202402,-5781.7700075337,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2200003,Kereta Api Indonesia,202203,1991.34314053314,USD,CDN & Security,COE,Direct Cost,Telin Internet Security (Genie Platform),Genie,YTD
+E2200003,Kereta Api Indonesia,202207,10086.6496980061,USD,CDN & Security,COE,Direct Cost,Telin Internet Security (Genie Platform),Genie,YTD
+E2201452,Conversant,202203,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201452,Conversant,202207,5052.43644317175,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2202277,blibli.com,202203,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2202277,blibli.com,202207,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2202292,blibli.com,202203,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202292,blibli.com,202207,4345.64154117098,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202536,Vidio.com,202203,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202536,Vidio.com,202207,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202879,TVRI,202203,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2202879,TVRI,202207,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2300607,Telkom DIT,202203,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2300607,Telkom DIT,202207,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2300612,Maybank,202203,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300612,Maybank,202207,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300612,Maybank,202203,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2300612,Maybank,202207,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2300761,Kereta Api Indonesia,202203,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300761,Kereta Api Indonesia,202207,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300762,Kereta Api Indonesia,202203,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300762,Kereta Api Indonesia,202207,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300844,Bank Mandiri,202203,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300844,Bank Mandiri,202207,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+R1800410,Pertamina,202203,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1800410,Pertamina,202207,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000514,Telkom DES,202305,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E2201445,Conversant,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201539,Conversant,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R1901206,Tempo,202109,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100208,Bio Farma,202305,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R1901206,Tempo,202112,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2200135,TVRI,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+R2100255,CELAX,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100344,Badan Kepegawaian Negara,202305,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2201290,Radio Republik Indonesia,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2000268,Bank Indonesia,202109,-8246.82869712652,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200234,Kereta Api Indonesia,202305,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000268,Bank Indonesia,202112,-8255.71682379144,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000307,PT MELON INDONESIA,202109,-446.883176016993,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000307,PT MELON INDONESIA,202112,-447.364810160096,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000341,Telkom DIT,202109,-95388.428158516,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202112,-95491.2342750218,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202145,Kereta Api Indonesia,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202145,Kereta Api Indonesia,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200257,Infomedia,202305,-78.5249795550651,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+E2200166,Kementrian Kesehatan,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2201299,PT MELON INDONESIA,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2202151,Kejaksaan Agung,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202151,Kejaksaan Agung,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300763,PT. Aku Cinta Indonesia Raya,202305,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+E1801089,Pertamina,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000371,PT MELON INDONESIA,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2100010,Conversant,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2100051,Telkom DGS,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100198,PT. Kreatif Media Karya (SCTV),202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100198,Vidio.com,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100408,TVRI,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD
+R2000031,Ruang Guru,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000259,Radio Republik Indonesia,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+E2300761,Kereta Api Indonesia,202109,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300761,Kereta Api Indonesia,202112,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000316,Vidio.com,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2300844,Bank Mandiri,202109,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300844,Bank Mandiri,202112,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2100198,Vidio.com,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000361,CELAX,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+E2300986,Pertamina,202109,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2300986,Pertamina,202112,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2000684,Kereta Api Indonesia,202305,0,USD,CDN & Security,COE,Direct Cost,Telin Internet Security (Genie Platform),Genie,YTD
+R2000386,Maybank,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2400001,Kejaksaan Agung,202109,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2400001,Kejaksaan Agung,202112,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2100111,Kejaksaan Agung,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2201368,Conversant,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2300280,Telkom DIT,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200774,Kejaksaan Agung,202305,-80401.7830096554,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2300280,Telkom DIT,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2400013,Telkom DIT,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201465,Telkom DES,202305,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2400013,Telkom DIT,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E2201369,Conversant,202305,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2201472,Telkom DES,202305,0,USD,CDN & Security,Revenue,Revenue,CDN (Akamai - Customer Domestik),Akamai,YTD
+R2201525,Radio Republik Indonesia,202305,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2100051,Vidio.com,202109,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100051,Vidio.com,202112,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201843,Bank Indonesia,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2201959,Ruang Guru,202305,-34504.1229224778,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201964,Ruang Guru,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100172,Telkom Sigma,202109,-33118.3969149205,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100172,Telkom Sigma,202112,-25118.8526988136,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100274,PT. Kreatif Media Karya (SCTV),202109,-511874.797690741,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100274,PT. Kreatif Media Karya (SCTV),202112,-768639.716096456,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300280,Telkom DIT,202305,-54323.2909553145,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100289,Telkom DDS,202109,-7133.26297808596,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100289,Telkom DDS,202112,-7140.95094484407,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300735,Ruang Guru,202305,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2100597,Ruang Guru,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200001,BPJS Ketenagakerjaan,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200263,Telkom DDS,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2201368,Conversant,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2201369,Conversant,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2202277,blibli.com,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202536,Vidio.com,202402,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202594,Ruang Guru,202402,17616.0296349994,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300607,Telkom DIT,202402,9418.56090414194,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2301021,PT Asuransi Jiwa IFG,202402,10182.0551460107,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2400001,Kejaksaan Agung,202402,6813.40662502837,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R1901206,Tempo,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000116,TVRI,202402,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000316,Vidio.com,202402,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000484,Kereta Api Indonesia,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000514,Telkom DES,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100006,Conversant,202402,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+E2000492,CELAX,202208,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000450,Vidio.com,202202,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000450,Vidio.com,202208,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000627,Dewan Perwakilan Rakyat,202202,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000627,Dewan Perwakilan Rakyat,202208,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000808,BSSN,202202,6245.27164499841,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000808,BSSN,202208,6146.78860804684,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100053,Telkom DDS,202202,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100053,Telkom DDS,202208,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100198,PT. Kreatif Media Karya (SCTV),202202,328328.313151263,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000809,BSSN,202202,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100198,PT. Kreatif Media Karya (SCTV),202208,1580350.37383713,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000450,Vidio.com,202106,8609.40495221898,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R1700949,Telkom DIT,202108,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E2000450,Vidio.com,202108,8586.46113552377,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R1700949,Telkom DIT,202110,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E2000450,Vidio.com,202110,8599.2906556644,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000491,Conversant,202106,3016.08314007846,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000491,Conversant,202108,3008.04536521626,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000491,Conversant,202110,3012.53985695015,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000532,Conversant,202106,7700.19139066988,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2000532,Conversant,202108,10239.5608026376,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2100198,PT. Kreatif Media Karya (SCTV),202106,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100198,PT. Kreatif Media Karya (SCTV),202108,74721.3158443867,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2100198,PT. Kreatif Media Karya (SCTV),202110,214256.613055892,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000532,Conversant,202110,12818.5753913125,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2000472,Dewan Perwakilan Rakyat,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000472,Dewan Perwakilan Rakyat,202108,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000472,Dewan Perwakilan Rakyat,202110,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000498,Bank Mega,202106,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000498,Bank Mega,202108,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000498,Bank Mega,202110,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000116,TVRI,202106,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202108,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000116,TVRI,202110,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2100113,Telkom DGS,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100113,Telkom DGS,202108,-44115.2181050167,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100113,Telkom DGS,202110,-61681.4521424286,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2100321,blibli.com,202106,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2000158,Telkom DDS,202201,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100128,PT MEDIA ANTAR NUSA,202106,-1958.26847355819,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2000158,Telkom DDS,202204,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100128,PT MEDIA ANTAR NUSA,202108,-3348.08527606679,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2100128,PT MEDIA ANTAR NUSA,202110,-4750.20777443733,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2000158,Telkom DDS,202210,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100521,Telkom DGS,202106,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000484,Kereta Api Indonesia,202106,-11511.7651476035,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2200003,Telkom DES,202201,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200003,Telkom DES,202204,1990.55221993578,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200003,Telkom DES,202210,1942.7287670018,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202437,Telkom DIT,202201,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202437,Telkom DIT,202204,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202437,Telkom DIT,202210,13674.1750605009,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202486,Tempo,202201,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202486,Tempo,202204,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202486,Tempo,202210,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202594,Ruang Guru,202201,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2202594,Ruang Guru,202204,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2202594,Ruang Guru,202210,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300841,BSSN,202201,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300841,BSSN,202204,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300841,BSSN,202210,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+R1800469,Vidio.com,202201,0,USD,CDN & Security,Revenue,Revenue,CDN (Akamai - Customer Domestik),Akamai,YTD
+R1800469,Vidio.com,202204,0,USD,CDN & Security,Revenue,Revenue,CDN (Akamai - Customer Domestik),Akamai,YTD
+R1800469,Vidio.com,202210,0,USD,CDN & Security,Revenue,Revenue,CDN (Akamai - Customer Domestik),Akamai,YTD
+R2100521,Telkom DGS,202108,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000484,Kereta Api Indonesia,202108,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000484,Kereta Api Indonesia,202110,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202106,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2200038,Dewan Perwakilan Rakyat,202108,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100521,Telkom DGS,202110,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2200038,Dewan Perwakilan Rakyat,202110,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2200019,PT MELON INDONESIA,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2200019,PT MELON INDONESIA,202108,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2200019,PT MELON INDONESIA,202110,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000498,Bank Mega,202106,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200204,Pertamina,202106,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200204,Pertamina,202108,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200204,Pertamina,202110,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000498,Bank Mega,202108,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2000498,Bank Mega,202110,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2000512,Tempo,202106,21478.9239362296,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000512,Tempo,202108,7140.56107380461,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000512,Tempo,202110,21453.6905771798,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2202536,PT. Kreatif Media Karya (SCTV),202306,0,USD,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R1900229,Telkom DES,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R1901206,Tempo,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2100010,Conversant,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+E2100056,UseeTV,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000116,TVRI,202310,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2000195,PT MELON INDONESIA,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2202148,Telkom DDBT,202104,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202111,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300513,Bank Mandiri,202104,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2202437,Telkom DIT,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R1700949,Telkom DIT,202310,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E2100321,blibli.com,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000478,Kereta Api Indonesia,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R1800395,UseeTV,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000498,Bank Mega,202310,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2300513,Bank Mandiri,202111,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2300734,Ruang Guru,202104,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000512,Tempo,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000574,Ruang Guru,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2300734,Ruang Guru,202111,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000107,PT Media Andalan Nusa,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2100465,Tempo,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2300787,Bank Mandiri,202104,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000209,Telkom Sigma,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2100597,Ruang Guru,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2300787,Bank Mandiri,202111,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2100172,Telkom Sigma,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2200002,PT. Aku Cinta Indonesia Raya,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Conversant,Conversant,YTD
+R2000484,Kereta Api Indonesia,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100521,Telkom DGS,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+E2200002,PT. Aku Cinta Indonesia Raya,202310,4430.12255148043,USD,CDN & Security,COE,Direct Cost,Web Performance Conversant,Conversant,YTD
+R2000514,Telkom DES,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2200135,TVRI,202310,784.740021166952,USD,CDN & Security,COE,Direct Cost,Web Performance Edgio,Edgio,YTD
+R2000516,Telkom DES,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2300822,Ruang Guru,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2100679,BPJS Ketenagakerjaan,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000623,ORORI INDONESIA,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2300833,Bank Mandiri,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2100256,Radio Republik Indonesia,202310,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200090,Tempo,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200204,Pertamina,202310,-32916.3921466992,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200231,Telkom DDS,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100274,PT. Kreatif Media Karya (SCTV),202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200233,Telkom Sigma,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200770,PT Media Andalan Nusa,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200914,Dinas Komunikasi Informatika dan Statistik DKI Jakarta,202310,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100361,Kementrian Kesehatan,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201115,UseeTV,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1900173,PT MEDIA ANTAR NUSA,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2201380,Dewan Perwakilan Rakyat,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1901210,Telkom DES,202310,-48742.1271313882,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201383,Maybank,202310,-161815.236064416,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201415,Kudo Teknologi Indonesia,202310,0,USD,CDN & Security,Revenue,Revenue,CDN (Akamai - Customer Domestik),Akamai,YTD
+E2202277,blibli.com,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2201466,Telkom DES,202310,-21266.1749752062,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000259,Radio Republik Indonesia,202310,0,USD,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2201651,blibli.com,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201959,Ruang Guru,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2300502,Bank Mandiri,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+E2300611,Maybank,202310,21635.5495613196,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2100521,Telkom DGS,202307,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2202096,BPJS Ketenagakerjaan,202312,-3466.32616705717,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202304,-10993.9611394277,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E1901035,Tempo,202107,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2100521,Telkom DGS,202312,0,USD,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2202098,BPJS Ketenagakerjaan,202307,-11072.2865331393,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201784,UseeTV,202312,-15732.4995616255,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200078,Dewan Perwakilan Rakyat,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200078,Dewan Perwakilan Rakyat,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202312,-10935.0284547636,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201785,Telkom DES,202304,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201785,Telkom DES,202307,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2202148,Telkom DDBT,202304,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200078,Dewan Perwakilan Rakyat,202312,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202148,Telkom DDBT,202307,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2100673,Kereta Api Indonesia,202107,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200115,TVRI,202304,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2201785,Telkom DES,202312,0,USD,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2202148,Telkom DDBT,202312,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200115,TVRI,202307,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2200078,Dewan Perwakilan Rakyat,202107,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200115,TVRI,202312,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2200115,TVRI,202107,0,USD,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2200192,Maybank,202107,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R1900283,UseeTV,202107,-17860.3492389532,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202136,Telkom DDBT,202304,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202136,Telkom DDBT,202307,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200774,Kejaksaan Agung,202107,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E2202610,Ruang Guru,202401,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2202610,Ruang Guru,202402,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+E2300611,Maybank,202401,211780302,IDR,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+E2300611,Maybank,202402,400582302,IDR,CDN & Security,COE,Direct Cost,Web Performance Akamai,Akamai,YTD
+R1700386,Bank Indonesia,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R1700386,Bank Indonesia,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R1800568,Telkom DES,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1800568,Telkom DES,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1901218,Vidio.com,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1901218,Vidio.com,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000122,Telkom DGS,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000122,Telkom DGS,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000268,Bank Indonesia,202401,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000268,Bank Indonesia,202402,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000392,blibli.com,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000392,blibli.com,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000478,Kereta Api Indonesia,202401,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2000478,Kereta Api Indonesia,202402,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2100336,TVRI,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Edgecast,Edgio,YTD
+R2100336,TVRI,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Edgecast,Edgio,YTD
+R2100486,ORORI INDONESIA,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100486,ORORI INDONESIA,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100519,Ruang Guru,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100519,Ruang Guru,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100520,Telkom DES,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100577,PT. Aku Cinta Indonesia Raya,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100577,PT. Aku Cinta Indonesia Raya,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2100577,PT. Aku Cinta Indonesia Raya,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2100577,PT. Aku Cinta Indonesia Raya,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2100679,BPJS Ketenagakerjaan,202401,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100679,BPJS Ketenagakerjaan,202402,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200192,Maybank,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200192,Maybank,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200233,Telkom Sigma,202401,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200233,Telkom Sigma,202402,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200233,Telkom Sigma,202401,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200233,Telkom Sigma,202402,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200498,Garuda Indonesia,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2200539,Telkom DES,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200539,Telkom DES,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Conversant,Conversant,YTD
+R2200770,PT Media Andalan Nusa,202401,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200770,PT Media Andalan Nusa,202402,0,IDR,CDN & Security,Revenue,Revenue,Network Protection (Genie),Genie,YTD
+R2200770,PT Media Andalan Nusa,202401,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2200770,PT Media Andalan Nusa,202402,0,IDR,CDN & Security,Revenue,Revenue,Telin Internet Security (Genie Platform),Genie,YTD
+R2201466,Telkom DES,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201466,Telkom DES,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201938,PT Asuransi Jiwa IFG,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2201938,PT Asuransi Jiwa IFG,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202046,PT MEDIA ANTAR NUSA,202401,-10000000,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2202046,PT MEDIA ANTAR NUSA,202402,-20000000,IDR,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2202098,BPJS Ketenagakerjaan,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202098,BPJS Ketenagakerjaan,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2202121,TVRI,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2202121,TVRI,202402,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Edgio,Edgio,YTD
+R2202145,Kereta Api Indonesia,202401,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+E2300841,BSSN,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2201962,Ruang Guru,202310,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000472,Dewan Perwakilan Rakyat,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202046,PT MEDIA ANTAR NUSA,202310,-4608.29490053789,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R1900660,Kejaksaan Agung,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202096,BPJS Ketenagakerjaan,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R1901218,Vidio.com,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2202145,Kereta Api Indonesia,202310,-39369.8944083615,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000116,TVRI,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Edgecast,Edgio,YTD
+R2202151,Kejaksaan Agung,202310,-53265.3057717886,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000473,Universitas Gadjah Mada,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000620,BSSN,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100260,Kereta Api Indonesia,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2100347,Telkom DIT,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000150,PT Kurio,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200204,Pertamina,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200257,Infomedia,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2200442,Bank Indonesia,202310,-26202.5014733213,USD,CDN & Security,Revenue,Revenue,CDN Global Security Solution,CDN Global Security Solution,YTD
+R2000279,Telkom DDS,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2200498,Garuda Indonesia,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201383,Maybank,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2201513,Conversant,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2201585,Kementrian Kesehatan,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000316,Vidio.com,202310,0,USD,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000392,blibli.com,202310,0,USD,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+E1901035,Tempo,202310,0,USD,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202204,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202205,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202206,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202207,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202208,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202209,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202210,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202211,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000341,Telkom DIT,202212,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Akamai,Akamai,YTD
+R2000361,CELAX,202201,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202202,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202203,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202204,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202205,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202206,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202207,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202208,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202209,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202210,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202211,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000361,CELAX,202212,0,IDR,CDN & Security,Revenue,Revenue,CDN Sales Conversant,Conversant,YTD
+R2000514,Telkom DES,202201,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202202,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202203,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202204,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202205,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202206,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202207,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202208,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202209,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202210,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD
+R2000514,Telkom DES,202211,0,IDR,CDN & Security,Revenue,Revenue,Web Performance Akamai,Akamai,YTD

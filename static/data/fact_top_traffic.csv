@@ -1,0 +1,1001 @@
+﻿date_key,customer,bandwidth,subgroup,subgroup1,the_group,inner_group,inex,currency,type,date
+202201,Level 3 Communication,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-01-01 00:00:00.000
+202201,PCCW,757,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-01-01 00:00:00.000
+202201,PLDT,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Singapore Telecom,200145,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Telkom DES,246,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2022-01-01 00:00:00.000
+202401,Vodafone,172000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-01-01 00:00:00.000
+202402,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,China Unicom,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Epsilon Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,GTT Communications,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Infotek Global Network,1000,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2024-02-01 00:00:00.000
+202402,PT. Artha Dana Teknologi,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,Singapore Telecom,200129,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Tata Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Telco Allied Singapore,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Verizon,133,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Vodafone,172000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202403,Akamai International B.V,1850000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2024-03-01 00:00:00.000
+202403,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2024-03-01 00:00:00.000
+202403,China Telecom,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2024-03-01 00:00:00.000
+202403,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2024-03-01 00:00:00.000
+202403,Expereo,361,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-03-01 00:00:00.000
+202403,GTT Communications,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-03-01 00:00:00.000
+202403,Netflix,100,Revenue,Revenue,Data,Other Data,External,USD,MTD,2024-03-01 00:00:00.000
+202403,Orange Business Services,100,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2024-03-01 00:00:00.000
+202403,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2024-03-01 00:00:00.000
+202403,PCCW,292,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-03-01 00:00:00.000
+202403,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-03-01 00:00:00.000
+202403,Singapore Telecom,200129,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-03-01 00:00:00.000
+202403,Telkom DES,103792,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2024-03-01 00:00:00.000
+202404,Akamai International B.V,1850000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2024-04-01 00:00:00.000
+202404,China Telecom,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2024-04-01 00:00:00.000
+202404,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2024-04-01 00:00:00.000
+202404,Netflix,100,Revenue,Revenue,Data,Other Data,External,USD,MTD,2024-04-01 00:00:00.000
+202404,PCCW,292,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-04-01 00:00:00.000
+202404,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-04-01 00:00:00.000
+202404,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2024-04-01 00:00:00.000
+202404,Telkom DES,103790,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2024-04-01 00:00:00.000
+202110,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Korea Telecom,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-10-01 00:00:00.000
+202110,NTT Communications,64,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-10-01 00:00:00.000
+202110,PCCW,785,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Singapore Telecom,5821.0625,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Telkom DES,2212.5625,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2021-10-01 00:00:00.000
+202110,Telkom DES,0,Revenue,Revenue,Data,Other Data,Internal,IDR,MTD,2021-10-01 00:00:00.000
+202111,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-11-01 00:00:00.000
+202312,Catchpoint Systems,1215,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-12-01 00:00:00.000
+202312,China Telecom,550,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,Expereo,361,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-12-01 00:00:00.000
+202312,KBRI,165,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Microsoft,510,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,Orange Business Services,3487.5625,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Telekom Malaysia,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Telkom DGS,100,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2023-12-01 00:00:00.000
+202312,Telkom DSO,8862890.625,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2023-12-01 00:00:00.000
+202312,Telstra,210000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-12-01 00:00:00.000
+202401,,20,Revenue,Revenue,Data,Other Data,,IDR,YTD,2024-01-01 00:00:00.000
+202401,Amazon,1432000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2024-01-01 00:00:00.000
+202401,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-01-01 00:00:00.000
+202401,China Telecom,900,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-01-01 00:00:00.000
+202401,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2024-01-01 00:00:00.000
+202401,Expereo,361,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-01-01 00:00:00.000
+202401,KBRI,165,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Microsoft,510,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-01-01 00:00:00.000
+202401,NTT Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Orange Business Services,100,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Orange Business Services,3477.5625,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-01-01 00:00:00.000
+202401,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Telkom DSO,8812000,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2024-01-01 00:00:00.000
+202402,Akamai International B.V,1850000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Bharti,100007,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2024-02-01 00:00:00.000
+202402,JAPFA,125,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Meiloon,40,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Nevigate Communication,20,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Orange Business Services,3709.5625,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-02-01 00:00:00.000
+202403,Amazon,560000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Conversant,1150000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,Conversant,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,Verizon,133,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Vodafone,1188,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-03-01 00:00:00.000
+202404,Akamai International B.V,300000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-04-01 00:00:00.000
+202404,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,CMC Telecom,500,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Global Transit Communications,40000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,GTT Communications,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,NTT Communications,60,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-04-01 00:00:00.000
+202212,Tata Communications,4,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-12-01 00:00:00.000
+202301,Akamai International B.V,110000,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2023-01-01 00:00:00.000
+202301,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2023-01-01 00:00:00.000
+202301,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Expereo,2,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2023-01-01 00:00:00.000
+202301,HM Sampoerna,7849,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2023-01-01 00:00:00.000
+202301,Microsoft,60000,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2023-01-01 00:00:00.000
+202301,Microsoft,30000,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2023-01-01 00:00:00.000
+202301,Netflix,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-01-01 00:00:00.000
+202301,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2023-01-01 00:00:00.000
+202207,Akamai International B.V,1250000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Amazon,1140200,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2022-07-01 00:00:00.000
+202207,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,MTD,2022-07-01 00:00:00.000
+202207,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Expereo,257,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-07-01 00:00:00.000
+202207,JAPFA,75,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Level 3 Communication,630,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Nevigate Communication,20,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Orange Business Services,5025.9140625,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-07-01 00:00:00.000
+202207,PCCW,720,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-07-01 00:00:00.000
+202207,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-07-01 00:00:00.000
+202207,Telkom DES,174,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2022-07-01 00:00:00.000
+202208,Akamai International B.V,1350000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2022-08-01 00:00:00.000
+202208,Bimasakti Multi Sinergi,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2022-08-01 00:00:00.000
+202208,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2022-08-01 00:00:00.000
+202208,JAPFA,75,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-08-01 00:00:00.000
+202208,Level 3 Communication,630,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-08-01 00:00:00.000
+202208,Nevigate Communication,20,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-08-01 00:00:00.000
+202208,Orange Business Services,5066.984375,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-08-01 00:00:00.000
+202208,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-08-01 00:00:00.000
+202209,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-09-01 00:00:00.000
+202209,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-09-01 00:00:00.000
+202209,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-09-01 00:00:00.000
+202209,Microsoft,0,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2022-09-01 00:00:00.000
+202209,Microsoft,10,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2022-09-01 00:00:00.000
+202209,Microsoft,10000,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-09-01 00:00:00.000
+202209,Netflix,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-09-01 00:00:00.000
+202209,NTT Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-09-01 00:00:00.000
+202209,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-09-01 00:00:00.000
+202209,PNG Dataco,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-09-01 00:00:00.000
+202209,PT. Aliansi Teknologi Indonesia,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2022-09-01 00:00:00.000
+202209,Telkom DSO,8933000,Revenue,Revenue,Data,IP Transit,Internal,IDR,MTD,2022-09-01 00:00:00.000
+202210,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-10-01 00:00:00.000
+202210,Bharti,7,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-10-01 00:00:00.000
+202210,China Unicom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-10-01 00:00:00.000
+202210,Korea Telecom,10,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-10-01 00:00:00.000
+202210,Microsoft,10,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2022-10-01 00:00:00.000
+202210,NTT Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-10-01 00:00:00.000
+202210,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-10-01 00:00:00.000
+202210,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-10-01 00:00:00.000
+202110,IX Telecom,200,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Microsoft,10,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2021-10-01 00:00:00.000
+202110,Orange Business Services,6011,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-10-01 00:00:00.000
+202110,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Pgas Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-10-01 00:00:00.000
+202110,PT. Aliansi Teknologi Indonesia,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-10-01 00:00:00.000
+202110,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-10-01 00:00:00.000
+202110,Telkom DES,93.4375,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2021-10-01 00:00:00.000
+202110,Telkom DGS,100,Revenue,Revenue,Data,IP Transit,Internal,IDR,MTD,2021-10-01 00:00:00.000
+202111,China Unicom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-11-01 00:00:00.000
+202111,CJ Feed Myanmar,40,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Facebook,800000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-11-01 00:00:00.000
+202111,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Level 3 Communication,1140,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-11-01 00:00:00.000
+202111,NTT Communications,64,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-11-01 00:00:00.000
+202111,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2021-11-01 00:00:00.000
+202111,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Telkom DES,1216.5625,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2021-11-01 00:00:00.000
+202111,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-11-01 00:00:00.000
+202112,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,Bharti,7,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-12-01 00:00:00.000
+202112,CJ Feed Myanmar,40,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-12-01 00:00:00.000
+202112,GTT Communications,30000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-12-01 00:00:00.000
+202112,HM Sampoerna,10,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,Level 3 Communication,1130,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Level 3 Communication,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Meiloon,40,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,NTT Communications,64,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Orange Business Services,5301.84375,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-12-01 00:00:00.000
+202112,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,Singapore Telecom,200,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Singapore Telecom,200145,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Telkom DES,244,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2021-12-01 00:00:00.000
+202201,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2022-01-01 00:00:00.000
+202201,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Facebook,800000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Global Transit Communications,40000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,GTT Communications,30000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Korea Telecom,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Nevigate Communication,4,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-01-01 00:00:00.000
+202201,NTT Communications,65,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-01-01 00:00:00.000
+202201,PT. Artha Dana Teknologi,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2022-01-01 00:00:00.000
+202201,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-01-01 00:00:00.000
+202312,Catchpoint Systems,1215,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-12-01 00:00:00.000
+202312,China Telecom,550,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2023-12-01 00:00:00.000
+202312,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,MTD,2023-12-01 00:00:00.000
+202303,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-03-01 00:00:00.000
+202303,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-03-01 00:00:00.000
+202303,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-03-01 00:00:00.000
+202303,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-03-01 00:00:00.000
+202303,Facebook,800000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-03-01 00:00:00.000
+202303,HM Sampoerna,7757,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,PT. Adhi Lima Cipta,976.5625,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-03-01 00:00:00.000
+202303,Singapore Telecom,200,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2023-03-01 00:00:00.000
+202303,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-03-01 00:00:00.000
+202306,Tata Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-06-01 00:00:00.000
+202306,Telkom DES,202148,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2023-06-01 00:00:00.000
+202307,,20,Revenue,Revenue,Data,Other Data,,IDR,YTD,2023-07-01 00:00:00.000
+202307,Amazon,2040200,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-07-01 00:00:00.000
+202307,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-07-01 00:00:00.000
+202307,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-07-01 00:00:00.000
+202307,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-07-01 00:00:00.000
+202307,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2023-07-01 00:00:00.000
+202307,Expereo,361,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-07-01 00:00:00.000
+202307,HM Sampoerna,8233,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-07-01 00:00:00.000
+202307,Orange Business Services,0,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2023-07-01 00:00:00.000
+202307,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-07-01 00:00:00.000
+202307,Singapore Telecom,200,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2023-07-01 00:00:00.000
+202307,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-07-01 00:00:00.000
+202307,Telkom DGS,12,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2023-07-01 00:00:00.000
+202307,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2023-07-01 00:00:00.000
+202308,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-08-01 00:00:00.000
+202308,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-08-01 00:00:00.000
+202308,HM Sampoerna,8392,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-08-01 00:00:00.000
+202308,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2023-08-01 00:00:00.000
+202309,JAPFA,125,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-09-01 00:00:00.000
+202309,JCB,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2023-09-01 00:00:00.000
+202309,Microsoft,400000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-09-01 00:00:00.000
+202309,Nevigate Communication,20,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-09-01 00:00:00.000
+202309,Orange Business Services,4041.5625,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-09-01 00:00:00.000
+202309,Sprint,98,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-09-01 00:00:00.000
+202310,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-10-01 00:00:00.000
+202310,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-10-01 00:00:00.000
+202310,HM Sampoerna,8112,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-10-01 00:00:00.000
+202310,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2023-10-01 00:00:00.000
+202311,,20,Revenue,Revenue,Data,Other Data,,IDR,YTD,2023-11-01 00:00:00.000
+202311,Amazon,1442200,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-11-01 00:00:00.000
+202311,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-11-01 00:00:00.000
+202311,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-11-01 00:00:00.000
+202311,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2023-11-01 00:00:00.000
+202311,Expereo,361,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-11-01 00:00:00.000
+202311,HM Sampoerna,8270,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-11-01 00:00:00.000
+202401,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2024-01-01 00:00:00.000
+202401,Vodafone,1190,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-01-01 00:00:00.000
+202402,Arelion (Telia),100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2024-02-01 00:00:00.000
+202402,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-02-01 00:00:00.000
+202402,CMC Telecom,500,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-02-01 00:00:00.000
+202402,Facebook,602000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2024-02-01 00:00:00.000
+202402,HM Sampoerna,8208,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,Microsoft,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,NTT Communications,73,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2024-02-01 00:00:00.000
+202402,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2024-02-01 00:00:00.000
+202402,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2024-02-01 00:00:00.000
+202212,Pgas Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-12-01 00:00:00.000
+202212,Sprint,102,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-12-01 00:00:00.000
+202212,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-12-01 00:00:00.000
+202212,Telkom DES,84.8125,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2022-12-01 00:00:00.000
+202212,Telkom DGS,12,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2022-12-01 00:00:00.000
+202212,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2022-12-01 00:00:00.000
+202301,Akamai International B.V,1850000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Bharti,100007,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-01-01 00:00:00.000
+202301,China Unicom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Huawei Marine Network International,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Level 3 Communication,430,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Netflix,200,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-01-01 00:00:00.000
+202301,PCCW,553,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2023-01-01 00:00:00.000
+202301,PLDT,1131000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Singapore Telecom,8624,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Telekom Malaysia,210000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Telkom DES,203124.5625,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2023-01-01 00:00:00.000
+202301,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-01-01 00:00:00.000
+202301,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-01-01 00:00:00.000
+202302,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2023-02-01 00:00:00.000
+202302,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2023-02-01 00:00:00.000
+202302,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-02-01 00:00:00.000
+202302,GTT Communications,20000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-02-01 00:00:00.000
+202302,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-02-01 00:00:00.000
+202302,Level 3 Communication,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-02-01 00:00:00.000
+202302,NTT Communications,300004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-02-01 00:00:00.000
+202302,Orange Business Services,100,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2023-02-01 00:00:00.000
+202302,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2023-02-01 00:00:00.000
+202302,PCCW,30000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-02-01 00:00:00.000
+202302,PT. Aliansi Teknologi Indonesia,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2023-02-01 00:00:00.000
+202302,PT. Artha Dana Teknologi,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2023-02-01 00:00:00.000
+202302,Singapore Telecom,200134,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-02-01 00:00:00.000
+202302,Tata Communications,4,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2023-02-01 00:00:00.000
+202108,Telkom DGS,36,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2021-08-01 00:00:00.000
+202108,Telkom DWS,69734,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2021-08-01 00:00:00.000
+202109,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2021-09-01 00:00:00.000
+202109,China Telecom,160960,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-09-01 00:00:00.000
+202109,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-09-01 00:00:00.000
+202109,CJ Feed Myanmar,30,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-09-01 00:00:00.000
+202109,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-09-01 00:00:00.000
+202109,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-09-01 00:00:00.000
+202109,Facebook,800000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-09-01 00:00:00.000
+202109,HM Sampoerna,10,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2021-09-01 00:00:00.000
+202109,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2021-09-01 00:00:00.000
+202109,Microsoft,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-09-01 00:00:00.000
+202101,Amazon,300000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-01-01 00:00:00.000
+202101,China Telecom,160960,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-01-01 00:00:00.000
+202101,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-01-01 00:00:00.000
+202101,Facebook,100,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-01-01 00:00:00.000
+202101,Global Transit Communications,50000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-01-01 00:00:00.000
+202101,PT. Aliansi Teknologi Indonesia,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-01-01 00:00:00.000
+202101,Singapore Telecom,215,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2021-01-01 00:00:00.000
+202101,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-01-01 00:00:00.000
+202101,Telekom Malaysia,12,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-01-01 00:00:00.000
+202101,Telkom DES,0,Revenue,Revenue,Data,Other Data,Internal,IDR,MTD,2021-01-01 00:00:00.000
+202101,Telkom DGS,36,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2021-01-01 00:00:00.000
+202101,Telkom DWS,0.25,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2021-01-01 00:00:00.000
+202102,Bimasakti Multi Sinergi,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-02-01 00:00:00.000
+202102,China Telecom,160960,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-02-01 00:00:00.000
+202102,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-02-01 00:00:00.000
+202102,Global Transit Communications,50000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-02-01 00:00:00.000
+202102,Microsoft,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-02-01 00:00:00.000
+202102,Singapore Telecom,215,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2021-02-01 00:00:00.000
+202102,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-02-01 00:00:00.000
+202102,Sprint,118,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-02-01 00:00:00.000
+202102,Telkom DGS,36,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2021-02-01 00:00:00.000
+202102,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,MTD,2021-02-01 00:00:00.000
+202102,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-02-01 00:00:00.000
+202103,Bimasakti Multi Sinergi,10,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-03-01 00:00:00.000
+202103,Level 3 Communication,1050,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-03-01 00:00:00.000
+202103,Nevigate Communication,58,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-03-01 00:00:00.000
+202103,Orange Business Services,4532.84375,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-03-01 00:00:00.000
+202103,Telkom DES,2206.5625,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2021-03-01 00:00:00.000
+202103,Telkom DGS,100,Revenue,Revenue,Data,IP Transit,Internal,IDR,MTD,2021-03-01 00:00:00.000
+202103,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-03-01 00:00:00.000
+202104,Amazon,500000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-04-01 00:00:00.000
+202104,Level 3 Communication,1050,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-04-01 00:00:00.000
+202104,NTT Communications,29,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-04-01 00:00:00.000
+202104,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2021-04-01 00:00:00.000
+202104,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-04-01 00:00:00.000
+202104,PCCW,664,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-04-01 00:00:00.000
+202104,Telkom DES,2206.5625,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2021-04-01 00:00:00.000
+202105,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2021-05-01 00:00:00.000
+202105,Bharti,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-05-01 00:00:00.000
+202105,China Telecom,1000,Revenue,Revenue,Data,IP Transit,External,USD,MTD,2021-05-01 00:00:00.000
+202101,Expereo,287,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-01-01 00:00:00.000
+202101,Facebook,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-01-01 00:00:00.000
+202101,KBRI,121,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-01-01 00:00:00.000
+202101,Korea Telecom,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-01-01 00:00:00.000
+202101,Netsentia,30,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-01-01 00:00:00.000
+202101,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-01-01 00:00:00.000
+202101,Telstra,201000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-01-01 00:00:00.000
+202101,Verizon,182,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-01-01 00:00:00.000
+202102,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-02-01 00:00:00.000
+202102,China Telecom,1000,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-02-01 00:00:00.000
+202102,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-02-01 00:00:00.000
+202102,Federated States of Micronesia,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-02-01 00:00:00.000
+202102,GTT Communications,30000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-02-01 00:00:00.000
+202102,HM Sampoerna,10,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-02-01 00:00:00.000
+202102,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-02-01 00:00:00.000
+202102,Microsoft,10,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-02-01 00:00:00.000
+202102,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-02-01 00:00:00.000
+202102,PT Reach Network Services Indonesia,514,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-02-01 00:00:00.000
+202102,Singapore Telecom,100143,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-02-01 00:00:00.000
+202102,Sprint,120,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-02-01 00:00:00.000
+202102,Telco Allied Singapore,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-02-01 00:00:00.000
+202102,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2021-02-01 00:00:00.000
+202102,Telkom DWS,159734,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2021-02-01 00:00:00.000
+202102,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-02-01 00:00:00.000
+202102,Vodafone,535,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-02-01 00:00:00.000
+202103,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-03-01 00:00:00.000
+202103,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-03-01 00:00:00.000
+202103,CMC Telecom,880,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-03-01 00:00:00.000
+202103,Conversant,400000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-03-01 00:00:00.000
+202103,Expereo,2,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-03-01 00:00:00.000
+202103,Facebook,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-03-01 00:00:00.000
+202103,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-03-01 00:00:00.000
+202103,KBRI,121,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-03-01 00:00:00.000
+202103,Korea Telecom,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-03-01 00:00:00.000
+202103,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-03-01 00:00:00.000
+202103,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-03-01 00:00:00.000
+202103,Telstra,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-03-01 00:00:00.000
+202103,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-03-01 00:00:00.000
+202104,Amazon,120000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-04-01 00:00:00.000
+202104,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-04-01 00:00:00.000
+202104,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-04-01 00:00:00.000
+202104,Bharti,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,China Mobile International,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-04-01 00:00:00.000
+202104,Conversant,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-04-01 00:00:00.000
+202104,GTT Communications,30000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,HM Sampoerna,10,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-04-01 00:00:00.000
+202305,Telkom DSO,8711000,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2023-05-01 00:00:00.000
+202302,Netflix,200,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-02-01 00:00:00.000
+202302,Singapore Telecom,8631,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-02-01 00:00:00.000
+202302,Telco Allied Singapore,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-02-01 00:00:00.000
+202302,Telkom DES,203024.5625,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2023-02-01 00:00:00.000
+202402,Amazon,560000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,British Telecom,0,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Catchpoint Systems,1215,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-02-01 00:00:00.000
+202402,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Conversant,1150000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Conversant,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Expereo,361,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,KBRI,235,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Orange Business Services,3477.5625,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Telkom DSO,8862890.625,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2024-02-01 00:00:00.000
+202402,Telstra,210000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202403,Akamai International B.V,300000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Arelion (Telia),100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Federated States of Micronesia,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,HM Sampoerna,3520,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,JAPFA,125,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Meiloon,40,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,Microsoft,1200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Orange Business Services,3684.5625,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-03-01 00:00:00.000
+202403,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-03-01 00:00:00.000
+202403,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Tata Communications,240,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Tata Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Telkom DWS,1819820,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2024-03-01 00:00:00.000
+202404,Amazon,560000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Catchpoint Systems,1215,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-04-01 00:00:00.000
+202404,China Unicom,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Conversant,1150000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Conversant,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,KBRI,235,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Orange Business Services,3477.5625,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Telekom Malaysia,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Telstra,210000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Verizon,133,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202210,Meiloon,40,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,Nevigate Communication,20,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,NTT Communications,56,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-10-01 00:00:00.000
+202206,Microsoft,40000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-06-01 00:00:00.000
+202206,Microsoft,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-06-01 00:00:00.000
+202206,Microsoft,10000,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-06-01 00:00:00.000
+202206,Nevigate Communication,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-06-01 00:00:00.000
+202206,Orange Business Services,4977.9140625,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-06-01 00:00:00.000
+202206,PNG Dataco,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-06-01 00:00:00.000
+202206,Sprint,124,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-06-01 00:00:00.000
+202207,Bimasakti Multi Sinergi,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-07-01 00:00:00.000
+202404,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Epsilon Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Microsoft,0,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Singapore Telecom,8662,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Telkom DES,976.5625,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2024-04-01 00:00:00.000
+202404,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Vodafone,172000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202104,Facebook,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,KBRI,121,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-04-01 00:00:00.000
+202104,Korea Telecom,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-04-01 00:00:00.000
+202104,Nevigate Communication,45,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,NTT Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-04-01 00:00:00.000
+202104,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-04-01 00:00:00.000
+202104,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-04-01 00:00:00.000
+202104,Telstra,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-04-01 00:00:00.000
+202104,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2021-04-01 00:00:00.000
+202104,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-04-01 00:00:00.000
+202105,China Telecom,160960,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-05-01 00:00:00.000
+202105,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-05-01 00:00:00.000
+202105,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-05-01 00:00:00.000
+202105,Microsoft,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-05-01 00:00:00.000
+202105,Nevigate Communication,58,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-05-01 00:00:00.000
+202105,Sprint,128,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-05-01 00:00:00.000
+202105,Telkom DGS,36,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2021-05-01 00:00:00.000
+202105,Telkom DWS,0.25,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2021-05-01 00:00:00.000
+202105,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2021-05-01 00:00:00.000
+202105,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-05-01 00:00:00.000
+202106,Amazon,600000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2021-06-01 00:00:00.000
+202106,Bimasakti Multi Sinergi,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2021-06-01 00:00:00.000
+202106,CJ Feed Myanmar,30,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Level 3 Communication,1100,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-06-01 00:00:00.000
+202106,NTT Communications,39,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Orange Business Services,4632.84375,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Singapore Telecom,215,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-06-01 00:00:00.000
+202311,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-11-01 00:00:00.000
+202311,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-11-01 00:00:00.000
+202311,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Tata Communications,220,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Telkom DES,323.3125,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2023-11-01 00:00:00.000
+202311,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2023-11-01 00:00:00.000
+202311,Vodafone,1238,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-11-01 00:00:00.000
+202312,British Telecom,1,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,Globe Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-12-01 00:00:00.000
+202312,KBRI,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-12-01 00:00:00.000
+202312,NTT Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-12-01 00:00:00.000
+202110,Netsentia,30,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-10-01 00:00:00.000
+202110,NTT Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-10-01 00:00:00.000
+202110,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-10-01 00:00:00.000
+202110,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-10-01 00:00:00.000
+202110,Telstra,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-10-01 00:00:00.000
+202110,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2021-10-01 00:00:00.000
+202111,Bharti,7,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-11-01 00:00:00.000
+202111,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-11-01 00:00:00.000
+202111,GTT Communications,30000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-11-01 00:00:00.000
+202111,JAPFA,70,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-11-01 00:00:00.000
+202111,Microsoft,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-11-01 00:00:00.000
+202111,PCCW,783,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-11-01 00:00:00.000
+202111,Singapore Telecom,200143,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-11-01 00:00:00.000
+202111,Sprint,128,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-11-01 00:00:00.000
+202111,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2021-11-01 00:00:00.000
+202112,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-12-01 00:00:00.000
+202112,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-12-01 00:00:00.000
+202112,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-12-01 00:00:00.000
+202112,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-12-01 00:00:00.000
+202112,Facebook,800000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-12-01 00:00:00.000
+202112,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-12-01 00:00:00.000
+202112,Microsoft,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-12-01 00:00:00.000
+202112,Nevigate Communication,8,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-12-01 00:00:00.000
+202112,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-12-01 00:00:00.000
+202112,Sprint,128,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-12-01 00:00:00.000
+202112,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-12-01 00:00:00.000
+202112,Telkom DGS,36,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2021-12-01 00:00:00.000
+202112,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2021-12-01 00:00:00.000
+202112,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-12-01 00:00:00.000
+202201,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-01-01 00:00:00.000
+202201,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-01-01 00:00:00.000
+202201,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-01-01 00:00:00.000
+202201,Federated States of Micronesia,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-01-01 00:00:00.000
+202201,"Innove Communication, Inc",10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-01-01 00:00:00.000
+202201,JAPFA,75,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-01-01 00:00:00.000
+202201,Level 3 Communication,110000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-01-01 00:00:00.000
+202306,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-06-01 00:00:00.000
+202306,Federated States of Micronesia,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-06-01 00:00:00.000
+202306,HM Sampoerna,8127,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-06-01 00:00:00.000
+202306,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2023-06-01 00:00:00.000
+202209,Telekom Malaysia,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-09-01 00:00:00.000
+202209,Telkom DWS,0.25,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2022-09-01 00:00:00.000
+202209,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Vodafone,682,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-09-01 00:00:00.000
+202210,Akamai International B.V,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,GTT Communications,20000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,HM Sampoerna,30,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,JAPFA,75,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Level 3 Communication,110000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Microsoft,400000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Netsentia,185,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Orange Business Services,5126.984375,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,PT. Aliansi Teknologi Indonesia,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,PT. Artha Dana Teknologi,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,Singapore Telecom,200,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Singapore Telecom,200141,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Sprint,112,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202211,Chunghwa Telecom,0,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Epsilon Telecommunication,20000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Telekom Malaysia,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-11-01 00:00:00.000
+202211,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Vodafone,172000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-11-01 00:00:00.000
+202212,China Unicom,100010,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,China Unicom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-12-01 00:00:00.000
+202212,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Huawei Marine Network International,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-12-01 00:00:00.000
+202212,PNG Dataco,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Telco Allied Singapore,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Telkom DES,658,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-12-01 00:00:00.000
+202301,British Telecom,1,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2023-01-01 00:00:00.000
+202301,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-01-01 00:00:00.000
+202301,Expereo,369,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-01-01 00:00:00.000
+202301,Globe Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-01-01 00:00:00.000
+202301,NTT Communications,300004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-01-01 00:00:00.000
+202301,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-01-01 00:00:00.000
+202301,Telkom DSO,8711000,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2023-01-01 00:00:00.000
+202302,Bharti,100007,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-02-01 00:00:00.000
+202302,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2023-02-01 00:00:00.000
+202302,China Unicom,200010,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-02-01 00:00:00.000
+202302,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-02-01 00:00:00.000
+202302,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2023-02-01 00:00:00.000
+202208,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-08-01 00:00:00.000
+202208,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-08-01 00:00:00.000
+202208,Telkom DSO,8827000,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2022-08-01 00:00:00.000
+202208,Telstra,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-08-01 00:00:00.000
+202208,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-08-01 00:00:00.000
+202209,Akamai International B.V,1350000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Chunghwa Telecom,0,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Epsilon Telecommunication,20000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Expereo,2,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Expereo,269,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-09-01 00:00:00.000
+202209,PCCW,696,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Pgas Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202209,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Vodafone,172000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202210,Amazon,1140200,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,Bimasakti Multi Sinergi,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,CJ Feed Myanmar,40,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-10-01 00:00:00.000
+202210,HM Sampoerna,7232,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-10-01 00:00:00.000
+202210,Huawei Marine Network International,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Level 3 Communication,630,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Level 3 Communication,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Telkom DES,662,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-10-01 00:00:00.000
+202211,Akamai International B.V,1850000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Expereo,2,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Expereo,369,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-11-01 00:00:00.000
+202211,PCCW,652,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Pgas Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-11-01 00:00:00.000
+202211,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2022-11-01 00:00:00.000
+202212,Amazon,380000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,Catchpoint Systems,1215,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-12-01 00:00:00.000
+202212,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-12-01 00:00:00.000
+202212,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Conversant,1050000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,Conversant,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,Facebook,800000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,KBRI,165,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Orange Business Services,4511,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,PT. Adhi Lima Cipta,976.5625,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Telkom DSO,9259000,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2022-12-01 00:00:00.000
+202209,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-09-01 00:00:00.000
+202209,Huawei Marine Network International,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Level 3 Communication,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Netsentia,85,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Singapore Telecom,200141,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Telco Allied Singapore,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Telkom DES,674,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-09-01 00:00:00.000
+202210,Akamai International B.V,1350000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Expereo,269,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Korea Telecom,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,PCCW,678,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2022-10-01 00:00:00.000
+202211,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-11-01 00:00:00.000
+202211,CJ Feed Myanmar,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-11-01 00:00:00.000
+202211,HM Sampoerna,30,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-11-01 00:00:00.000
+202211,HM Sampoerna,7215,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-11-01 00:00:00.000
+202211,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-11-01 00:00:00.000
+202211,Huawei Marine Network International,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Level 3 Communication,530,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Level 3 Communication,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Netsentia,85,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Singapore Telecom,200141,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Telco Allied Singapore,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-11-01 00:00:00.000
+202211,Telkom DES,100662,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-11-01 00:00:00.000
+202212,Akamai International B.V,110000,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Arelion (Telia),100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Federated States of Micronesia,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Infotek Global Network,1000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,Meiloon,40,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,Microsoft,10,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-12-01 00:00:00.000
+202212,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-12-01 00:00:00.000
+202212,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Tata Communications,160,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-12-01 00:00:00.000
+202212,Telkom DWS,2169845,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-12-01 00:00:00.000
+202212,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-12-01 00:00:00.000
+202212,Vodafone,698,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-12-01 00:00:00.000
+202301,Akamai International B.V,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-01-01 00:00:00.000
+202301,Amazon,1140200,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-01-01 00:00:00.000
+202112,PNG Dataco,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-12-01 00:00:00.000
+202112,Telekom Malaysia,12,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-12-01 00:00:00.000
+202201,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-01-01 00:00:00.000
+202201,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-01-01 00:00:00.000
+202201,Telkom DSO,8183000,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2022-01-01 00:00:00.000
+202201,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-01-01 00:00:00.000
+202202,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-02-01 00:00:00.000
+202202,Bharti,7,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-02-01 00:00:00.000
+202202,China Mobile International,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-02-01 00:00:00.000
+202202,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-02-01 00:00:00.000
+202202,IX Telecom,200,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-02-01 00:00:00.000
+202202,Microsoft,10,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-02-01 00:00:00.000
+202202,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-02-01 00:00:00.000
+202202,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-02-01 00:00:00.000
+202202,Telkom DES,90.4375,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2022-02-01 00:00:00.000
+202202,Telkom DGS,12,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2022-02-01 00:00:00.000
+202202,Vodafone,664,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-02-01 00:00:00.000
+202202,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-02-01 00:00:00.000
+202203,China Unicom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-03-01 00:00:00.000
+202203,Global Transit Communications,40000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-03-01 00:00:00.000
+202203,Globe Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-03-01 00:00:00.000
+202203,NTT Communications,65,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-03-01 00:00:00.000
+202203,PNG Dataco,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-03-01 00:00:00.000
+202203,Telkom DWS,0.25,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2022-03-01 00:00:00.000
+202204,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-04-01 00:00:00.000
+202204,China Mobile International,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-04-01 00:00:00.000
+202204,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-04-01 00:00:00.000
+202204,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-04-01 00:00:00.000
+202204,Equinix,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-04-01 00:00:00.000
+202204,IX Telecom,200,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-04-01 00:00:00.000
+202204,Level 3 Communication,110000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-04-01 00:00:00.000
+202204,Microsoft,40000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-04-01 00:00:00.000
+202204,Microsoft,200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-04-01 00:00:00.000
+202204,Microsoft,10000,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-04-01 00:00:00.000
+202204,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-04-01 00:00:00.000
+202204,PT. Aliansi Teknologi Indonesia,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-04-01 00:00:00.000
+202204,Singapore Telecom,6117.0625,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-04-01 00:00:00.000
+202204,Sprint,128,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-04-01 00:00:00.000
+202204,Telkom DES,90.4375,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2022-04-01 00:00:00.000
+202204,Telkom DES,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2022-04-01 00:00:00.000
+202204,Telkom DGS,12,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2022-04-01 00:00:00.000
+202204,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-04-01 00:00:00.000
+202205,Amazon,380000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-05-01 00:00:00.000
+202205,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-05-01 00:00:00.000
+202205,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-05-01 00:00:00.000
+202205,Catchpoint Systems,1215,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-05-01 00:00:00.000
+202205,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-05-01 00:00:00.000
+202205,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-05-01 00:00:00.000
+202205,Conversant,780000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2022-05-01 00:00:00.000
+202205,Conversant,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2022-05-01 00:00:00.000
+202205,Facebook,800000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-05-01 00:00:00.000
+202205,GTT Communications,20000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-05-01 00:00:00.000
+202205,KBRI,126,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-05-01 00:00:00.000
+202205,Korea Telecom,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-05-01 00:00:00.000
+202205,Orange Business Services,4511,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-05-01 00:00:00.000
+202310,Tata Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-10-01 00:00:00.000
+202310,Telkom DWS,1229820,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2023-10-01 00:00:00.000
+202311,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-11-01 00:00:00.000
+202311,China Unicom,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Huawei Marine Network International,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Telco Allied Singapore,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Telekom Malaysia,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Telstra,210000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-11-01 00:00:00.000
+202311,Verizon,133,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-11-01 00:00:00.000
+202312,Akamai International B.V,300000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Arelion (Telia),100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Bharti,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Federated States of Micronesia,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-12-01 00:00:00.000
+202312,HM Sampoerna,8258,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,Infotek Global Network,1000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,JAPFA,125,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Level 3 Communication,420,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Meiloon,40,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,Orange Business Services,3658.5625,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-12-01 00:00:00.000
+202312,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-12-01 00:00:00.000
+202312,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-12-01 00:00:00.000
+202312,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Tata Communications,220,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-12-01 00:00:00.000
+202312,Telkom DWS,1629820,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2023-12-01 00:00:00.000
+202401,Akamai International B.V,1850000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2024-01-01 00:00:00.000
+202401,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,CMC Telecom,500,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Facebook,602000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,KBRI,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Nevigate Communication,20,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-01-01 00:00:00.000
+202401,PCCW,312,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-01-01 00:00:00.000
+202401,PLDT,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-01-01 00:00:00.000
+202401,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Telkom DGS,12,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2024-01-01 00:00:00.000
+202401,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2024-01-01 00:00:00.000
+202401,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-01-01 00:00:00.000
+202402,,20,Revenue,Revenue,Data,Other Data,,IDR,YTD,2024-02-01 00:00:00.000
+202402,Amazon,1432000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,China Telecom,900,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Microsoft,510,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Orange Business Services,100,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Orange Business Services,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2024-02-01 00:00:00.000
+202402,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Vodafone,1188,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202101,Arelion (Telia),0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-01-01 00:00:00.000
+202404,PT Reach Network Services Indonesia,794,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,PT. Artha Dana Teknologi,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Singapore Telecom,200129,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Tata Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Telkom DWS,1310025,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2024-04-01 00:00:00.000
+202312,Telkom DES,100,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2023-12-01 00:00:00.000
+202312,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2023-12-01 00:00:00.000
+202401,Global Transit Communications,40000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Globe Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-01-01 00:00:00.000
+202401,NTT Communications,73,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-01-01 00:00:00.000
+202401,Telekom Malaysia,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-01-01 00:00:00.000
+202402,Akamai International B.V,300000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202111,Bimasakti Multi Sinergi,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-11-01 00:00:00.000
+202111,China Mobile International,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-11-01 00:00:00.000
+202111,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Globe Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-11-01 00:00:00.000
+202111,IX Telecom,200,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Orange Business Services,6011,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-11-01 00:00:00.000
+202111,Telkom DES,93.4375,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2021-11-01 00:00:00.000
+202111,Telkom DGS,100,Revenue,Revenue,Data,IP Transit,Internal,IDR,MTD,2021-11-01 00:00:00.000
+202111,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-11-01 00:00:00.000
+202111,Vodafone,604,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-11-01 00:00:00.000
+202112,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Bimasakti Multi Sinergi,20,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,China Mobile International,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-12-01 00:00:00.000
+202112,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Conversant,600000,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,IX Telecom,200,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Telkom DES,90.4375,Revenue,Revenue,Data,IP VPN,Internal,IDR,MTD,2021-12-01 00:00:00.000
+202112,Telkom DGS,100,Revenue,Revenue,Data,IP Transit,Internal,IDR,MTD,2021-12-01 00:00:00.000
+202112,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2021-12-01 00:00:00.000
+202112,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2021-12-01 00:00:00.000
+202112,Vodafone,594,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2021-12-01 00:00:00.000
+202112,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2021-12-01 00:00:00.000
+202201,Amazon,180000,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2022-01-01 00:00:00.000
+202201,Bimasakti Multi Sinergi,100,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2022-01-01 00:00:00.000
+202201,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-01-01 00:00:00.000
+202201,China Unicom,100010,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Conversant,700000,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2022-01-01 00:00:00.000
+202201,Conversant,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-01-01 00:00:00.000
+202201,Epsilon Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Telkom DGS,50,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,MTD,2022-01-01 00:00:00.000
+202201,Verizon,262,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Viettel,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Vodafone,664,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Vodafone,72000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202202,Amazon,100,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2022-02-01 00:00:00.000
+202202,British Telecom,504,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2022-02-01 00:00:00.000
+202202,China Telecom,160480,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-02-01 00:00:00.000
+202202,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-02-01 00:00:00.000
+202202,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-02-01 00:00:00.000
+202202,CMC Telecom,1180,Revenue,Revenue,Data,IP VPN,External,USD,MTD,2022-02-01 00:00:00.000
+202207,Akamai International B.V,1250000,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-07-01 00:00:00.000
+202207,Amazon,1140200,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-07-01 00:00:00.000
+202207,Conversant,0,Revenue,Revenue,Data,CDN Infrastructure,External,IDR,YTD,2022-07-01 00:00:00.000
+202207,Edgecast Networks,0,Revenue,Revenue,Data,CDN Infrastructure,External,USD,YTD,2022-07-01 00:00:00.000
+202207,Expereo,257,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-07-01 00:00:00.000
+202207,JAPFA,75,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-07-01 00:00:00.000
+202207,Level 3 Communication,630,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-07-01 00:00:00.000
+202207,Nevigate Communication,20,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-07-01 00:00:00.000
+202207,Orange Business Services,50,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-07-01 00:00:00.000
+202402,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,China Mobile International,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Chunghwa Telecom,2,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,IX Telecom,200,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Microsoft,0,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Microsoft,1200000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Microsoft,10000,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-02-01 00:00:00.000
+202402,Netflix,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Singapore Telecom,8827,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Sprint,98,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Tata Communications,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-02-01 00:00:00.000
+202402,Telkom DES,142.75,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2024-02-01 00:00:00.000
+202402,Telkom DES,976.5625,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2024-02-01 00:00:00.000
+202402,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-02-01 00:00:00.000
+202403,British Telecom,0,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2024-03-01 00:00:00.000
+202403,Globe Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-03-01 00:00:00.000
+202403,KBRI,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-03-01 00:00:00.000
+202403,NTT Communications,100004,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202403,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-03-01 00:00:00.000
+202404,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Arelion (Telia),100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Bharti,100007,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,China Mobile International,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,IX Telecom,200,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Microsoft,510,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Microsoft,10000,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Netflix,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,PCCW,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2024-04-01 00:00:00.000
+202404,Sprint,150,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Tata Communications,240,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Tata Communications,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Telkom DES,142.625,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2024-04-01 00:00:00.000
+202404,Vodafone,1188,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2024-04-01 00:00:00.000
+202404,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2024-04-01 00:00:00.000
+202301,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2023-01-01 00:00:00.000
+202301,Tata Communications,190,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2023-01-01 00:00:00.000
+202301,Telco Allied Singapore,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2023-01-01 00:00:00.000
+202209,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2022-09-01 00:00:00.000
+202209,PT. Artha Dana Teknologi,50,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-09-01 00:00:00.000
+202209,PT. Mitra Integrasi Informatika,2000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2022-09-01 00:00:00.000
+202209,Singapore Telecom,200,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Singapore Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Tata Communications,130,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Tata Communications,4,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-09-01 00:00:00.000
+202209,Telkom DWS,2129800,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2022-09-01 00:00:00.000
+202209,Telkom DWS,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2022-09-01 00:00:00.000
+202210,BICS Belgacom International Carrier,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Catchpoint Systems,1215,Revenue,Revenue,Data,Other Data,External,USD,YTD,2022-10-01 00:00:00.000
+202210,Chunghwa Telecom,0,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202210,KBRI,126,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2022-10-01 00:00:00.000
+202105,Telkom DGS,100,Revenue,Revenue,Data,IP Transit,Internal,IDR,YTD,2021-05-01 00:00:00.000
+202105,Telstra,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-05-01 00:00:00.000
+202105,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2021-05-01 00:00:00.000
+202106,China Unicom,100010,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Korea Telecom,10,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Microsoft,40000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-06-01 00:00:00.000
+202106,Microsoft,10000,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-06-01 00:00:00.000
+202106,PLDT,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Singapore Telecom,5848.0625,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Telkom DES,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2021-06-01 00:00:00.000
+202106,Telstra,201000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-06-01 00:00:00.000
+202106,Verizon,193,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-06-01 00:00:00.000
+202107,China Telecom,1000,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-07-01 00:00:00.000
+202107,China Telecom,160960,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-07-01 00:00:00.000
+202107,Chunghwa Telecom,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-07-01 00:00:00.000
+202107,Federated States of Micronesia,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-07-01 00:00:00.000
+202107,Global Transit Communications,40000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-07-01 00:00:00.000
+202107,HM Sampoerna,10,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-07-01 00:00:00.000
+202107,HM Sampoerna,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-07-01 00:00:00.000
+202107,Level 3 Communication,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-07-01 00:00:00.000
+202107,Nevigate Communication,8,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-07-01 00:00:00.000
+202107,PCCW,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-07-01 00:00:00.000
+202107,Pgas Telecommunication,10000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-07-01 00:00:00.000
+202107,PT Reach Network Services Indonesia,724,Revenue,Revenue,Data,IP VPN,External,IDR,YTD,2021-07-01 00:00:00.000
+202107,Sprint,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-07-01 00:00:00.000
+202107,Tata Communications,4,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-07-01 00:00:00.000
+202107,Telkom DGS,36,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2021-07-01 00:00:00.000
+202107,Telkom DWS,169734,Revenue,Revenue,Data,IPLC/IEPL,Internal,IDR,YTD,2021-07-01 00:00:00.000
+202108,Amazon,600000,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2021-08-01 00:00:00.000
+202108,Bimasakti Multi Sinergi,100,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,YTD,2021-08-01 00:00:00.000
+202108,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-08-01 00:00:00.000
+202108,China Unicom,100010,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-08-01 00:00:00.000
+202108,Conversant,400000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-08-01 00:00:00.000
+202108,Expereo,2,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-08-01 00:00:00.000
+202108,KBRI,121,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-08-01 00:00:00.000
+202108,Korea Telecom,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-08-01 00:00:00.000
+202108,PLDT,0,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-08-01 00:00:00.000
+202108,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-08-01 00:00:00.000
+202108,Telkom DES,0,Revenue,Revenue,Data,Other Data,Internal,IDR,YTD,2021-08-01 00:00:00.000
+202108,Telstra,201000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-08-01 00:00:00.000
+202108,Verizon,191,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-08-01 00:00:00.000
+202109,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-09-01 00:00:00.000
+202109,China Unicom,2,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-09-01 00:00:00.000
+202109,Conversant,500000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-09-01 00:00:00.000
+202109,Expereo,2,Revenue,Revenue,Data,IP Transit,External,USD,YTD,2021-09-01 00:00:00.000
+202109,KBRI,121,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-09-01 00:00:00.000
+202109,Korea Telecom,10,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-09-01 00:00:00.000
+202109,SK Broadband,4,Revenue,Revenue,Data,IP VPN,External,USD,YTD,2021-09-01 00:00:00.000
+202109,Telkom DWS,0.25,Revenue,Revenue,Data,IP VPN,Internal,IDR,YTD,2021-09-01 00:00:00.000
+202109,Telstra,201000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,YTD,2021-09-01 00:00:00.000
+202109,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,YTD,2021-09-01 00:00:00.000
+202110,Amazon,180000,Revenue,Revenue,Data,IP Transit,External,IDR,YTD,2021-10-01 00:00:00.000
+202110,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,YTD,2021-10-01 00:00:00.000
+202210,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-10-01 00:00:00.000
+202210,Telkom DSO,9040000,Revenue,Revenue,Data,IP Transit,Internal,IDR,MTD,2022-10-01 00:00:00.000
+202210,Verizon,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-10-01 00:00:00.000
+202210,Vodafone,0,Revenue,Revenue,Data,Other Data,External,USD,MTD,2022-10-01 00:00:00.000
+202211,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-11-01 00:00:00.000
+202211,China Telecom,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-11-01 00:00:00.000
+202211,Microsoft,0,Revenue,Revenue,Data,IP Transit,External,IDR,MTD,2022-11-01 00:00:00.000
+202211,Microsoft,10,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2022-11-01 00:00:00.000
+202211,Microsoft,10000,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-11-01 00:00:00.000
+202211,Netflix,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-11-01 00:00:00.000
+202201,PT. Artha Dana Teknologi,1,Revenue,Revenue,Data,IP VPN,External,IDR,MTD,2022-01-01 00:00:00.000
+202201,Telekom Malaysia,100000,Revenue,Revenue,Data,IPLC/IEPL,External,USD,MTD,2022-01-01 00:00:00.000
+202201,Telkom DSO,8183000,Revenue,Revenue,Data,IP Transit,Internal,IDR,MTD,2022-01-01 00:00:00.000
+202201,Telstra,0,Revenue,Revenue,Data,IPLC/IEPL,External,IDR,MTD,2022-01-01 00:00:00.000
+202202,Amazon,0,Revenue,Revenue,Data,Other Data,External,IDR,MTD,2022-02-01 00:00:00.000

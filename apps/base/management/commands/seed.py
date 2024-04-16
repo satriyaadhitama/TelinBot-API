@@ -1,13 +1,21 @@
 from django.core.management.base import BaseCommand
 from django.core.management import call_command
 from django.utils.termcolors import make_style
+from django.conf import settings
 from dotenv import load_dotenv
 from apps.user_auth.seeds import seed_superuser, seed_groups, seed_users
+from apps.base.seeds import seed_data_from_csv
+from apps.services.models import (
+    FactNewCustomerRegion,
+    FactTopCDN,
+    FactTopTraffic,
+    FactTrafficCDN,
+)
+
 import MySQLdb
 import configparser
-
-import psycopg2
 import os
+import warnings
 
 load_dotenv()
 
@@ -61,3 +69,28 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS("Superuser seeded"))
         seed_users()
         self.stdout.write(self.style.SUCCESS("Users seeded"))
+
+        # Seeding from file
+        
+        
+        # Ignore DateTimeField naive datetime warnings globally
+        warnings.filterwarnings(
+            "ignore",
+            message="DateTimeField .* received a naive datetime",
+            category=RuntimeWarning,
+            module='django.db.models.fields'
+        )
+        
+        static_path = os.path.join(settings.BASE_DIR, "static", "data")
+        files = [
+            "fact_new_customer_region.csv",
+            "fact_top_cdn.csv",
+            "fact_top_traffic.csv",
+            "fact_traffic_cdn.csv",
+        ]
+
+        models = [FactNewCustomerRegion, FactTopCDN, FactTopTraffic, FactTrafficCDN]
+
+        for i, (file, model) in enumerate(zip(files, models)):
+            csv_file = os.path.join(static_path, file)
+            seed_data_from_csv(csv_file, model)

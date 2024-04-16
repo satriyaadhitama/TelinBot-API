@@ -1,0 +1,719 @@
+﻿dim_month,customer_name,product_name,usage_value,usage_unit,partner,type
+202206,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202208,TVRI,CDN Sales Edgecast,1973220.54,GB,Edgio,MTD
+202209,TVRI,CDN Sales Edgecast,2036226.18,GB,Edgio,MTD
+202210,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202212,TVRI,CDN Sales Edgecast,1764321.48,GB,Edgio,MTD
+202302,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202304,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202306,TVRI,CDN Sales Edgecast,1539209.58,GB,Edgio,MTD
+202308,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202311,TVRI,CDN Sales Edgecast,1949045.76,GB,Edgio,MTD
+202401,TVRI,CDN Sales Edgecast,388117.5,GB,Edgio,MTD
+202003,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202003,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202005,TVRI,CDN Sales Edgecast,899958.06,GB,Edgio,MTD
+202006,TVRI,CDN Sales Edgecast,1163395.62,GB,Edgio,MTD
+202010,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202010,TVRI,CDN Sales Edgecast,902335.919999999,GB,Edgio,MTD
+202011,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202011,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202012,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202101,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202102,TVRI,CDN Sales Edgecast,1221321.6,GB,Edgio,MTD
+202103,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202104,TVRI,CDN Sales Edgecast,763123.440000001,GB,Edgio,MTD
+202109,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202109,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202204,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202205,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202210,TVRI,CDN Sales Edgecast,2196388.2,GB,Edgio,MTD
+202308,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202310,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202311,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202402,TVRI,CDN Sales Edgecast,117547.56,GB,Edgio,MTD
+202008,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202008,TVRI,CDN Sales Edgecast,772165.14,GB,Edgio,MTD
+202012,TVRI,CDN Sales Edgecast,837684.36,GB,Edgio,MTD
+202101,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202108,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202110,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202110,TVRI,CDN Sales Edgecast,1707863.16,GB,Edgio,MTD
+202111,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202203,TVRI,CDN Sales Edgecast,1610857.32,GB,Edgio,MTD
+202206,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202206,TVRI,CDN Sales Edgecast,1506501,GB,Edgio,MTD
+202211,TVRI,CDN Sales Edgecast,1839639.48,GB,Edgio,MTD
+202301,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202301,TVRI,CDN Sales Edgecast,2003709.6,GB,Edgio,MTD
+202303,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202307,TVRI,CDN Sales Edgecast,1580729.88,GB,Edgio,MTD
+202310,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202310,TVRI,CDN Sales Edgecast,1805631.66,GB,Edgio,MTD
+202311,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202003,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202004,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202005,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202006,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202007,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202008,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202009,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202010,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202011,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202012,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202101,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202102,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202103,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202104,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202105,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202106,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202107,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202108,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202109,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202110,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202111,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202112,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202201,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202202,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202203,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202204,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202205,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202206,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202207,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202208,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202209,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202210,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202211,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202212,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202301,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202302,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202303,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202304,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202305,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202306,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202307,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202308,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202309,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202310,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202311,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202312,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202401,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202402,Hoobex,CDN Sales Edgecast,0,GB,Edgio,YTD
+202003,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202004,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202005,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202006,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202007,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202008,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202009,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202010,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202011,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202012,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202101,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202102,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202103,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202104,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202105,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202106,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202107,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202108,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202109,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202110,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202111,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202112,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202201,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202202,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202203,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202204,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202205,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202206,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202207,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202208,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202209,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202210,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202211,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202212,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202301,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202302,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202303,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202304,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202305,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202306,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202307,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202308,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202309,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202310,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202311,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202312,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202401,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202402,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,YTD
+202003,TVRI,CDN Sales Edgecast,810600.899999999,GB,Edgio,YTD
+202004,TVRI,CDN Sales Edgecast,3141101.22,GB,Edgio,YTD
+202005,TVRI,CDN Sales Edgecast,4041059.28,GB,Edgio,YTD
+202006,TVRI,CDN Sales Edgecast,5204454.9,GB,Edgio,YTD
+202007,TVRI,CDN Sales Edgecast,6207344.4,GB,Edgio,YTD
+202008,TVRI,CDN Sales Edgecast,6979509.54,GB,Edgio,YTD
+202009,TVRI,CDN Sales Edgecast,7745260.86,GB,Edgio,YTD
+202010,TVRI,CDN Sales Edgecast,8647596.78,GB,Edgio,YTD
+202011,TVRI,CDN Sales Edgecast,9387314.94,GB,Edgio,YTD
+202012,TVRI,CDN Sales Edgecast,10224999.3,GB,Edgio,YTD
+202101,TVRI,CDN Sales Edgecast,4602823.38,GB,Edgio,YTD
+202102,TVRI,CDN Sales Edgecast,5824144.98,GB,Edgio,YTD
+202103,TVRI,CDN Sales Edgecast,6573814.32,GB,Edgio,YTD
+202104,TVRI,CDN Sales Edgecast,7336937.76,GB,Edgio,YTD
+202105,TVRI,CDN Sales Edgecast,8121866.34,GB,Edgio,YTD
+202106,TVRI,CDN Sales Edgecast,8864513.22,GB,Edgio,YTD
+202107,TVRI,CDN Sales Edgecast,9928767.06,GB,Edgio,YTD
+202108,TVRI,CDN Sales Edgecast,10847369.88,GB,Edgio,YTD
+202109,TVRI,CDN Sales Edgecast,12012226.08,GB,Edgio,YTD
+202110,TVRI,CDN Sales Edgecast,13720089.24,GB,Edgio,YTD
+202111,TVRI,CDN Sales Edgecast,14833941.24,GB,Edgio,YTD
+202112,TVRI,CDN Sales Edgecast,16205088.24,GB,Edgio,YTD
+202201,TVRI,CDN Sales Edgecast,2197671.48,GB,Edgio,YTD
+202202,TVRI,CDN Sales Edgecast,3604760.52,GB,Edgio,YTD
+202203,TVRI,CDN Sales Edgecast,5215617.84,GB,Edgio,YTD
+202204,TVRI,CDN Sales Edgecast,6719576.94,GB,Edgio,YTD
+202205,TVRI,CDN Sales Edgecast,8493366.9,GB,Edgio,YTD
+202206,TVRI,CDN Sales Edgecast,9999867.9,GB,Edgio,YTD
+202207,TVRI,CDN Sales Edgecast,11773257.36,GB,Edgio,YTD
+202208,TVRI,CDN Sales Edgecast,13746477.9,GB,Edgio,YTD
+202209,TVRI,CDN Sales Edgecast,15782704.08,GB,Edgio,YTD
+202210,TVRI,CDN Sales Edgecast,17979092.28,GB,Edgio,YTD
+202211,TVRI,CDN Sales Edgecast,19818731.76,GB,Edgio,YTD
+202212,TVRI,CDN Sales Edgecast,21583053.24,GB,Edgio,YTD
+202301,TVRI,CDN Sales Edgecast,2003709.6,GB,Edgio,YTD
+202302,TVRI,CDN Sales Edgecast,4389645.06,GB,Edgio,YTD
+202303,TVRI,CDN Sales Edgecast,6217508.7,GB,Edgio,YTD
+202304,TVRI,CDN Sales Edgecast,9434516.69999999,GB,Edgio,YTD
+202305,TVRI,CDN Sales Edgecast,11265638.04,GB,Edgio,YTD
+202306,TVRI,CDN Sales Edgecast,12804847.62,GB,Edgio,YTD
+202307,TVRI,CDN Sales Edgecast,14385577.5,GB,Edgio,YTD
+202308,TVRI,CDN Sales Edgecast,15736076.52,GB,Edgio,YTD
+202309,TVRI,CDN Sales Edgecast,17047267.56,GB,Edgio,YTD
+202310,TVRI,CDN Sales Edgecast,18852899.22,GB,Edgio,YTD
+202311,TVRI,CDN Sales Edgecast,20801944.98,GB,Edgio,YTD
+202312,TVRI,CDN Sales Edgecast,23354146.38,GB,Edgio,YTD
+202401,TVRI,CDN Sales Edgecast,388117.5,GB,Edgio,YTD
+202402,TVRI,CDN Sales Edgecast,505665.06,GB,Edgio,YTD
+202306,UseeTV,CDN Sales Conversant,9.814125E-06,GB,Conversant,MTD
+202209,49-RRI,CDN Sales Conversant,661.072824476625,GB,Conversant,MTD
+202106,Himedik,CDN Sales Conversant,0.00379545075,GB,Conversant,MTD
+202109,49-RRI,CDN Sales Conversant,933.72424945825,GB,Conversant,MTD
+202309,Himedik,CDN Sales Conversant,0.001267847,GB,Conversant,MTD
+202105,UseeTV,CDN Sales Conversant,2.177075E-05,GB,Conversant,MTD
+202401,Himedik,CDN Sales Conversant,0.00533630125,GB,Conversant,MTD
+202201,49-RRI,CDN Sales Conversant,459.035491436375,GB,Conversant,MTD
+202209,Himedik,CDN Sales Conversant,0.0015421685,GB,Conversant,MTD
+202301,Himedik,CDN Sales Conversant,0.001366963625,GB,Conversant,MTD
+202206,UseeTV,CDN Sales Conversant,2.9056125E-05,GB,Conversant,MTD
+202108,UseeTV,CDN Sales Conversant,2.5271625E-05,GB,Conversant,MTD
+202212,Himedik,CDN Sales Conversant,0.001969181875,GB,Conversant,MTD
+202311,UseeTV,CDN Sales Conversant,0.00095698,GB,Conversant,MTD
+202404,Himedik,CDN Sales Conversant,0.000191431875,GB,Conversant,MTD
+202304,Himedik,CDN Sales Conversant,0.001372201,GB,Conversant,MTD
+202112,Himedik,CDN Sales Conversant,0.00070587725,GB,Conversant,MTD
+202204,Himedik,CDN Sales Conversant,0.00144527625,GB,Conversant,MTD
+202206,49-RRI,CDN Sales Conversant,560.634450235125,GB,Conversant,MTD
+202203,UseeTV,CDN Sales Conversant,1.50535E-05,GB,Conversant,MTD
+202312,Himedik,CDN Sales Conversant,0.001167232125,GB,Conversant,MTD
+202211,UseeTV,CDN Sales Conversant,1.22425E-05,GB,Conversant,MTD
+202106,49-RRI,CDN Sales Conversant,999.642606274625,GB,Conversant,MTD
+202109,Himedik,CDN Sales Conversant,0.000814904875,GB,Conversant,MTD
+202201,Himedik,CDN Sales Conversant,0.000957525375,GB,Conversant,MTD
+202303,UseeTV,CDN Sales Conversant,3.5503875E-05,GB,Conversant,MTD
+202303,Himedik,CDN Sales Conversant,0.001302198375,GB,Conversant,MTD
+202403,UseeTV,CDN Sales Conversant,1.225125E-06,GB,Conversant,MTD
+202107,49-RRI,CDN Sales Conversant,1184.82130234,GB,Conversant,MTD
+202203,Himedik,CDN Sales Conversant,0.001302045125,GB,Conversant,MTD
+202108,Himedik,CDN Sales Conversant,0.000826651875,GB,Conversant,MTD
+202208,UseeTV,CDN Sales Conversant,2.027475E-05,GB,Conversant,MTD
+202311,Himedik,CDN Sales Conversant,0.006120643625,GB,Conversant,MTD
+202301,49-RRI,CDN Sales Conversant,0.008851908,GB,Conversant,MTD
+202403,Himedik,CDN Sales Conversant,0.005599364125,GB,Conversant,MTD
+202211,Himedik,CDN Sales Conversant,0.00160801725,GB,Conversant,MTD
+202308,UseeTV,CDN Sales Conversant,3.3969375E-05,GB,Conversant,MTD
+202207,49-RRI,CDN Sales Conversant,546.800469653375,GB,Conversant,MTD
+202103,UseeTV,CDN Sales Conversant,7.7745E-06,GB,Conversant,MTD
+202111,UseeTV,CDN Sales Conversant,1.3813875E-05,GB,Conversant,MTD
+202204,49-RRI,CDN Sales Conversant,593.748438223125,GB,Conversant,MTD
+202205,UseeTV,CDN Sales Conversant,2.35465E-05,GB,Conversant,MTD
+202111,Himedik,CDN Sales Conversant,0.004683035,GB,Conversant,MTD
+202112,49-RRI,CDN Sales Conversant,733.323692216125,GB,Conversant,MTD
+202104,49-RRI,CDN Sales Conversant,959.091352541875,GB,Conversant,MTD
+202305,UseeTV,CDN Sales Conversant,1.1116E-05,GB,Conversant,MTD
+202103,Himedik,CDN Sales Conversant,0.000550903875,GB,Conversant,MTD
+202306,Himedik,CDN Sales Conversant,0.001542569625,GB,Conversant,MTD
+202212,49-RRI,CDN Sales Conversant,0.160555853125,GB,Conversant,MTD
+202206,Himedik,CDN Sales Conversant,0.0009556075,GB,Conversant,MTD
+202210,UseeTV,CDN Sales Conversant,2.1882875E-05,GB,Conversant,MTD
+202202,Himedik,CDN Sales Conversant,0.0048134185,GB,Conversant,MTD
+202112,UseeTV,CDN Sales Conversant,1.6494375E-05,GB,Conversant,MTD
+202205,49-RRI,CDN Sales Conversant,609.260183905125,GB,Conversant,MTD
+202310,UseeTV,CDN Sales Conversant,6.3577E-05,GB,Conversant,MTD
+202305,Himedik,CDN Sales Conversant,0.001935155375,GB,Conversant,MTD
+202402,UseeTV,CDN Sales Conversant,4.94375E-07,GB,Conversant,MTD
+202105,49-RRI,CDN Sales Conversant,1090.90607113537,GB,Conversant,MTD
+202202,UseeTV,CDN Sales Conversant,0.00136867475,GB,Conversant,MTD
+202205,Himedik,CDN Sales Conversant,0.001338753875,GB,Conversant,MTD
+202302,UseeTV,CDN Sales Conversant,1.9913125E-05,GB,Conversant,MTD
+202110,Himedik,CDN Sales Conversant,0.001167776375,GB,Conversant,MTD
+202106,UseeTV,CDN Sales Conversant,2.2555625E-05,GB,Conversant,MTD
+202308,Himedik,CDN Sales Conversant,0.00136098375,GB,Conversant,MTD
+202307,UseeTV,CDN Sales Conversant,3.30215E-05,GB,Conversant,MTD
+202210,49-RRI,CDN Sales Conversant,377.264845797,GB,Conversant,MTD
+202208,Himedik,CDN Sales Conversant,0.001012842125,GB,Conversant,MTD
+202110,49-RRI,CDN Sales Conversant,876.384610491,GB,Conversant,MTD
+202207,UseeTV,CDN Sales Conversant,1.4460625E-05,GB,Conversant,MTD
+202109,UseeTV,CDN Sales Conversant,1.6935E-05,GB,Conversant,MTD
+202105,Himedik,CDN Sales Conversant,0.002097214,GB,Conversant,MTD
+202202,49-RRI,CDN Sales Conversant,406.517320710125,GB,Conversant,MTD
+202207,Himedik,CDN Sales Conversant,0.000898080125,GB,Conversant,MTD
+202203,49-RRI,CDN Sales Conversant,528.176056592125,GB,Conversant,MTD
+202110,UseeTV,CDN Sales Conversant,2.0281375E-05,GB,Conversant,MTD
+202103,49-RRI,CDN Sales Conversant,610.350065440375,GB,Conversant,MTD
+202204,UseeTV,CDN Sales Conversant,1.7481375E-05,GB,Conversant,MTD
+202304,UseeTV,CDN Sales Conversant,2.2153E-05,GB,Conversant,MTD
+202211,49-RRI,CDN Sales Conversant,75.783519133125,GB,Conversant,MTD
+202307,Himedik,CDN Sales Conversant,0.00122873675,GB,Conversant,MTD
+202104,Himedik,CDN Sales Conversant,0.00053319525,GB,Conversant,MTD
+202111,49-RRI,CDN Sales Conversant,877.643250065125,GB,Conversant,MTD
+202212,UseeTV,CDN Sales Conversant,7.9594E-05,GB,Conversant,MTD
+202301,UseeTV,CDN Sales Conversant,2.288075E-05,GB,Conversant,MTD
+202208,49-RRI,CDN Sales Conversant,598.664904623625,GB,Conversant,MTD
+202312,UseeTV,CDN Sales Conversant,0.000582508,GB,Conversant,MTD
+202401,UseeTV,CDN Sales Conversant,0.008521729625,GB,Conversant,MTD
+202209,UseeTV,CDN Sales Conversant,0.00029599125,GB,Conversant,MTD
+202108,49-RRI,CDN Sales Conversant,1162.98201005275,GB,Conversant,MTD
+202310,Himedik,CDN Sales Conversant,0.001621391875,GB,Conversant,MTD
+202107,Himedik,CDN Sales Conversant,0.000693237,GB,Conversant,MTD
+202111,ACI - MyBeb,CDN Sales Conversant,3.22074359225,GB,Conversant,MTD
+202402,Himedik,CDN Sales Conversant,0.00094450625,GB,Conversant,MTD
+202309,UseeTV,CDN Sales Conversant,4.073825E-05,GB,Conversant,MTD
+202210,Himedik,CDN Sales Conversant,0.001423935875,GB,Conversant,MTD
+202104,UseeTV,CDN Sales Conversant,1.7240125E-05,GB,Conversant,MTD
+202302,Himedik,CDN Sales Conversant,0.00136388225,GB,Conversant,MTD
+202107,UseeTV,CDN Sales Conversant,1.7668125E-05,GB,Conversant,MTD
+202201,UseeTV,CDN Sales Conversant,1.2269625E-05,GB,Conversant,MTD
+202103,49-RRI,CDN Sales Conversant,610.350065440375,GB,Conversant,YTD
+202104,49-RRI,CDN Sales Conversant,1569.44141798225,GB,Conversant,YTD
+202105,49-RRI,CDN Sales Conversant,2660.34748911763,GB,Conversant,YTD
+202106,49-RRI,CDN Sales Conversant,3659.99009539225,GB,Conversant,YTD
+202107,49-RRI,CDN Sales Conversant,4844.81139773225,GB,Conversant,YTD
+202108,49-RRI,CDN Sales Conversant,6007.793407785,GB,Conversant,YTD
+202109,49-RRI,CDN Sales Conversant,6941.51765724325,GB,Conversant,YTD
+202110,49-RRI,CDN Sales Conversant,7817.90226773425,GB,Conversant,YTD
+202111,49-RRI,CDN Sales Conversant,8695.54551779938,GB,Conversant,YTD
+202112,49-RRI,CDN Sales Conversant,9428.8692100155,GB,Conversant,YTD
+202201,49-RRI,CDN Sales Conversant,459.035491436375,GB,Conversant,YTD
+202202,49-RRI,CDN Sales Conversant,865.5528121465,GB,Conversant,YTD
+202203,49-RRI,CDN Sales Conversant,1393.72886873862,GB,Conversant,YTD
+202204,49-RRI,CDN Sales Conversant,1987.47730696175,GB,Conversant,YTD
+202205,49-RRI,CDN Sales Conversant,2596.73749086687,GB,Conversant,YTD
+202206,49-RRI,CDN Sales Conversant,3157.371941102,GB,Conversant,YTD
+202207,49-RRI,CDN Sales Conversant,3704.17241075537,GB,Conversant,YTD
+202208,49-RRI,CDN Sales Conversant,4302.837315379,GB,Conversant,YTD
+202209,49-RRI,CDN Sales Conversant,4963.91013985562,GB,Conversant,YTD
+202210,49-RRI,CDN Sales Conversant,5341.17498565262,GB,Conversant,YTD
+202211,49-RRI,CDN Sales Conversant,5416.95850478575,GB,Conversant,YTD
+202212,49-RRI,CDN Sales Conversant,5417.11906063887,GB,Conversant,YTD
+202301,49-RRI,CDN Sales Conversant,0.008851908,GB,Conversant,YTD
+202111,ACI - MyBeb,CDN Sales Conversant,3.22074359225,GB,Conversant,YTD
+202103,Himedik,CDN Sales Conversant,0.000550903875,GB,Conversant,YTD
+202104,Himedik,CDN Sales Conversant,0.001084099125,GB,Conversant,YTD
+202105,Himedik,CDN Sales Conversant,0.003181313125,GB,Conversant,YTD
+202106,Himedik,CDN Sales Conversant,0.006976763875,GB,Conversant,YTD
+202107,Himedik,CDN Sales Conversant,0.007670000875,GB,Conversant,YTD
+202108,Himedik,CDN Sales Conversant,0.00849665275,GB,Conversant,YTD
+202109,Himedik,CDN Sales Conversant,0.009311557625,GB,Conversant,YTD
+202110,Himedik,CDN Sales Conversant,0.010479334,GB,Conversant,YTD
+202111,Himedik,CDN Sales Conversant,0.015162369,GB,Conversant,YTD
+202112,Himedik,CDN Sales Conversant,0.01586824625,GB,Conversant,YTD
+202201,Himedik,CDN Sales Conversant,0.000957525375,GB,Conversant,YTD
+202202,Himedik,CDN Sales Conversant,0.005770943875,GB,Conversant,YTD
+202203,Himedik,CDN Sales Conversant,0.007072989,GB,Conversant,YTD
+202204,Himedik,CDN Sales Conversant,0.00851826525,GB,Conversant,YTD
+202205,Himedik,CDN Sales Conversant,0.009857019125,GB,Conversant,YTD
+202206,Himedik,CDN Sales Conversant,0.010812626625,GB,Conversant,YTD
+202207,Himedik,CDN Sales Conversant,0.01171070675,GB,Conversant,YTD
+202208,Himedik,CDN Sales Conversant,0.012723548875,GB,Conversant,YTD
+202209,Himedik,CDN Sales Conversant,0.014265717375,GB,Conversant,YTD
+202210,Himedik,CDN Sales Conversant,0.01568965325,GB,Conversant,YTD
+202211,Himedik,CDN Sales Conversant,0.0172976705,GB,Conversant,YTD
+202212,Himedik,CDN Sales Conversant,0.019266852375,GB,Conversant,YTD
+202301,Himedik,CDN Sales Conversant,0.001366963625,GB,Conversant,YTD
+202302,Himedik,CDN Sales Conversant,0.002730845875,GB,Conversant,YTD
+202303,Himedik,CDN Sales Conversant,0.00403304425,GB,Conversant,YTD
+202304,Himedik,CDN Sales Conversant,0.00540524525,GB,Conversant,YTD
+202305,Himedik,CDN Sales Conversant,0.007340400625,GB,Conversant,YTD
+202306,Himedik,CDN Sales Conversant,0.00888297025,GB,Conversant,YTD
+202307,Himedik,CDN Sales Conversant,0.010111707,GB,Conversant,YTD
+202308,Himedik,CDN Sales Conversant,0.01147269075,GB,Conversant,YTD
+202309,Himedik,CDN Sales Conversant,0.01274053775,GB,Conversant,YTD
+202310,Himedik,CDN Sales Conversant,0.014361929625,GB,Conversant,YTD
+202311,Himedik,CDN Sales Conversant,0.02048257325,GB,Conversant,YTD
+202312,Himedik,CDN Sales Conversant,0.021649805375,GB,Conversant,YTD
+202401,Himedik,CDN Sales Conversant,0.00533630125,GB,Conversant,YTD
+202402,Himedik,CDN Sales Conversant,0.0062808075,GB,Conversant,YTD
+202403,Himedik,CDN Sales Conversant,0.011880171625,GB,Conversant,YTD
+202404,Himedik,CDN Sales Conversant,0.0120716035,GB,Conversant,YTD
+202103,UseeTV,CDN Sales Conversant,7.7745E-06,GB,Conversant,YTD
+202104,UseeTV,CDN Sales Conversant,2.5014625E-05,GB,Conversant,YTD
+202105,UseeTV,CDN Sales Conversant,4.6785375E-05,GB,Conversant,YTD
+202106,UseeTV,CDN Sales Conversant,6.9341E-05,GB,Conversant,YTD
+202107,UseeTV,CDN Sales Conversant,8.7009125E-05,GB,Conversant,YTD
+202108,UseeTV,CDN Sales Conversant,0.00011228075,GB,Conversant,YTD
+202109,UseeTV,CDN Sales Conversant,0.00012921575,GB,Conversant,YTD
+202110,UseeTV,CDN Sales Conversant,0.000149497125,GB,Conversant,YTD
+202111,UseeTV,CDN Sales Conversant,0.000163311,GB,Conversant,YTD
+202112,UseeTV,CDN Sales Conversant,0.000179805375,GB,Conversant,YTD
+202201,UseeTV,CDN Sales Conversant,1.2269625E-05,GB,Conversant,YTD
+202202,UseeTV,CDN Sales Conversant,0.001380944375,GB,Conversant,YTD
+202203,UseeTV,CDN Sales Conversant,0.001395997875,GB,Conversant,YTD
+202204,UseeTV,CDN Sales Conversant,0.00141347925,GB,Conversant,YTD
+202205,UseeTV,CDN Sales Conversant,0.00143702575,GB,Conversant,YTD
+202206,UseeTV,CDN Sales Conversant,0.001466081875,GB,Conversant,YTD
+202207,UseeTV,CDN Sales Conversant,0.0014805425,GB,Conversant,YTD
+202208,UseeTV,CDN Sales Conversant,0.00150081725,GB,Conversant,YTD
+202209,UseeTV,CDN Sales Conversant,0.0017968085,GB,Conversant,YTD
+202210,UseeTV,CDN Sales Conversant,0.001818691375,GB,Conversant,YTD
+202211,UseeTV,CDN Sales Conversant,0.001830933875,GB,Conversant,YTD
+202212,UseeTV,CDN Sales Conversant,0.001910527875,GB,Conversant,YTD
+202301,UseeTV,CDN Sales Conversant,2.288075E-05,GB,Conversant,YTD
+202302,UseeTV,CDN Sales Conversant,4.2793875E-05,GB,Conversant,YTD
+202303,UseeTV,CDN Sales Conversant,7.829775E-05,GB,Conversant,YTD
+202304,UseeTV,CDN Sales Conversant,0.00010045075,GB,Conversant,YTD
+202305,UseeTV,CDN Sales Conversant,0.00011156675,GB,Conversant,YTD
+202306,UseeTV,CDN Sales Conversant,0.000121380875,GB,Conversant,YTD
+202307,UseeTV,CDN Sales Conversant,0.000154402375,GB,Conversant,YTD
+202308,UseeTV,CDN Sales Conversant,0.00018837175,GB,Conversant,YTD
+202309,UseeTV,CDN Sales Conversant,0.00022911,GB,Conversant,YTD
+202310,UseeTV,CDN Sales Conversant,0.000292687,GB,Conversant,YTD
+202311,UseeTV,CDN Sales Conversant,0.001249667,GB,Conversant,YTD
+202312,UseeTV,CDN Sales Conversant,0.001832175,GB,Conversant,YTD
+202401,UseeTV,CDN Sales Conversant,0.008521729625,GB,Conversant,YTD
+202402,UseeTV,CDN Sales Conversant,0.008522224,GB,Conversant,YTD
+202403,UseeTV,CDN Sales Conversant,0.008523449125,GB,Conversant,YTD
+202312,blibli.com,Application Protection - Akamai,82069.254,GB,Akamai,MTD
+202312,blibli.com,CDN - Web Performance,41034.627,GB,Akamai,MTD
+202312,BSSN,Application Protection - Akamai,2538.492,GB,Akamai,MTD
+202312,DPR RI,Application Protection - Akamai,10921.606,GB,Akamai,MTD
+202312,Tribunnews,CDN - Web Performance,0,GB,Akamai,MTD
+202312,Vidio.com,Application Protection - Akamai,196923.361,GB,Akamai,MTD
+202312,Vidio.com,CDN - Media Delivery,51794239.325,GB,Akamai,MTD
+202312,Vidio.com,CDN - Web Performance,0.001,GB,Akamai,MTD
+202401,blibli.com,Application Protection - Akamai,78468.474,GB,Akamai,MTD
+202401,blibli.com,CDN - Web Performance,39234.237,GB,Akamai,MTD
+202401,BSSN,Application Protection - Akamai,1550.567,GB,Akamai,MTD
+202401,DPR RI,Application Protection - Akamai,11118.089,GB,Akamai,MTD
+202401,Tribunnews,CDN - Web Performance,0,GB,Akamai,MTD
+202401,Vidio.com,Application Protection - Akamai,178932.037,GB,Akamai,MTD
+202401,Vidio.com,CDN - Media Delivery,34562547.667,GB,Akamai,MTD
+202401,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202402,blibli.com,Application Protection - Akamai,74383.728,GB,Akamai,MTD
+202402,blibli.com,CDN - Web Performance,37191.864,GB,Akamai,MTD
+202402,BSSN,Application Protection - Akamai,1626.449,GB,Akamai,MTD
+202402,DPR RI,Application Protection - Akamai,4126.109,GB,Akamai,MTD
+202402,Vidio.com,Application Protection - Akamai,157484.02,GB,Akamai,MTD
+202402,Vidio.com,CDN - Media Delivery,22602185.067,GB,Akamai,MTD
+202402,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202403,blibli.com,Application Protection - Akamai,45630.938,GB,Akamai,MTD
+202403,blibli.com,CDN - Web Performance,22815.469,GB,Akamai,MTD
+202403,BSSN,Application Protection - Akamai,1970.232,GB,Akamai,MTD
+202403,Vidio.com,Application Protection - Akamai,102730.764,GB,Akamai,MTD
+202403,Vidio.com,CDN - Media Delivery,18943963.745,GB,Akamai,MTD
+202403,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202211,blibli.com,Application Protection - Akamai,92304.822,GB,Akamai,MTD
+202211,blibli.com,CDN - Web Performance,46152.412,GB,Akamai,MTD
+202211,DPR RI,Application Protection - Akamai,8669.671,GB,Akamai,MTD
+202211,DPR RI,Others - Akamai,8669.671,GB,Akamai,MTD
+202211,Vidio.com,Application Protection - Akamai,193315.615,GB,Akamai,MTD
+202211,Vidio.com,CDN - Media Delivery,138121484.725,GB,Akamai,MTD
+202211,Vidio.com,CDN - Web Performance,0.005,GB,Akamai,MTD
+202212,blibli.com,Application Protection - Akamai,89311.658,GB,Akamai,MTD
+202212,blibli.com,CDN - Web Performance,44655.829,GB,Akamai,MTD
+202212,DPR RI,Application Protection - Akamai,6747.915,GB,Akamai,MTD
+202212,DPR RI,Others - Akamai,6747.915,GB,Akamai,MTD
+202212,Vidio.com,Application Protection - Akamai,197873.729,GB,Akamai,MTD
+202212,Vidio.com,CDN - Media Delivery,136670826.87,GB,Akamai,MTD
+202212,Vidio.com,CDN - Web Performance,0.001,GB,Akamai,MTD
+202301,blibli.com,Application Protection - Akamai,73032.452,GB,Akamai,MTD
+202301,blibli.com,CDN - Web Performance,36516.226,GB,Akamai,MTD
+202301,DPR RI,Application Protection - Akamai,5680.271,GB,Akamai,MTD
+202301,DPR RI,Others - Akamai,5680.271,GB,Akamai,MTD
+202301,Vidio.com,Application Protection - Akamai,153088.438,GB,Akamai,MTD
+202301,Vidio.com,CDN - Media Delivery,74792525.437,GB,Akamai,MTD
+202301,Vidio.com,CDN - Web Performance,0.001,GB,Akamai,MTD
+202302,blibli.com,Application Protection - Akamai,78311.012,GB,Akamai,MTD
+202302,blibli.com,CDN - Web Performance,39155.506,GB,Akamai,MTD
+202302,DPR RI,Application Protection - Akamai,5524.878,GB,Akamai,MTD
+202302,Vidio.com,Application Protection - Akamai,164125.111,GB,Akamai,MTD
+202302,Vidio.com,CDN - Media Delivery,673405.612,GB,Akamai,MTD
+202302,Vidio.com,CDN - Web Performance,0.001,GB,Akamai,MTD
+202303,blibli.com,Application Protection - Akamai,75569.792,GB,Akamai,MTD
+202303,blibli.com,CDN - Web Performance,37784.896,GB,Akamai,MTD
+202303,DPR RI,Application Protection - Akamai,4410.727,GB,Akamai,MTD
+202303,Vidio.com,Application Protection - Akamai,169420.203,GB,Akamai,MTD
+202303,Vidio.com,CDN - Media Delivery,84753743.291,GB,Akamai,MTD
+202303,Vidio.com,CDN - Web Performance,0.001,GB,Akamai,MTD
+202304,blibli.com,Application Protection - Akamai,76804.304,GB,Akamai,MTD
+202304,blibli.com,CDN - Web Performance,38402.153,GB,Akamai,MTD
+202304,DPR RI,Application Protection - Akamai,3753.414,GB,Akamai,MTD
+202304,Vidio.com,Application Protection - Akamai,155765.52,GB,Akamai,MTD
+202304,Vidio.com,CDN - Media Delivery,86008466.901,GB,Akamai,MTD
+202304,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202305,blibli.com,Application Protection - Akamai,58021.016,GB,Akamai,MTD
+202305,blibli.com,CDN - Web Performance,29010.509,GB,Akamai,MTD
+202305,DPR RI,Application Protection - Akamai,5451.756,GB,Akamai,MTD
+202305,Vidio.com,Application Protection - Akamai,144562.367,GB,Akamai,MTD
+202305,Vidio.com,CDN - Media Delivery,76459632.906,GB,Akamai,MTD
+202305,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202306,blibli.com,Application Protection - Akamai,55345.746,GB,Akamai,MTD
+202306,blibli.com,CDN - Web Performance,27672.873,GB,Akamai,MTD
+202306,DPR RI,Application Protection - Akamai,4547.529,GB,Akamai,MTD
+202306,Vidio.com,Application Protection - Akamai,135849.749,GB,Akamai,MTD
+202306,Vidio.com,CDN - Media Delivery,70454122.024,GB,Akamai,MTD
+202306,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202307,blibli.com,Application Protection - Akamai,83663.038,GB,Akamai,MTD
+202307,blibli.com,CDN - Web Performance,41831.52,GB,Akamai,MTD
+202307,DPR RI,Application Protection - Akamai,7066.782,GB,Akamai,MTD
+202307,Vidio.com,Application Protection - Akamai,139518.427,GB,Akamai,MTD
+202307,Vidio.com,CDN - Media Delivery,76108602.732,GB,Akamai,MTD
+202307,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202308,blibli.com,Application Protection - Akamai,76598.618,GB,Akamai,MTD
+202308,blibli.com,CDN - Web Performance,38299.309,GB,Akamai,MTD
+202308,BSSN,Application Protection - Akamai,1379.284,GB,Akamai,MTD
+202308,DPR RI,Application Protection - Akamai,6503.141,GB,Akamai,MTD
+202308,Vidio.com,Application Protection - Akamai,149678.323,GB,Akamai,MTD
+202308,Vidio.com,CDN - Media Delivery,74069163.685,GB,Akamai,MTD
+202308,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202309,blibli.com,Application Protection - Akamai,90497.988,GB,Akamai,MTD
+202309,blibli.com,CDN - Web Performance,45248.994,GB,Akamai,MTD
+202309,BSSN,Application Protection - Akamai,1942.26,GB,Akamai,MTD
+202309,DPR RI,Application Protection - Akamai,8039.885,GB,Akamai,MTD
+202309,Vidio.com,Application Protection - Akamai,157010.855,GB,Akamai,MTD
+202309,Vidio.com,CDN - Media Delivery,61737194.837,GB,Akamai,MTD
+202309,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202310,blibli.com,Application Protection - Akamai,86170.93,GB,Akamai,MTD
+202310,blibli.com,CDN - Web Performance,43085.465,GB,Akamai,MTD
+202310,BSSN,Application Protection - Akamai,2399.265,GB,Akamai,MTD
+202310,DPR RI,Application Protection - Akamai,10381.675,GB,Akamai,MTD
+202310,Tribunnews,CDN - Web Performance,72497.571,GB,Akamai,MTD
+202310,Vidio.com,Application Protection - Akamai,186346.061,GB,Akamai,MTD
+202310,Vidio.com,CDN - Media Delivery,47937989.55,GB,Akamai,MTD
+202310,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202311,blibli.com,Application Protection - Akamai,90822.408,GB,Akamai,MTD
+202311,blibli.com,CDN - Web Performance,45411.204,GB,Akamai,MTD
+202311,BSSN,Application Protection - Akamai,2314.524,GB,Akamai,MTD
+202311,DPR RI,Application Protection - Akamai,13224.843,GB,Akamai,MTD
+202311,Tribunnews,CDN - Web Performance,0,GB,Akamai,MTD
+202311,Vidio.com,Application Protection - Akamai,201484.764,GB,Akamai,MTD
+202311,Vidio.com,CDN - Media Delivery,52184517.063,GB,Akamai,MTD
+202311,Vidio.com,CDN - Web Performance,0,GB,Akamai,MTD
+202211,blibli.com,Application Protection - Akamai,92304.822,GB,Akamai,YTD
+202212,blibli.com,Application Protection - Akamai,181616.48,GB,Akamai,YTD
+202301,blibli.com,Application Protection - Akamai,73032.452,GB,Akamai,YTD
+202302,blibli.com,Application Protection - Akamai,151343.464,GB,Akamai,YTD
+202303,blibli.com,Application Protection - Akamai,226913.256,GB,Akamai,YTD
+202304,blibli.com,Application Protection - Akamai,303717.56,GB,Akamai,YTD
+202305,blibli.com,Application Protection - Akamai,361738.576,GB,Akamai,YTD
+202306,blibli.com,Application Protection - Akamai,417084.322,GB,Akamai,YTD
+202307,blibli.com,Application Protection - Akamai,500747.36,GB,Akamai,YTD
+202308,blibli.com,Application Protection - Akamai,577345.978,GB,Akamai,YTD
+202309,blibli.com,Application Protection - Akamai,667843.966,GB,Akamai,YTD
+202310,blibli.com,Application Protection - Akamai,754014.896,GB,Akamai,YTD
+202311,blibli.com,Application Protection - Akamai,844837.304,GB,Akamai,YTD
+202312,blibli.com,Application Protection - Akamai,926906.558,GB,Akamai,YTD
+202401,blibli.com,Application Protection - Akamai,78468.474,GB,Akamai,YTD
+202402,blibli.com,Application Protection - Akamai,152852.202,GB,Akamai,YTD
+202403,blibli.com,Application Protection - Akamai,198483.14,GB,Akamai,YTD
+202211,blibli.com,CDN - Web Performance,46152.412,GB,Akamai,YTD
+202212,blibli.com,CDN - Web Performance,90808.241,GB,Akamai,YTD
+202301,blibli.com,CDN - Web Performance,36516.226,GB,Akamai,YTD
+202302,blibli.com,CDN - Web Performance,75671.732,GB,Akamai,YTD
+202303,blibli.com,CDN - Web Performance,113456.628,GB,Akamai,YTD
+202304,blibli.com,CDN - Web Performance,151858.781,GB,Akamai,YTD
+202305,blibli.com,CDN - Web Performance,180869.29,GB,Akamai,YTD
+202306,blibli.com,CDN - Web Performance,208542.163,GB,Akamai,YTD
+202307,blibli.com,CDN - Web Performance,250373.683,GB,Akamai,YTD
+202308,blibli.com,CDN - Web Performance,288672.992,GB,Akamai,YTD
+202309,blibli.com,CDN - Web Performance,333921.986,GB,Akamai,YTD
+202310,blibli.com,CDN - Web Performance,377007.451,GB,Akamai,YTD
+202311,blibli.com,CDN - Web Performance,422418.655,GB,Akamai,YTD
+202312,blibli.com,CDN - Web Performance,463453.282,GB,Akamai,YTD
+202401,blibli.com,CDN - Web Performance,39234.237,GB,Akamai,YTD
+202402,blibli.com,CDN - Web Performance,76426.101,GB,Akamai,YTD
+202403,blibli.com,CDN - Web Performance,99241.57,GB,Akamai,YTD
+202308,BSSN,Application Protection - Akamai,1379.284,GB,Akamai,YTD
+202309,BSSN,Application Protection - Akamai,3321.544,GB,Akamai,YTD
+202310,BSSN,Application Protection - Akamai,5720.809,GB,Akamai,YTD
+202311,BSSN,Application Protection - Akamai,8035.333,GB,Akamai,YTD
+202312,BSSN,Application Protection - Akamai,10573.825,GB,Akamai,YTD
+202401,BSSN,Application Protection - Akamai,1550.567,GB,Akamai,YTD
+202402,BSSN,Application Protection - Akamai,3177.016,GB,Akamai,YTD
+202403,BSSN,Application Protection - Akamai,5147.248,GB,Akamai,YTD
+202211,DPR RI,Application Protection - Akamai,8669.671,GB,Akamai,YTD
+202212,DPR RI,Application Protection - Akamai,15417.586,GB,Akamai,YTD
+202301,DPR RI,Application Protection - Akamai,5680.271,GB,Akamai,YTD
+202302,DPR RI,Application Protection - Akamai,11205.149,GB,Akamai,YTD
+202303,DPR RI,Application Protection - Akamai,15615.876,GB,Akamai,YTD
+202304,DPR RI,Application Protection - Akamai,19369.29,GB,Akamai,YTD
+202305,DPR RI,Application Protection - Akamai,24821.046,GB,Akamai,YTD
+202306,DPR RI,Application Protection - Akamai,29368.575,GB,Akamai,YTD
+202307,DPR RI,Application Protection - Akamai,36435.357,GB,Akamai,YTD
+202308,DPR RI,Application Protection - Akamai,42938.498,GB,Akamai,YTD
+202309,DPR RI,Application Protection - Akamai,50978.383,GB,Akamai,YTD
+202310,DPR RI,Application Protection - Akamai,61360.058,GB,Akamai,YTD
+202311,DPR RI,Application Protection - Akamai,74584.901,GB,Akamai,YTD
+202312,DPR RI,Application Protection - Akamai,85506.507,GB,Akamai,YTD
+202401,DPR RI,Application Protection - Akamai,11118.089,GB,Akamai,YTD
+202402,DPR RI,Application Protection - Akamai,15244.198,GB,Akamai,YTD
+202211,DPR RI,Others - Akamai,8669.671,GB,Akamai,YTD
+202212,DPR RI,Others - Akamai,15417.586,GB,Akamai,YTD
+202301,DPR RI,Others - Akamai,5680.271,GB,Akamai,YTD
+202310,Tribunnews,CDN - Web Performance,72497.571,GB,Akamai,YTD
+202311,Tribunnews,CDN - Web Performance,72497.571,GB,Akamai,YTD
+202312,Tribunnews,CDN - Web Performance,72497.571,GB,Akamai,YTD
+202401,Tribunnews,CDN - Web Performance,0,GB,Akamai,YTD
+202211,Vidio.com,Application Protection - Akamai,193315.615,GB,Akamai,YTD
+202212,Vidio.com,Application Protection - Akamai,391189.344,GB,Akamai,YTD
+202301,Vidio.com,Application Protection - Akamai,153088.438,GB,Akamai,YTD
+202302,Vidio.com,Application Protection - Akamai,317213.549,GB,Akamai,YTD
+202303,Vidio.com,Application Protection - Akamai,486633.752,GB,Akamai,YTD
+202304,Vidio.com,Application Protection - Akamai,642399.272,GB,Akamai,YTD
+202305,Vidio.com,Application Protection - Akamai,786961.639,GB,Akamai,YTD
+202306,Vidio.com,Application Protection - Akamai,922811.388,GB,Akamai,YTD
+202307,Vidio.com,Application Protection - Akamai,1062329.815,GB,Akamai,YTD
+202308,Vidio.com,Application Protection - Akamai,1212008.138,GB,Akamai,YTD
+202309,Vidio.com,Application Protection - Akamai,1369018.993,GB,Akamai,YTD
+202310,Vidio.com,Application Protection - Akamai,1555365.054,GB,Akamai,YTD
+202311,Vidio.com,Application Protection - Akamai,1756849.818,GB,Akamai,YTD
+202312,Vidio.com,Application Protection - Akamai,1953773.179,GB,Akamai,YTD
+202401,Vidio.com,Application Protection - Akamai,178932.037,GB,Akamai,YTD
+202402,Vidio.com,Application Protection - Akamai,336416.057,GB,Akamai,YTD
+202403,Vidio.com,Application Protection - Akamai,439146.821,GB,Akamai,YTD
+202211,Vidio.com,CDN - Media Delivery,138121484.725,GB,Akamai,YTD
+202212,Vidio.com,CDN - Media Delivery,274792311.595,GB,Akamai,YTD
+202301,Vidio.com,CDN - Media Delivery,74792525.437,GB,Akamai,YTD
+202302,Vidio.com,CDN - Media Delivery,75465931.049,GB,Akamai,YTD
+202303,Vidio.com,CDN - Media Delivery,160219674.34,GB,Akamai,YTD
+202304,Vidio.com,CDN - Media Delivery,246228141.241,GB,Akamai,YTD
+202305,Vidio.com,CDN - Media Delivery,322687774.147,GB,Akamai,YTD
+202306,Vidio.com,CDN - Media Delivery,393141896.171,GB,Akamai,YTD
+202307,Vidio.com,CDN - Media Delivery,469250498.903,GB,Akamai,YTD
+202308,Vidio.com,CDN - Media Delivery,543319662.588,GB,Akamai,YTD
+202309,Vidio.com,CDN - Media Delivery,605056857.425,GB,Akamai,YTD
+202310,Vidio.com,CDN - Media Delivery,652994846.975,GB,Akamai,YTD
+202311,Vidio.com,CDN - Media Delivery,705179364.038,GB,Akamai,YTD
+202312,Vidio.com,CDN - Media Delivery,756973603.363,GB,Akamai,YTD
+202401,Vidio.com,CDN - Media Delivery,34562547.667,GB,Akamai,YTD
+202402,Vidio.com,CDN - Media Delivery,57164732.734,GB,Akamai,YTD
+202403,Vidio.com,CDN - Media Delivery,76108696.479,GB,Akamai,YTD
+202211,Vidio.com,CDN - Web Performance,0.005,GB,Akamai,YTD
+202212,Vidio.com,CDN - Web Performance,0.006,GB,Akamai,YTD
+202301,Vidio.com,CDN - Web Performance,0.001,GB,Akamai,YTD
+202302,Vidio.com,CDN - Web Performance,0.002,GB,Akamai,YTD
+202303,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202304,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202305,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202306,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202307,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202308,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202309,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202310,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202311,Vidio.com,CDN - Web Performance,0.003,GB,Akamai,YTD
+202312,Vidio.com,CDN - Web Performance,0.004,GB,Akamai,YTD
+202401,Vidio.com,CDN - Web Performance,0,GB,Akamai,YTD
+202402,Vidio.com,CDN - Web Performance,0,GB,Akamai,YTD
+202403,Vidio.com,CDN - Web Performance,0,GB,Akamai,YTD
+202009,TVRI,CDN Sales Edgecast,765751.32,GB,Edgio,MTD
+202105,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202106,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202112,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202201,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202202,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202204,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202207,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202208,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202208,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202211,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202212,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202305,TVRI,CDN Sales Edgecast,1831121.34,GB,Edgio,MTD
+202306,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202307,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202312,TVRI,CDN Sales Edgecast,2552201.4,GB,Edgio,MTD
+202401,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202401,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202004,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202009,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202101,TVRI,CDN Sales Edgecast,4602823.38,GB,Edgio,MTD
+202102,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202104,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202209,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202211,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202212,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202302,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202302,TVRI,CDN Sales Edgecast,2385935.46,GB,Edgio,MTD
+202303,TVRI,CDN Sales Edgecast,1827863.64,GB,Edgio,MTD
+202304,TVRI,CDN Sales Edgecast,3217008,GB,Edgio,MTD
+202305,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202307,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202308,TVRI,CDN Sales Edgecast,1350499.02,GB,Edgio,MTD
+202402,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202005,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202007,TVRI,CDN Sales Edgecast,1002889.5,GB,Edgio,MTD
+202103,TVRI,CDN Sales Edgecast,749669.34,GB,Edgio,MTD
+202106,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202108,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202110,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202111,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202111,TVRI,CDN Sales Edgecast,1113852,GB,Edgio,MTD
+202205,TVRI,CDN Sales Edgecast,1773789.96,GB,Edgio,MTD
+202210,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202301,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202312,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202312,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202004,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202007,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202007,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202009,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202012,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202103,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202107,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202205,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202209,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202304,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202305,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202309,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202309,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202309,TVRI,CDN Sales Edgecast,1311191.04,GB,Edgio,MTD
+202402,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202003,TVRI,CDN Sales Edgecast,810600.899999999,GB,Edgio,MTD
+202004,TVRI,CDN Sales Edgecast,2330500.32,GB,Edgio,MTD
+202008,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202105,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202106,TVRI,CDN Sales Edgecast,742646.88,GB,Edgio,MTD
+202107,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202107,TVRI,CDN Sales Edgecast,1064253.84,GB,Edgio,MTD
+202108,TVRI,CDN Sales Edgecast,918602.82,GB,Edgio,MTD
+202109,TVRI,CDN Sales Edgecast,1164856.2,GB,Edgio,MTD
+202112,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202112,TVRI,CDN Sales Edgecast,1371147,GB,Edgio,MTD
+202201,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202202,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202203,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202203,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202207,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202207,TVRI,CDN Sales Edgecast,1773389.46,GB,Edgio,MTD
+202303,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202306,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202005,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202006,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202006,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202010,Hoobex,CDN Sales Edgecast,0,GB,Edgio,MTD
+202011,TVRI,CDN Sales Edgecast,739718.16,GB,Edgio,MTD
+202102,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202104,Telin POP Monitoring,CDN Sales Edgecast,0,GB,Edgio,MTD
+202105,TVRI,CDN Sales Edgecast,784928.58,GB,Edgio,MTD
+202201,TVRI,CDN Sales Edgecast,2197671.48,GB,Edgio,MTD
+202202,TVRI,CDN Sales Edgecast,1407089.04,GB,Edgio,MTD
+202204,TVRI,CDN Sales Edgecast,1503959.1,GB,Edgio,MTD
