@@ -8,11 +8,25 @@ urlpatterns = [
         "auth/logout", AuthenticationViewSet.as_view({"post": "logout"}, name="logout")
     ),
     path(
-        "auth/users",
-        AuthenticationViewSet.as_view({"get": "user_info"}),
+        "auth/user",
+        UserViewSet.as_view({"get": "user_info"}),
         name="user-info",
     ),
-    path("auth/user/groups", AuthenticationViewSet.as_view({"get": "get_groups"}), name="role"),
+    path(
+        "auth/users",
+        UserViewSet.as_view({"get": "list"}),
+        name="user-list",
+    ),
+    path(
+        "auth/users/history",
+        UserViewSet.as_view({"get": "user_login_history"}),
+        name="user-history-list",
+    ),
+    path(
+        "auth/user/groups",
+        AuthenticationViewSet.as_view({"get": "get_groups"}),
+        name="role",
+    ),
     path(
         "auth/token/verify",
         AuthenticationViewSet.as_view({"post": "verify_token"}),

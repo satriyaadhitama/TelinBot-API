@@ -1,10 +1,11 @@
+from django.utils import timezone
+from django.db.models import Max, Case, When, BooleanField, Value, Count
+from django.db.models.functions import TruncDay
 from rest_framework import permissions, viewsets, status
-from django.contrib.auth.hashers import make_password
 from rest_framework.response import Response
 from rest_framework.decorators import action
 from rest_framework_simplejwt.tokens import RefreshToken
 from http import HTTPMethod
-from utils.jwt import decode_jwt
 from .helpers import get_user_from_jwt
 from .serializers import LoginSerializer, UserSerializer, GroupSerializer
 from .models import User
@@ -14,6 +15,7 @@ from rest_framework_simplejwt.token_blacklist.models import (
 )
 from rest_framework_simplejwt.tokens import UntypedToken
 from rest_framework_simplejwt.exceptions import InvalidToken, TokenError
+from utils.format import str_to_bool
 
 
 class AuthenticationViewSet(viewsets.ViewSet):
@@ -28,6 +30,7 @@ class AuthenticationViewSet(viewsets.ViewSet):
     def login(self, request):
         serializer = LoginSerializer(data=request.data)
         if serializer.is_valid():
+
             return Response(serializer.validated_data, status=status.HTTP_200_OK)
         else:
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
@@ -84,6 +87,91 @@ class AuthenticationViewSet(viewsets.ViewSet):
         else:
             return Response({"error": "No Auth Token Found"}, status=status.HTTP_403_OK)
 
+
+class UserViewSet(viewsets.ModelViewSet):
+    queryset = User.objects.all().order_by("created_at")
+    serializer_class = UserSerializer
+    # permission_classes = [permissions.IsAuthenticated]
+
+    @action(detail=False, methods=[HTTPMethod.GET])
+    def list(self, request):
+        is_online = request.GET.get("isOnline")
+        today = request.GET.get("today")
+        query = self.queryset
+        now = timezone.now()
+
+        if today:
+            if str_to_bool(today):
+                today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+                today_end = today_start + timezone.timedelta(days=1)
+                query = query.filter(last_login__range=(today_start, today_end))
+
+        latest_token = (
+            OutstandingToken.objects.all()
+            .values("user_id")
+            .annotate(latest_expires_at=Max("expires_at"))
+            .filter(expires_at__gt=now)
+        )
+        # Manual serialization to a list of dictionaries
+        latest_users_token = []
+        for token in latest_token:
+            latest_token = OutstandingToken.objects.filter(
+                user_id=token["user_id"], expires_at=token["latest_expires_at"]
+            ).first()  # Getting the first token that matches (there should be only one)
+
+            if latest_token:
+                latest_users_token.append(
+                    {
+                        "id": latest_token.id,
+                        "user_id": latest_token.user_id,
+                    }
+                )
+
+        online_users_id = []
+        for users_token in latest_users_token:
+            offline = BlacklistedToken.objects.filter(token_id=users_token["id"])
+            if not offline:
+                online_users_id.append(users_token["user_id"])
+
+        query = query.annotate(
+            is_online=Case(
+                When(id__in=online_users_id, then=Value(True)),
+                default=Value(False),
+                output_field=BooleanField(),
+            )
+        )
+
+        if is_online:
+            is_online_bool = str_to_bool(is_online)
+            if is_online_bool:
+                query = query.filter(is_online=True)
+            else:
+                query = query.filter(is_online=False)
+
+        page = self.paginate_queryset(query)
+        serializer = self.get_serializer(page, many=True)
+        return self.get_paginated_response(serializer.data)
+
+    @action(detail=False, methods=[HTTPMethod.GET])
+    def user_login_history(self, request):
+        filter_days = {"week": 7, "month": 30, "year": 360}
+        _filter = request.GET.get("filter")
+
+        days_before = timezone.now() - timezone.timedelta(days=filter_days[_filter])
+        login_counts_per_day = (
+            OutstandingToken.objects.filter(created_at__gte=days_before)
+            .annotate(date=TruncDay("created_at"))  # Truncate the created_at to date
+            .values("date")  # Group by date
+            .annotate(
+                value=Count("user_id", distinct=True)
+            )  # Count distinct user_ids for each date
+            .order_by("date")  # Order results by date
+        )
+        # Convert query results to a list of dictionaries (optional, depends on needs)
+        login_counts = list(login_counts_per_day)
+
+        return Response(login_counts, status=status.HTTP_200_OK)
+
     @action(detail=False, methods=[HTTPMethod.GET])
     def user_info(self, request):
         auth_header = request.META.get("HTTP_AUTHORIZATION")
@@ -108,9 +196,3 @@ class AuthenticationViewSet(viewsets.ViewSet):
             return Response(
                 {"error": "error"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
-
-
-class UserViewSet(viewsets.ModelViewSet):
-    queryset = User.objects.all().order_by("created_at")
-    serializer_class = UserSerializer
-    permission_classes = [permissions.IsAuthenticated]

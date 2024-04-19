@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     "apps.base",
     "apps.user_auth",
     "apps.services",
+    "apps.finance",
+    "apps.faq",
 ]
 
 MIDDLEWARE = [
