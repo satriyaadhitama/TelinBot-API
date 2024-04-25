@@ -20,3 +20,4 @@ class FinanceViewSet(viewsets.ModelViewSet):
             queryset = queryset.filter(year=int(year))
         serializer = self.get_serializer(queryset, many=True)
         return Response(serializer.data, status=status.HTTP_200_OK)
+

@@ -1,4 +1,4 @@
-﻿service_number,customer,date_key,amount,kurs,inner_group,subgroup,subgroup1,product,mapping_partner,type
+﻿service_number,customer_name,date_key,amount,kurs,inner_group,subgroup,subgroup1,product_name,partner,type
 E2100374,Pertamina,202111,208269000,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
 E2100374,Pertamina,202112,208269000,IDR,CDN & Security,COE,Direct Cost,CDN Sales Akamai,Akamai,YTD
 E2100394,TVRI,202101,0,IDR,CDN & Security,COE,Direct Cost,CDN Sales Edgecast,Edgio,YTD

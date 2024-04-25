@@ -5,6 +5,11 @@ from .views import AuthenticationViewSet, UserViewSet
 urlpatterns = [
     path("auth/login", AuthenticationViewSet.as_view({"post": "login"}), name="login"),
     path(
+        "auth/register",
+        AuthenticationViewSet.as_view({"post": "register"}),
+        name="register",
+    ),
+    path(
         "auth/logout", AuthenticationViewSet.as_view({"post": "logout"}, name="logout")
     ),
     path(

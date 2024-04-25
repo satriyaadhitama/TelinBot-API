@@ -19,15 +19,15 @@ class FactNewCustomerRegion(models.Model):
 
 class FactTopCDN(models.Model):
     service_number = models.CharField(max_length=255, blank=True, null=True)
-    customer = models.CharField(max_length=255, blank=True, null=True)
+    customer_name = models.CharField(max_length=255, blank=True, null=True)
     date_key = models.CharField(max_length=6)
     amount = models.FloatField(blank=True, null=True)
     kurs = models.CharField(max_length=3)
     inner_group = models.CharField(max_length=4000, blank=True, null=True)
     subgroup = models.CharField(max_length=255, blank=True, null=True)
     subgroup1 = models.CharField(max_length=255, blank=True, null=True)
-    product = models.CharField(max_length=255, blank=True, null=True)
-    mapping_partner = models.CharField(max_length=100, blank=True, null=True)
+    product_name = models.CharField(max_length=255, blank=True, null=True)
+    partner = models.CharField(max_length=100, blank=True, null=True)
     type = models.CharField(max_length=5, blank=True, null=True)
 
 
