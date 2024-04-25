@@ -7,4 +7,3 @@ python-dotenv
 phonenumbers
 Pillow
 Faker
-dotenv
