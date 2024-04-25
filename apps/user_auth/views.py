@@ -9,6 +9,7 @@ from http import HTTPMethod
 from .helpers import get_user_from_jwt
 from .serializers import LoginSerializer, UserSerializer, GroupSerializer
 from .models import User
+from django.contrib.auth.models import Group
 from rest_framework_simplejwt.token_blacklist.models import (
     BlacklistedToken,
     OutstandingToken,
@@ -38,6 +39,39 @@ class AuthenticationViewSet(viewsets.ViewSet):
     @action(
         detail=False,
         methods=[HTTPMethod.POST],
+        url_path="api/auth/register",
+        permission_classes=[permissions.AllowAny],
+    )
+    def register(self, request):
+        data = request.data
+
+        if not User.objects.filter(email=data["email"]).exists():
+            new_user = User.objects.create_user(
+                first_name=data["first_name"],
+                last_name=data["last_name"],
+                email=data["email"],
+                phone_number=data["phone_number"],
+                password=data["password"],
+                position=data["position"],
+                is_active=False,
+            )
+            # Adding group to user
+            group = Group.objects.get(name="Employee")
+            new_user.groups.add(group)
+
+            return Response(
+                {"detail": "Successfully Registered"}, status=status.HTTP_200_OK
+            )
+
+        else:
+            return Response(
+                {"detail": "Email already registered"},
+                status=status.HTTP_409_CONFLICT,
+            )
+
+    @action(
+        detail=False,
+        methods=[HTTPMethod.POST],
         url_path="api/auth/logout",
         permission_classes=[permissions.IsAuthenticated],
     )
@@ -50,7 +84,7 @@ class AuthenticationViewSet(viewsets.ViewSet):
         except Exception as e:
             return Response({"detail": str(e)}, status=status.HTTP_400_BAD_REQUEST)
 
-        return Response({"detail": "Soccessfully logout"}, status=status.HTTP_200_OK)
+        return Response({"detail": "Successfully logout"}, status=status.HTTP_200_OK)
 
     @action(detail=False, methods=[HTTPMethod.POST])
     def verify_token(self, request, *args, **kwargs):

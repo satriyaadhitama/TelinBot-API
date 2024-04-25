@@ -54,3 +54,9 @@ def random_date_before_curr_year(min_year):
     random_date = start_date + datetime.timedelta(days=random_number_of_days)
 
     return random_date.date()  # Return the date part
+
+
+def get_prev_month(year, month):
+    prev_month = month - 1 if month > 1 and month < 12 else 12
+    prev_year = year - 1 if prev_month == 12 else year
+    return prev_year, prev_month
