@@ -17,7 +17,7 @@ from rest_framework_simplejwt.token_blacklist.models import (
 from rest_framework_simplejwt.tokens import UntypedToken
 from rest_framework_simplejwt.exceptions import InvalidToken, TokenError
 from utils.format import str_to_bool
-
+from api.pagination import PagePagination
 
 class AuthenticationViewSet(viewsets.ViewSet):
     permission_classes = [permissions.AllowAny]
@@ -125,6 +125,7 @@ class AuthenticationViewSet(viewsets.ViewSet):
 class UserViewSet(viewsets.ModelViewSet):
     queryset = User.objects.all().order_by("created_at")
     serializer_class = UserSerializer
+    pagination_class = PagePagination
     # permission_classes = [permissions.IsAuthenticated]
 
     @action(detail=False, methods=[HTTPMethod.GET])

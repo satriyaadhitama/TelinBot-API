@@ -3,7 +3,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 from django.urls import include, path
 
-apps_name = ["user_auth", "services", "finance", "faq"]
+apps_name = ["user_auth", "services", "finance", "faq", "chatbot"]
 
 # Wire up our API using automatic URL routing.
 # Additionally, we include login URLs for the browsable API.

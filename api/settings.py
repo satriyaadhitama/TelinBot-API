@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     "apps.services",
     "apps.finance",
     "apps.faq",
+    "apps.chatbot",
 ]
 
 MIDDLEWARE = [
@@ -162,3 +163,7 @@ CORS_ALLOWED_ORIGINS = [
 
 MEDIA_URL = "/media/"
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")
+
+
+AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
+AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
