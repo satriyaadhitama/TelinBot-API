@@ -17,6 +17,9 @@ import logging
 logger = logging.getLogger(__name__)
 
 
+from .utils import get_bot_reply_message
+
+
 # Create your views here.
 class ChatbotViewSet(viewsets.ViewSet):
 
@@ -78,12 +81,11 @@ class ChatbotViewSet(viewsets.ViewSet):
             session = get_object_or_404(ChatSession, id=session_id)
 
             # Send new message from user
-            user_message = ChatHistory.objects.create(
-                session=session, sender=1, message=message
-            )
+            ChatHistory.objects.create(session=session, sender=1, message=message)
 
             # Generate a dummy reply message using Faker for now
-            reply_message = Faker().paragraph(nb_sentences=7)
+            # reply_message = Faker().paragraph(nb_sentences=7)
+            reply_message = get_bot_reply_message(message)
             bot_message = ChatHistory.objects.create(
                 session=session, sender=0, message=reply_message
             )
@@ -97,12 +99,6 @@ class ChatbotViewSet(viewsets.ViewSet):
                 {
                     "message": "Successfully created chat session",
                     "detail": {
-                        "send": {
-                            "id": user_message.id,
-                            "sender": user_message.sender,
-                            "message": user_message.message,
-                            "created_at": user_message.created_at,
-                        },
                         "reply": {
                             "id": bot_message.id,
                             "sender": bot_message.sender,

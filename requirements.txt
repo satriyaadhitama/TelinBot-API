@@ -10,3 +10,8 @@ Faker
 pandas
 openai
 langchain
+langchain-openai
+langchain-experimental
+tabulate
+azure-identity
+wikipedia

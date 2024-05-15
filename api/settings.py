@@ -10,10 +10,13 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
+from azure.identity import DefaultAzureCredential
 from pathlib import Path
 from datetime import timedelta
 from dotenv import load_dotenv
 import os
+
+load_dotenv()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -167,3 +170,11 @@ MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
 AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
+
+
+# Get the Azure Credential
+# credential = DefaultAzureCredential()
+# # Set the API_KEY to the token from the Azure credential
+# os.environ["OPENAI_API_KEY"] = credential.get_token(
+#     "https://cognitiveservices.azure.com/.default"
+# ).token

@@ -83,7 +83,7 @@ class Command(BaseCommand):
         
         static_path = os.path.join(settings.BASE_DIR, "static", "data")
         files = [
-            "fact_new_customer.csv",
+            "fact_new_customer_region.csv",
             "fact_top_cdn.csv",
             "fact_top_traffic.csv",
             "fact_traffic_cdn.csv",
