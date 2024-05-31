@@ -48,19 +48,18 @@ def get_bot_reply_message(prompt):
     tools = [tool]
 
     agent = create_pandas_dataframe_agent(
-        llm,
-        df,
-        extra_tools=tools,
-        verbose=False,
-        handle_parsing_errors=True
+        llm, df, extra_tools=tools, verbose=False, handle_parsing_errors=False
     )
 
     try:
         # Assuming `invoke` method returns a dictionary with 'output' key on successful execution
-        response = agent.invoke({"input": prompt})["output"]
+        response = agent.invoke({"input": prompt + "\nJawab dalam bahasa."})[
+            "output"
+        ]
         if response == "N/A":
             return "I couldn't understand your message. Please try again."
         return response
+
     except Exception as e:
         # Log the error for debugging purposes if logging is set up in your project
         # logging.error(f"Failed to get bot reply: {str(e)}")
