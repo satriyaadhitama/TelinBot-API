@@ -53,7 +53,7 @@ class AuthenticationViewSet(viewsets.ViewSet):
                 phone_number=data["phone_number"],
                 password=data["password"],
                 position=data["position"],
-                is_active=False,
+                is_active=True,
             )
             # Adding group to user
             group = Group.objects.get(name="Employee")

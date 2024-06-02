@@ -9,7 +9,7 @@ class ChatSession(models.Model):
     title = models.CharField(max_length=50)
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     created_at = models.DateTimeField(auto_now_add=True, null=True)
-    last_activity = models.DateTimeField(auto_now=True, null=True)
+    last_activity = models.DateTimeField(auto_now_add=True, null=True)
 
 
 class ChatHistory(models.Model):

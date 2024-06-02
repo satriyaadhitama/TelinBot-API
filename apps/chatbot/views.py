@@ -22,12 +22,11 @@ from .utils import get_bot_reply_message
 
 # Create your views here.
 class ChatbotViewSet(viewsets.ViewSet):
-
     @action(detail=False, methods=[HTTPMethod.GET])
     def get_all_history(self, request, user_id):
         try:
             # Attempt to retrieve chat sessions based on user_id and order by last_activity
-            sessions = ChatSession.objects.order_by("last_activity").filter(
+            sessions = ChatSession.objects.order_by("-last_activity").filter(
                 user_id=user_id
             )
             serializer = ChatSessionSerializer(sessions, many=True)
@@ -147,4 +146,53 @@ class ChatbotViewSet(viewsets.ViewSet):
             # Handle unexpected errors during the query or serialization process
             return Response(
                 {"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
+
+    @action(detail=False, methods=[HTTPMethod.PATCH])
+    def update_title(self, request, session_id):
+        try:
+            new_title = request.data.get("new_title")
+            if not new_title:
+                return Response(
+                    {"error": "The new_title field is required."},
+                    status=status.HTTP_400_BAD_REQUEST,
+                )
+
+            ChatSession.objects.filter(id=session_id).update(title=new_title)
+
+            return Response(
+                {"message": "Successfully updated chat session title"},
+                status=status.HTTP_200_OK,
+            )
+        except ChatSession.DoesNotExist:
+            return Response(
+                {"error": "Chat session not found."}, status=status.HTTP_404_NOT_FOUND
+            )
+        except Exception as e:
+            return Response(
+                {"error": f"An error occurred: {str(e)}"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            )
+
+    @action(detail=False, methods=[HTTPMethod.DELETE])
+    def delete_session(self, request, session_id=None):
+        try:
+            chat_session = get_object_or_404(ChatSession, id=session_id)
+            chat_session.delete()
+            return Response(
+                {"message": "Successfully deleted chat session"},
+                status=status.HTTP_204_NO_CONTENT,
+            )
+        except ChatSession.DoesNotExist:
+            logger.error(f"ChatSession with id: {session_id} not found.")
+            return Response(
+                {"error": "Chat session not found."}, status=status.HTTP_404_NOT_FOUND
+            )
+        except Exception as e:
+            logger.error(
+                f"An error occurred while deleting ChatSession id: {session_id}: {str(e)}"
+            )
+            return Response(
+                {"error": f"An error occurred: {str(e)}"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR,
             )

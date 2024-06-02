@@ -11,7 +11,14 @@ urlpatterns = [
     ),
     path(
         "chatbot/<str:session_id>",
-        ChatbotViewSet.as_view({"post": "send_message", "get": "get_message_history"}),
+        ChatbotViewSet.as_view(
+            {
+                "post": "send_message",
+                "get": "get_message_history",
+                "patch": "update_title",
+                "delete": "delete_session",
+            }
+        ),
         name="message-history-list",
     ),
 ]
