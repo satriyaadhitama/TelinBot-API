@@ -1,9 +1,11 @@
 from django.utils import timezone
-from django.db.models import Max, Case, When, BooleanField, Value, Count
+from django.db.models import Max, Case, When, BooleanField, Value, Count, Q
 from django.db.models.functions import TruncDay
 from rest_framework import permissions, viewsets, status
 from rest_framework.response import Response
 from rest_framework.decorators import action
+from rest_framework import generics
+from rest_framework import filters
 from rest_framework_simplejwt.tokens import RefreshToken
 from http import HTTPMethod
 from .helpers import get_user_from_jwt
@@ -18,6 +20,8 @@ from rest_framework_simplejwt.tokens import UntypedToken
 from rest_framework_simplejwt.exceptions import InvalidToken, TokenError
 from utils.format import str_to_bool
 from api.pagination import PagePagination
+from datetime import datetime, timedelta
+
 
 class AuthenticationViewSet(viewsets.ViewSet):
     permission_classes = [permissions.AllowAny]
@@ -132,6 +136,7 @@ class UserViewSet(viewsets.ModelViewSet):
     def list(self, request):
         is_online = request.GET.get("isOnline")
         today = request.GET.get("today")
+        search_query = request.GET.get("q")
         query = self.queryset
         now = timezone.now()
 
@@ -183,18 +188,44 @@ class UserViewSet(viewsets.ModelViewSet):
             else:
                 query = query.filter(is_online=False)
 
+        # Apply search functionality
+        if search_query:
+            query = query.filter(
+                Q(email__icontains=search_query)
+                | Q(first_name__icontains=search_query)
+                | Q(last_name__icontains=search_query)
+                | Q(position__icontains=search_query)
+            )
+
         page = self.paginate_queryset(query)
         serializer = self.get_serializer(page, many=True)
         return self.get_paginated_response(serializer.data)
 
     @action(detail=False, methods=[HTTPMethod.GET])
-    def user_login_history(self, request):
-        filter_days = {"week": 7, "month": 30, "year": 360}
-        _filter = request.GET.get("filter")
+    def user_login_history_range(self, request):
+        start_date = request.GET.get("startDate")
+        end_date = request.GET.get("endDate")
 
-        days_before = timezone.now() - timezone.timedelta(days=filter_days[_filter])
+        # Validate and convert the date strings to datetime objects
+        try:
+            start_date = datetime.strptime(start_date, "%Y-%m-%d")
+            end_date = datetime.strptime(end_date, "%Y-%m-%d")
+        except (ValueError, TypeError):
+            return Response(
+                {"error": "Invalid date format. Use YYYY-MM-DD."},
+                status=status.HTTP_400_BAD_REQUEST,
+            )
+
+        # Ensure the dates are timezone-aware
+        start_date = timezone.make_aware(start_date, timezone.get_current_timezone())
+        end_date = timezone.make_aware(end_date, timezone.get_current_timezone())
+        end_date = end_date + timedelta(days=1) - timedelta(seconds=1)
+
+        # Filter the queryset based on the provided dates
         login_counts_per_day = (
-            OutstandingToken.objects.filter(created_at__gte=days_before)
+            OutstandingToken.objects.filter(
+                created_at__gte=start_date, created_at__lte=end_date
+            )
             .annotate(date=TruncDay("created_at"))  # Truncate the created_at to date
             .values("date")  # Group by date
             .annotate(
@@ -202,6 +233,7 @@ class UserViewSet(viewsets.ModelViewSet):
             )  # Count distinct user_ids for each date
             .order_by("date")  # Order results by date
         )
+
         # Convert query results to a list of dictionaries (optional, depends on needs)
         login_counts = list(login_counts_per_day)
 
@@ -231,3 +263,10 @@ class UserViewSet(viewsets.ModelViewSet):
             return Response(
                 {"error": "error"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
+
+
+class UserSearchView(generics.ListAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+    filter_backends = [filters.SearchFilter]
+    search_fields = ["email", "first_name", "last_name", "position"]

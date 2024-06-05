@@ -24,7 +24,7 @@ urlpatterns = [
     ),
     path(
         "auth/users/history",
-        UserViewSet.as_view({"get": "user_login_history"}),
+        UserViewSet.as_view({"get": "user_login_history_range"}),
         name="user-history-list",
     ),
     path(
